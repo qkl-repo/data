@@ -380,7 +380,7 @@
         },
         {
             "chain": "BCH",
-            "url": "https://www.oklink.com/zh-cn/bch"
+            "url": "https://www.oklink.com/zh-cn/bch",
             "url2": [
                 "https://explorer.btc.com/bch",
                 "https://explorer.viawallet.com/bch",
