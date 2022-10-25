@@ -3,6 +3,7 @@
         "https://chainid.network/chains.json",
         "https://chainid.network/chains_mini.json"
     ],
+    "version":"20221025",
     "data": [
         {
             "name": "Ethereum Mainnet",
