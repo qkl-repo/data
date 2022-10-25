@@ -363,6 +363,7 @@
             "url": "https://explorer.btc.com/btc",
             "url2": [
                 "https://www.oklink.com/zh-cn/btc",
+                "https://explorer.viawallet.com/btc",
                 "https://blockchair.com/zh/bitcoin",
                 "https://live.blockcypher.com/btc/"
             ],
@@ -379,9 +380,13 @@
         },
         {
             "chain": "BCH",
-            "url": "https://explorer.btc.com/bch",
+            "url": "https://www.oklink.com/zh-cn/bch"
             "url2": [
-                "https://www.oklink.com/zh-cn/bch"
+                "https://explorer.btc.com/bch",
+                "https://explorer.viawallet.com/bch",
+                "https://blockchair.com/bitcoin-cash/",
+                "https://explorer.bitcoinverde.org/",
+                "https://explorer.bitcoinunlimited.info/"
             ],
             "remark": ""
         },
@@ -482,6 +487,12 @@
                 "https://blockchair.com/zh/zcash"
             ],
             "remark": ""
+        },
+        {
+            "chain":"BCHD",
+            "url":"https://explore.cash/",
+            "url2":[],
+            "remark":""
         },
         {
             "chain": "BCD",
