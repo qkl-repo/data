@@ -1,5 +1,4 @@
 {
-    "version": "20221025",
     "listData": [
         {
             "chain": "ETH/ERC20",
@@ -695,6 +694,14 @@
                 "https://cronoscan.com/"
             ],
             "remark": "crono"
+        },{
+            "chain":"REI",
+            "url":"https://scan.rei.network/",
+            "url2":[
+                "https://reiscan.com/"
+            ],
+            "remark":""
         }
-    ]
+    ],
+   "version": "20221025"
 }
