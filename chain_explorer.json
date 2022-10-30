@@ -372,9 +372,9 @@
             "chain": "LTC",
             "url":  "https://www.oklink.com/zh-cn/ltc",
             "url2": [
-                 "https://explorer.viawallet.com/ltc"
+                 "https://explorer.viawallet.com/ltc",
                 "https://explorer.btc.com/ltc",
-                "https://ltc.ihashrate.com/",
+                "https://ltc.ihashrate.com/"
             ]
         },
         {
