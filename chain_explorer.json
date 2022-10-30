@@ -47,7 +47,7 @@
                 "https://stellarchain.io/",
                 "https://blockchair.com/zh/stellar/"
             ],
-            "remark": "推荐和备用1需要翻墙，不翻墙可以右上角选择自定义网络,然后网络地址填写为主网网络代理地址 https://xlm.markabc.xyz/api"
+            "remark": "推荐和备用1需要翻墙"
         },
         {
             "chain": "FIL",
