@@ -359,10 +359,10 @@
         },
         {
             "chain": "BTC",
-            "url": "https://explorer.btc.com/btc",
+            "url":  "https://www.oklink.com/zh-cn/btc",
             "url2": [
-                "https://www.oklink.com/zh-cn/btc",
                 "https://explorer.viawallet.com/btc",
+                "https://explorer.btc.com/btc",
                 "https://blockchair.com/zh/bitcoin",
                 "https://live.blockcypher.com/btc/"
             ],
@@ -370,11 +370,11 @@
         },
         {
             "chain": "LTC",
-            "url": "https://explorer.btc.com/ltc",
+            "url":  "https://www.oklink.com/zh-cn/ltc",
             "url2": [
-                "https://www.oklink.com/zh-cn/ltc",
+                 "https://explorer.viawallet.com/ltc"
+                "https://explorer.btc.com/ltc",
                 "https://ltc.ihashrate.com/",
-                "https://explorer.viawallet.com/ltc"
             ]
         },
         {
@@ -703,5 +703,5 @@
             "remark":""
         }
     ],
-   "version": "20221025"
+   "version": "20221030"
 }
