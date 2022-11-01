@@ -701,7 +701,12 @@
                 "https://reiscan.com/"
             ],
             "remark":""
+        },{
+            "chain":"KCC",
+            "url":"https://explorer.kcc.io/cn",
+            "url2":[],
+            "remark":""
         }
     ],
-   "version": "20221030"
+   "version": "20221102"
 }
