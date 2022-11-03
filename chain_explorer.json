@@ -591,8 +591,8 @@
         },
         {
             "chain": "GRIN",
-            "url": "https://grin.blockscan.com/",
-            "url2": [],
+            "url": "https://grinexplorer.net/",
+            "url2": ["https://grin.blockscan.com/"],
             "remark": "隐私币"
         },
         {
@@ -709,5 +709,5 @@
             "remark":""
         }
     ],
-   "version": "20221102"
+   "version": "20221103"
 }
