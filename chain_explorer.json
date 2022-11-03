@@ -592,7 +592,7 @@
         {
             "chain": "GRIN",
             "url": "https://grinexplorer.net/",
-            "url2": ["https://grin.blockscan.com/"],
+            "url2": ["https://grinscan.net/","https://grin.blockscan.com/"],
             "remark": "隐私币"
         },
         {
