@@ -732,6 +732,16 @@
             "url":"https://pancakeswap.finance/swap?chainId=1",
             "url2":[],
             "remark":""
+        },{
+            "chain":"AptosSwap"
+            "url":"https://aptoswap.net/",
+            "url2":["https://aptos.pancakeswap.finance/swap"],
+            "remark":""
+        },{
+            "chain":"fxh(非小号)",
+            "url":"https://www.feixiaohaozh.info/",
+            "url2":[],
+            "remark":""
         }
     ],
    "version": "20221103"
