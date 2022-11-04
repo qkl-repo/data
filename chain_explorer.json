@@ -742,7 +742,12 @@
             "url":"https://www.feixiaohaozh.info/",
             "url2":[],
             "remark":""
+        },{
+            "chain":"SunSwap",
+            "url":"https://sunswap.com/?lang=zh-CN#/home",
+            "url2":[],
+            "remark":""
         }
     ],
-   "version": "20221103"
+   "version": "20221105"
 }
