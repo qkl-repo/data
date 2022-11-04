@@ -727,6 +727,11 @@
             "url":"https://explorer.harmony.one/",
             "url2":[],
             "remark":""
+        },{
+            "chain":"PancakeSwap",
+            "url":"https://pancakeswap.finance/swap?chainId=1",
+            "url2":[],
+            "remark":""
         }
     ],
    "version": "20221103"
