@@ -733,7 +733,7 @@
             "url2":[],
             "remark":""
         },{
-            "chain":"AptosSwap"
+            "chain":"AptosSwap",
             "url":"https://aptoswap.net/",
             "url2":["https://aptos.pancakeswap.finance/swap"],
             "remark":""
