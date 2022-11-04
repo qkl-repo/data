@@ -717,6 +717,11 @@
             "url":"https://explorer.fuse.io",
             "url2":[],
             "remark":""
+        },{
+            "chain":"XDAI",
+            "url":"https://blockscout.com/xdai/mainnet/",
+            "url2":[],
+            "remark":""
         }
     ],
    "version": "20221103"
