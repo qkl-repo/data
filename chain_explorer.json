@@ -14,9 +14,10 @@
             "chain": "TRX/TRC20",
             "url": "https://tronscan.org/#/",
             "url2": [
-                "https://www.oklink.com/zh-cn/trx/"
+                "https://www.oklink.com/zh-cn/trx/",
+                "https://tronscan.io/#/"
             ],
-            "remark": "推荐的浏览器搜索功能需要翻墙才能使用,不翻墙可以直接链接访问"
+            "remark": ""
         },
         {
             "chain": "BSC",
@@ -738,13 +739,13 @@
             "url2":["https://aptos.pancakeswap.finance/swap"],
             "remark":""
         },{
-            "chain":"fxh(非小号)",
-            "url":"https://www.feixiaohaozh.info/",
+            "chain":"SunSwap",
+            "url":"https://sunswap.com/?lang=zh-CN#/home",
             "url2":[],
             "remark":""
         },{
-            "chain":"SunSwap",
-            "url":"https://sunswap.com/?lang=zh-CN#/home",
+            "chain":"fxh(非小号)",
+            "url":"https://www.feixiaohaozh.info/",
             "url2":[],
             "remark":""
         }
