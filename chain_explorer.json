@@ -722,6 +722,11 @@
             "url":"https://blockscout.com/xdai/mainnet/",
             "url2":[],
             "remark":""
+        },{
+            "chain":"HARMONY-ONE",
+            "url":"https://explorer.harmony.one/",
+            "url2":[],
+            "remark":""
         }
     ],
    "version": "20221103"
