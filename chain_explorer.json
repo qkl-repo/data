@@ -68,7 +68,7 @@
             "chain": "BNB",
             "url": "https://explorer.bnbchain.org/",
             "url2": [],
-            "remark": "推荐的需要科学访问 "
+            "remark": ""
         },
         {
             "chain": "STX",
@@ -302,7 +302,7 @@
         {
             "chain": "ATOM",
             "url": "https://www.mintscan.io/cosmos",
-            "url2": [],
+            "url2": ["https://atomscan.com/"],
             "remark": ""
         },
         {
@@ -717,7 +717,7 @@
         },{
             "chain":"EVMOS",
             "url":"https://evm.evmos.org/",
-            "url2":[],
+            "url2":["https://www.mintscan.io/evmos"],
             "remark":""
         },{
             "chain":"FUSE",
@@ -740,7 +740,7 @@
             "url2":[],
             "remark":""
         },{
-            "chain":"BTTC",
+            "chain":"BTT",
             "url":"https://bttcscan.com/",
             "url2":[],
             "remark":""
@@ -763,23 +763,23 @@
             "chain":"PancakeSwap",
             "url":"https://pancakeswap.finance/swap?chainId=1",
             "url2":[],
-            "remark":""
+            "remark":"ETH/BSC代币兑换"
         },{
             "chain":"AptosSwap",
             "url":"https://aptoswap.net/",
             "url2":["https://aptos.pancakeswap.finance/swap"],
-            "remark":""
+            "remark":"APT代币兑换"
         },{
             "chain":"SunSwap",
             "url":"https://sunswap.com/?lang=zh-CN#/home",
             "url2":[],
-            "remark":""
+            "remark":"TRX代币兑换"
         },{
-            "chain":"FXH(非小号)",
+            "chain":"Fxh(非小号)",
             "url":"https://www.feixiaohaozh.info/",
             "url2":[],
             "remark":""
         }
     ],
-   "version": "20221106"
+   "version": "20221105"
 }
