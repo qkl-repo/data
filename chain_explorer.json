@@ -8,7 +8,7 @@
                 "https://ethplorer.io/zh/",
                 "https://etherscan.io/"
             ],
-            "remark": "https://etherscan.io/需要翻墙访问"
+            "remark": "https://etherscan.io/需要科学访问"
         },
         {
             "chain": "TRX/TRC20",
@@ -37,7 +37,7 @@
             "chain":"EVM",
             "url":"https://blockscan.com/",
             "url2":[],
-            "remark":"需要翻墙"
+            "remark":"需要科学访问"
         },
         {
             "chain": "XRP",
@@ -54,7 +54,7 @@
                 "https://stellarchain.io/",
                 "https://blockchair.com/zh/stellar/"
             ],
-            "remark": "推荐和备用1需要翻墙"
+            "remark": "推荐和备用1需要科学访问"
         },
         {
             "chain": "FIL",
@@ -68,7 +68,7 @@
             "chain": "BNB",
             "url": "https://explorer.bnbchain.org/",
             "url2": [],
-            "remark": "推荐的需要翻墙 "
+            "remark": "推荐的需要科学访问 "
         },
         {
             "chain": "STX",
@@ -173,7 +173,7 @@
                 "https://insight.vecha.in/#/main/",
                 "https://vechainstats.com/"
             ],
-            "remark":"推荐的需要翻墙"
+            "remark":"推荐的需要科学访问"
         },
         {
             "chain": "THETA",
@@ -594,7 +594,7 @@
             "chain": "QTUM",
             "url": "https://qtum.info/tx/",
             "url2": [],
-            "remark": "推荐的浏览器需要翻墙"
+            "remark": "推荐的浏览器需要科学访问"
         },
         {
             "chain": "GRIN",
@@ -781,5 +781,5 @@
             "remark":""
         }
     ],
-   "version": "20221105"
+   "version": "20221106"
 }
