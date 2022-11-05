@@ -720,12 +720,37 @@
             "remark":""
         },{
             "chain":"XDAI",
-            "url":"https://blockscout.com/xdai/mainnet/",
-            "url2":[],
+            "url":"https://gnosisscan.io/",
+            "url2":["https://blockscout.com/xdai/mainnet/"],
             "remark":""
         },{
             "chain":"HARMONY-ONE",
             "url":"https://explorer.harmony.one/",
+            "url2":[],
+            "remark":""
+        },{
+           "chain":"GLMR",
+            "url":"https://moonscan.io/",
+            "url2":[],
+            "remark:""
+        },{
+            "chain":"BTTC",
+            "url":"https://bttcscan.com/",
+            "url2":[],
+            "remark":""
+        },{
+            "chain":"CELO",
+            "url":"https://celoscan.io/",
+            "url2":[],
+            "remark":""
+        },{
+            "chain":"CLV",
+            "url":"https://clvscan.com/",
+            "url2":[],
+            "remark":""
+        },{
+            "chain":"BOBA",
+            "url":"https://bobascan.com/",
             "url2":[],
             "remark":""
         },{
@@ -744,7 +769,7 @@
             "url2":[],
             "remark":""
         },{
-            "chain":"fxh(非小号)",
+            "chain":"FXH(非小号)",
             "url":"https://www.feixiaohaozh.info/",
             "url2":[],
             "remark":""
