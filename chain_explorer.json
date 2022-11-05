@@ -34,6 +34,12 @@
             "remark": ""
         },
         {
+            "chain":"EVM",
+            "url":"https://blockscan.com/",
+            "url2":[],
+            "remark":"需要翻墙"
+        },
+        {
             "chain": "XRP",
             "url": "https://xrpscan.com/",
             "url2": [
