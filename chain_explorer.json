@@ -346,7 +346,7 @@
             "remark": ""
         },
         {
-            "chain": "POLYGON",
+            "chain": "POLYGON(MATIC)",
             "url": "https://polygonscan.com/",
             "url2": [
                 "https://www.oklink.com/zh-cn/polygon"
