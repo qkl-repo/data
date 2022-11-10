@@ -389,11 +389,11 @@
             "chain": "BCH",
             "url": "https://www.oklink.com/zh-cn/bch",
             "url2": [
-                "https://explorer.btc.com/bch",
                 "https://explorer.viawallet.com/bch",
-                "https://blockchair.com/bitcoin-cash/",
+                "https://explorer.btc.com/bch",
                 "https://explorer.bitcoinverde.org/",
-                "https://explorer.bitcoinunlimited.info/"
+                "https://explorer.bitcoinunlimited.info/",
+                "https://blockchair.com/bitcoin-cash/"
             ],
             "remark": ""
         },
@@ -458,8 +458,8 @@
             "chain": "DOGE",
             "url": "https://dogechain.info/",
             "url2": [
-                "https://blockchair.com/zh/dogecoin",
-                "https://explorer.viawallet.com/doge"
+                "https://explorer.viawallet.com/doge",
+                "https://blockchair.com/zh/dogecoin"
             ],
             "remark": ""
         },
@@ -760,6 +760,25 @@
             "url2":[],
             "remark":""
         },{
+            "chain":"XEC",
+            "url":"https://explorer.bitcoinabc.org/"，
+            "url2":[
+              "https://explorer.viawallet.com/xec",
+              "https://explorer.be.cash/blocks",
+              "https://blockchair.com/ecash/"
+            ],
+            "remark":""
+        },{
+            "chain":"FCH",
+            "url":"https://freecash.info/index",
+            "url2":["https://explorer.viawallet.com/fch"],
+            "remark":""
+        },{
+          "chain":"CET",
+          "url":"https://www.coinex.net/?lang=zh_Hans_CN",
+          "url2":[],
+          "remark":""
+        },{
             "chain":"PancakeSwap",
             "url":"https://pancakeswap.finance/swap?chainId=1",
             "url2":[],
@@ -767,7 +786,9 @@
         },{
             "chain":"AptosSwap",
             "url":"https://aptoswap.net/",
-            "url2":["https://aptos.pancakeswap.finance/swap"],
+            "url2":[
+              "https://aptos.pancakeswap.finance/swap"
+            ],
             "remark":"APT代币兑换"
         },{
             "chain":"SunSwap",
@@ -781,5 +802,5 @@
             "remark":""
         }
     ],
-   "version": "20221105"
+   "version": "20221110"
 }
