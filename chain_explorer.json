@@ -779,6 +779,11 @@
           "url2":[],
           "remark":""
         },{
+            "chain":"FON",
+            "url":"https://fonscan.io/",
+            "url2":[],
+            "remark":""
+        },{
             "chain":"PancakeSwap",
             "url":"https://pancakeswap.finance/swap?chainId=1",
             "url2":[],
