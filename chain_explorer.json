@@ -611,7 +611,7 @@
         {
             "chain": "ARBI",
             "url": "https://arbiscan.io/",
-            "url2": [],
+            "url2": ["https://www.oklink.com/zh-cn/arbitrum"],
             "remark": ""
         },
         {
