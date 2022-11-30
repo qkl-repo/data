@@ -784,6 +784,11 @@
             "url2":[],
             "remark":""
         },{
+            "chain":"NULS",
+            "url":"https://nulscan.io/",
+            "url2":[],
+            "remark":"NULS 2.0,第一个块出块时间：2019-09-11 21:44:10"
+        },{
             "chain":"PancakeSwap",
             "url":"https://pancakeswap.finance/swap?chainId=1",
             "url2":[],
