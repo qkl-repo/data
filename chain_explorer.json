@@ -118,11 +118,9 @@
         },
         {
             "chain": "PCX",
-            "url": "https://chainx.subscan.io/",
-            "url2": [
-                "https://scan.chainx.org/"
-            ],
-            "remark": ""
+            "url": "https://scan.chainx.org/",
+            "url2": [],
+            "remark": "备用地址 https://chainx.subscan.io/ 已废弃"
         },
         {
             "chain": "ACA",
@@ -783,6 +781,11 @@
             "url":"https://fonscan.io/",
             "url2":[],
             "remark":""
+        },,{
+            "chain":"MBE",
+            "url":"https://browser.mbechain.com/",
+            "url2":[],
+            "remark":""
         },{
             "chain":"NULS",
             "url":"https://nulscan.io/",
@@ -812,5 +815,5 @@
             "remark":""
         }
     ],
-   "version": "20221110"
+   "version": "20230103"
 }
