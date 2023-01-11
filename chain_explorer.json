@@ -787,6 +787,11 @@
             "url2":[],
             "remark":""
         },{
+            "chain":"BTS",
+            "url":"https://bts.ai/",
+            "url2":[],
+            "remark":"",
+        },{
             "chain":"NULS",
             "url":"https://nulscan.io/",
             "url2":[],
@@ -815,5 +820,5 @@
             "remark":""
         }
     ],
-   "version": "20230103"
+   "version": "20230112"
 }
