@@ -772,10 +772,10 @@
                 "url2":["https://explorer.viawallet.com/fch"],
                 "remark":""
             },{
-            "chain":"CET",
-            "url":"https://www.coinex.net/?lang=zh_Hans_CN",
-            "url2":[],
-            "remark":""
+                "chain":"CET",
+                "url":"https://www.coinex.net/?lang=zh_Hans_CN",
+                "url2":[],
+                "remark":""
             },{
                 "chain":"FON",
                 "url":"https://fonscan.io/",
@@ -795,6 +795,11 @@
                 "chain":"AME",
                 "url":"https://amescan.io/",
                 "url2":[],
+                "remark":""
+            },{
+                "chain":"CORE",
+                "url":"https://scan.coredao.org/",
+                "url2":"",
                 "remark":""
             },{
                 "chain":"NULS",
