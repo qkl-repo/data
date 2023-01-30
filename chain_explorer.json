@@ -178,11 +178,15 @@
                 "url": "https://explorer.thetatoken.org/",
                 "url2": [],
                 "remark": ""
-            },
-            {
-                "chain": "NEO",
+            },{
+                "chain": "NEO Legacy",
                 "url": "https://neoscan.io/",
-                "url2": [],
+                "url2": ["https://neo2.neotube.io/home","https://explorer.onegate.space/homepage"],
+                "remark": ""
+            },{
+                "chain": "NEO Legacy/NEO N3",
+                "url": "https://dora.coz.io/",
+                "url2": ["https://neo3.neotube.io/home"],
                 "remark": ""
             },
             {
