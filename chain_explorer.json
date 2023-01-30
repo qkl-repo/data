@@ -187,7 +187,7 @@
                 "chain": "NEO Legacy/NEO N3",
                 "url": "https://dora.coz.io/",
                 "url2": ["https://neo3.neotube.io/home"],
-                "remark": ""
+                "remark":"同时支持NEO Legacy网络"
             },
             {
                 "chain": "SWTC",
