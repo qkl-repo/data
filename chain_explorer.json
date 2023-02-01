@@ -728,10 +728,10 @@
             "remark": ""
         },
         {
-            "chain": "KCC",
+            "chain": "KCC(主币KCS)",
             "url": "https://explorer.kcc.io/cn",
             "url2": [],
-            "remark": ""
+            "remark": "主币币种：KCS"
         },
         {
             "chain": "EVMOS",
@@ -844,6 +844,11 @@
             "url": "https://scan.coredao.org/",
             "url2": "",
             "remark": ""
+        },{
+            "chain":"KAVA",
+            "url":"https://explorer.kava.io/",
+            "url2":"",
+            "remark":""
         },
         {
             "chain": "NULS",
@@ -878,5 +883,5 @@
             "remark": ""
         }
     ],
-    "version": "20230130"
+    "version": "20230202"
 }
