@@ -891,7 +891,7 @@
            "chain":"ChainSwap",
            "url":"https://exchange.chainswap.com/#/swap",
            "url2":[],
-           "remark:""
+           "remark":""
         },
         {
             "chain": "fxh(非小号)",
@@ -900,5 +900,5 @@
             "remark": ""
         }
     ],
-    "version": "20230206_2"
+    "version": "20230206_3"
 }
