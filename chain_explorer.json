@@ -1,6 +1,5 @@
 {
-    "listData": [
-        {
+    "listData": [{
             "chain": "ETH/ERC20",
             "url": "https://cn.etherscan.com/",
             "url2": [
@@ -678,11 +677,11 @@
             "url": "https://plcultima.info/zh",
             "url2": [],
             "remark": ""
-        },{
-            "chain":"PLCUC",
-            "url":"https://plcu-classic.info/zh",
-            "url2":[],
-            "remark":"PLCU经典"
+        }, {
+            "chain": "PLCUC",
+            "url": "https://plcu-classic.info/zh",
+            "url2": [],
+            "remark": "PLCU经典"
         },
         {
             "chain": "CMP",
@@ -719,10 +718,8 @@
         {
             "chain": "CRO",
             "url": "https://cronoscan.com/",
-            "url2": [
-                "https://cronoscan.com/"
-            ],
-            "remark": "crono"
+            "url2": [],
+            "remark": "cronos"
         },
         {
             "chain": "REI",
@@ -849,23 +846,48 @@
             "url": "https://scan.coredao.org/",
             "url2": "",
             "remark": ""
-        },{
-            "chain":"KAVA",
-            "url":"https://explorer.kava.io/",
-            "url2":"",
-            "remark":""
+        }, {
+            "chain": "KAVA",
+            "url": "https://explorer.kava.io/",
+            "url2": "",
+            "remark": ""
         },
         {
             "chain": "NULS",
             "url": "https://nulscan.io/",
             "url2": [],
             "remark": "NULS 2.0,第一个块出块时间：2019-09-11 21:44:10"
-        },
-        {
+        }, {
+            "chain": "ASM",
+            "url": "https://explorer.asm.am/",
+            "url2": [],
+            "remark": ""
+        }, {
+            "chain": "BGH",
+            "url": "https://explorer.bitcoin-classic.org/#/home",
+            "url2": [],
+            "remark": "Bitcoin Classic（比特币经典），缩写为BGH"
+        }, {
+            "chain": "TON",
+            "url": "https://tonscan.org/",
+            "url2": ["https://explorer.tonnft.tools/"],
+            "remark": ""
+        }, {
+            "chain": "RSK",
+            "url": "https://explorer.rsk.co/",
+            "url2": [],
+            "remark": ""
+        }, {
             "chain": "PancakeSwap",
             "url": "https://pancakeswap.finance/swap?chainId=1",
             "url2": [],
             "remark": "ETH/BSC代币兑换"
+        },
+        {
+            "chain": "uniswap",
+            "url": "https://app.uniswap.org/#/swap?chain=mainnet",
+            "url2": ["https://h5.bitkeep.biz/swap/?utm_source=bitkeep#/swap"],
+            "remark": "eth,polygon,optimism,arbitrum链代币兑换"
         },
         {
             "chain": "AptosSwap",
@@ -882,16 +904,34 @@
             "remark": "TRX代币兑换"
         },
         {
-            "chain":"Bitkeep Swap",
-            "url":"https://bitkeep.com/zh/swap",
-            "url2":[],
-            "remark":""
+            "chain": "Bitkeep Swap",
+            "url": "https://bitkeep.com/zh/swap",
+            "url2": [],
+            "remark": ""
         },
         {
-           "chain":"ChainSwap",
-           "url":"https://exchange.chainswap.com/#/swap",
-           "url2":[],
-           "remark":""
+            "chain": "ChainSwap",
+            "url": "https://exchange.chainswap.com/#/swap",
+            "url2": [],
+            "remark": ""
+        },
+        {
+            "chain": "rosswap",
+            "url": "https://rosswap.com/#/swap",
+            "url2": [],
+            "remark": "Fsc代币兑换"
+        },
+        {
+            "chain": "sushiswap",
+            "url": " https://sushiswap-interface-teamsushi.vercel.app/zh_CN/swap",
+            "url2": [],
+            "remark": "https://bitkeep.com/zh/swap"
+        },
+        {
+            "chain": "fstswap",
+            "url": "https://app.fstswap.exchange/?utm_source=bitkeep#/swap",
+            "url2": [],
+            "remark": "https://bitkeep.com/zh/swap"
         },
         {
             "chain": "fxh(非小号)",
@@ -900,5 +940,5 @@
             "remark": ""
         }
     ],
-    "version": "20230206_3"
+    "version": "20230206_5"
 }
