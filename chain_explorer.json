@@ -682,7 +682,7 @@
             "chain":"PLCUC",
             "url":"https://plcu-classic.info/zh",
             "url2":[],
-            "remark":"PLCUC经典"
+            "remark":"PLCU经典"
         },
         {
             "chain": "CMP",
@@ -882,11 +882,23 @@
             "remark": "TRX代币兑换"
         },
         {
-            "chain": "Fxh(非小号)",
+            "chain":"Bitkeep Swap",
+            "url":"https://bitkeep.com/zh/swap",
+            "url2":[],
+            "remark":""
+        },
+        {
+           "chain":"ChainSwap",
+           "url":"https://exchange.chainswap.com/#/swap",
+           "url2":[],
+           "remark:""
+        },
+        {
+            "chain": "fxh(非小号)",
             "url": "https://www.feixiaohaozh.info/",
             "url2": [],
             "remark": ""
         }
     ],
-    "version": "20230206"
+    "version": "20230206_2"
 }
