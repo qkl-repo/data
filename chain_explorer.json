@@ -678,6 +678,11 @@
             "url": "https://plcultima.info/zh",
             "url2": [],
             "remark": ""
+        },{
+            "chain":"PLCUC",
+            "url":"https://plcu-classic.info/zh",
+            "url2":[],
+            "remark":"PLCUC经典"
         },
         {
             "chain": "CMP",
@@ -883,5 +888,5 @@
             "remark": ""
         }
     ],
-    "version": "20230202"
+    "version": "20230206"
 }
