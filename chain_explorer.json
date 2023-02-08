@@ -882,6 +882,26 @@
             "url": "https://pancakeswap.finance/swap?chainId=1",
             "url2": [],
             "remark": "ETH/BSC代币兑换"
+        },{
+            "chain":"VELAS/VLX",
+            "url":"https://evmexplorer.velas.com/",
+            "url2":[],
+            "remark":""
+        },{
+           "chain":"TRUE",
+           "url":"https://www.truescan.network/",
+           "url2":[],
+           "remark":""
+        },{
+           "chain":"TELOS/TLOS",
+           "url":"https://www.teloscan.io/",
+           "url2":[],
+           "remark":""
+        },{
+            "chain":"CSPR",
+            "url":"https://cspr.live/",
+            "url2":"",
+            "remark":""
         },
         {
             "chain": "uniswap",
