@@ -253,12 +253,6 @@
             "remark": ""
         },
         {
-            "chain": "MOVR",
-            "url": "https://moonriver.subscan.io/",
-            "url2": [],
-            "remark": "波卡链"
-        },
-        {
             "chain": "DNA",
             "url": "https://explorer.mvsdna.com/#/",
             "url2": [],
@@ -585,8 +579,8 @@
         {
             "chain": "MOVR",
             "url": "https://moonriver.moonscan.io/",
-            "url2": [],
-            "remark": "MOVR-EVM链,EVM链交易也可以在MOVR-波卡链上查询,两个链地址、余额是同步的"
+            "url2": ["https://moonriver.subscan.io/"],
+            "remark": "MOV有两个链，一个evm类型的,一个波卡网络,EVM类型得到交易也可以在MOVR-波卡链上查询,两个链地址、余额是同步的"
         },
         {
             "chain": "HC",
@@ -766,8 +760,8 @@
         {
             "chain": "GLMR",
             "url": "https://moonscan.io/",
-            "url2": [],
-            "remark": ""
+            "url2": ["https://moonbeam.subscan.io/"],
+            "remark": "GLMR有两个链，一个evm类型的,一个波卡网络,EVM类型得到交易也可以在GLMR-波卡链上查询,两个链地址、余额是同步的"
         },
         {
             "chain": "BTT",
@@ -960,5 +954,5 @@
             "remark": ""
         }
     ],
-    "version": "20230206_5"
+    "version": "20230209"
 }
