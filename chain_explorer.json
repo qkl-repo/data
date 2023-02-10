@@ -138,6 +138,11 @@
             "url": "https://shiden.subscan.io/",
             "url2": [],
             "remark": ""
+        },{
+            "chain":"XX",
+            "url":"https://explorer.xx.network/",
+            "url2":["https://xxscan.io/"],
+            "remark":""
         },
         {
             "chain": "EOS",
@@ -954,5 +959,5 @@
             "remark": ""
         }
     ],
-    "version": "20230209"
+    "version": "20230210"
 }
