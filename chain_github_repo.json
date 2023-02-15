@@ -190,5 +190,10 @@
   },
   "MINA": {
       "github": "https://github.com/MinaProtocol/mina/releases"
+  },
+  "AR":{
+    "fxh":"https://www.feixiaohao.com/currencies/arweave/",
+    "web":"https://www.arweave.org/",
+    "github","https://github.com/ArweaveTeam/arweave"
   }
 }
