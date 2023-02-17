@@ -612,7 +612,7 @@
                 "https://grinscan.net/",
                 "https://grin.blockscan.com/"
             ],
-            "remark": "隐私币"
+            "remark": "隐私币，可以通过https://grinchck.uber.space/网站检查钱包是否在线"
         },
         {
             "chain": "CHZ",
@@ -771,7 +771,7 @@
         {
             "chain": "BTT",
             "url": "https://bttcscan.com/",
-            "url2": [],
+            "url2": ["https://scan.bt.io/"],
             "remark": ""
         },
         {
