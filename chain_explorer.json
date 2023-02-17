@@ -528,8 +528,9 @@
             "url2": [
                 "https://explorer.viawallet.com/bsv",
                 "https://blockchair.com/bitcoin-sv/"
+                "https://bchsvexplorer.com/"
             ],
-            "remark": ""
+            "remark": "https://bchsvexplorer.com/api/v2/address/{address}?details=basic"
         },
         {
             "chain": "ICP",
@@ -959,5 +960,5 @@
             "remark": ""
         }
     ],
-    "version": "20230210"
+    "version": "20230217"
 }
