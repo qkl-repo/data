@@ -527,7 +527,7 @@
             "url": "https://www.whatsonchain.com/",
             "url2": [
                 "https://explorer.viawallet.com/bsv",
-                "https://blockchair.com/bitcoin-sv/"
+                "https://blockchair.com/bitcoin-sv/",
                 "https://bchsvexplorer.com/"
             ],
             "remark": "https://bchsvexplorer.com/api/v2/address/{address}?details=basic"
@@ -960,5 +960,5 @@
             "remark": ""
         }
     ],
-    "version": "20230217"
+    "version": "20230218"
 }
