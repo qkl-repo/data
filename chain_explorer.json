@@ -878,6 +878,11 @@
             "url2": [],
             "remark": ""
         }, {
+            "chain":"EGLD",
+            "url":"https://explorer.multiversx.com/",
+            "url2":[],
+            "remark":""
+        },{
             "chain": "PancakeSwap",
             "url": "https://pancakeswap.finance/swap?chainId=1",
             "url2": [],
