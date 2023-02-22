@@ -907,6 +907,11 @@
             "url":"https://cspr.live/",
             "url2":"",
             "remark":""
+        },{
+            "chain":"UMEE",
+            "url":"https://www.mintscan.io/umee",
+            "url2":["https://atomscan.com/umee"],
+            "remark":""
         },
         {
             "chain": "uniswap",
@@ -965,5 +970,5 @@
             "remark": ""
         }
     ],
-    "version": "20230218"
+    "version": "20230222"
 }
