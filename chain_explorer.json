@@ -883,6 +883,11 @@
             "url2":[],
             "remark":""
         },{
+            "chain":"KLAY",
+            "url":"https://scope.klaytn.com/",
+            "url2":"https://explorer.bitquery.io/zh/klaytn",
+            "remark":""
+        },{
             "chain": "PancakeSwap",
             "url": "https://pancakeswap.finance/swap?chainId=1",
             "url2": [],
@@ -970,5 +975,5 @@
             "remark": ""
         }
     ],
-    "version": "20230222"
+    "version": "20230223"
 }
