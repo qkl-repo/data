@@ -24,13 +24,13 @@
             "url2": [
                 "https://www.oklink.com/zh-cn/bsc/"
             ],
-            "remark": ""
+            "remark": "evm系列"
         },
         {
             "chain": "HECO",
             "url": "https://www.hecoinfo.com/en-us/",
             "url2": [],
-            "remark": ""
+            "remark": "evm系列"
         },
         {
             "chain": "EVM",
@@ -87,7 +87,7 @@
             "url2": [
                 "https://explorer.polkascan.io/polkadot/transaction"
             ],
-            "remark": ""
+            "remark": "波卡系列"
         },
         {
             "chain": "KSM",
@@ -95,54 +95,54 @@
             "url2": [
                 "https://explorer.polkascan.io/kusama/transaction"
             ],
-            "remark": ""
+            "remark": "波卡系列"
         },
         {
             "chain": "FIS",
             "url": "https://stafi.subscan.io/",
             "url2": [],
-            "remark": ""
+            "remark": "波卡系列"
         },
         {
             "chain": "EDG",
             "url": "https://edgeware.subscan.io/",
             "url2": [],
-            "remark": ""
+            "remark": "波卡系列"
         },
         {
             "chain": "DOCK",
             "url": "https://dock.subscan.io/",
             "url2": [],
-            "remark": ""
+            "remark": "波卡系列"
         },
         {
             "chain": "PCX",
             "url": "https://scan.chainx.org/",
-            "url2": [],
-            "remark": "备用地址 https://chainx.subscan.io/ 已废弃"
+            "url2": ["https://chainx.subscan.io/"],
+            "remark": "波卡系列，备用地址 https://chainx.subscan.io/ 已废弃"
         },
         {
             "chain": "ACA",
             "url": "https://acala.subscan.io/",
             "url2": [],
-            "remark": ""
+            "remark": "波卡系列"
         },
         {
             "chain": "ASTR",
             "url": "https://astar.subscan.io/",
             "url2": [],
-            "remark": ""
+            "remark": "波卡系列"
         },
         {
             "chain": "SDN",
             "url": "https://shiden.subscan.io/",
             "url2": [],
-            "remark": ""
+            "remark": "波卡系列"
         },{
             "chain":"XX",
             "url":"https://explorer.xx.network/",
             "url2":["https://xxscan.io/"],
-            "remark":""
+            "remark":"evm系列"
         },
         {
             "chain": "EOS",
@@ -267,13 +267,13 @@
             "chain": "MOAC",
             "url": "https://explorer.moac.io/home",
             "url2": [],
-            "remark": ""
+            "remark": "evm系列"
         },
         {
             "chain": "CTXC",
             "url": "https://cerebro.cortexlabs.ai/",
             "url2": [],
-            "remark": ""
+            "remark": "evm系列"
         },
         {
             "chain": "CKB",
@@ -304,7 +304,7 @@
                 "https://www.oklink.com/zh-cn/avax",
                 "https://avascan.info/blockchain/c/home"
             ],
-            "remark": ""
+            "remark": "evm系列"
         },
         {
             "chain": "ATOM",
@@ -352,7 +352,7 @@
             "chain": "LAT",
             "url": "https://scan.platon.network/",
             "url2": [],
-            "remark": ""
+            "remark": "evm系列"
         },
         {
             "chain": "MINA",
@@ -366,13 +366,13 @@
             "url2": [
                 "https://www.oklink.com/zh-cn/polygon"
             ],
-            "remark": ""
+            "remark": "evm系列"
         },
         {
             "chain": "OKC(OKT,OKX,OKEX,欧易)",
             "url": "https://www.oklink.com/zh-cn/okc",
             "url2": [],
-            "remark": ""
+            "remark": "evm系列"
         },
         {
             "chain": "BTC",
@@ -410,7 +410,7 @@
             "chain": "ETHW",
             "url": "https://www.oklink.com/zh-cn/ethw",
             "url2": [],
-            "remark": ""
+            "remark": "evm系列"
         },
         {
             "chain": "SOL",
@@ -428,7 +428,7 @@
             "url2": [
                 "https://www.oklink.com/zh-cn/optimism"
             ],
-            "remark": ""
+            "remark": "evm系列，以太坊二层网络"
         },
         {
             "chain": "FTM",
@@ -437,7 +437,7 @@
                 "https://www.oklink.com/zh-cn/ftm",
                 "https://explorer.fantom.network/"
             ],
-            "remark": ""
+            "remark": "evm系列"
         },
         {
             "chain": "USDT-OMNI",
@@ -453,7 +453,7 @@
             "url2": [
                 "https://www.oklink.com/zh-cn/etc"
             ],
-            "remark": ""
+            "remark": "evm系列"
         },
         {
             "chain": "DASH",
@@ -542,13 +542,13 @@
             "chain": "SMARTBCH",
             "url": "https://www.smartscan.cash/",
             "url2": [],
-            "remark": ""
+            "remark": "evm系列"
         },
         {
             "chain": "XDC",
             "url": "https://explorer.xinfin.network/",
             "url2": [],
-            "remark": ""
+            "remark": "evm系列"
         },
         {
             "chain": "POKT",
@@ -568,7 +568,7 @@
             "chain": "RON",
             "url": "https://explorer.roninchain.com/",
             "url2": [],
-            "remark": ""
+            "remark": "evm系列"
         },
         {
             "chain": "TERRA-LUNA",
@@ -586,7 +586,7 @@
             "chain": "MOVR",
             "url": "https://moonriver.moonscan.io/",
             "url2": ["https://moonriver.subscan.io/"],
-            "remark": "MOV有两个链，一个evm类型的,一个波卡网络,EVM类型得到交易也可以在MOVR-波卡链上查询,两个链地址、余额是同步的"
+            "remark": "波卡和evm系列，MOV有两个链，一个evm类型的,一个波卡网络,EVM类型得到交易也可以在MOVR-波卡链上查询,两个链地址、余额是同步的"
         },
         {
             "chain": "HC",
@@ -627,13 +627,13 @@
             "url2": [
                 "https://www.oklink.com/zh-cn/arbitrum"
             ],
-            "remark": ""
+            "remark": "evm系列,以太坊二层网络"
         },
         {
             "chain": "AURORA",
             "url": "https://aurorascan.dev/",
             "url2": [],
-            "remark": ""
+            "remark": "evm系列"
         },
         {
             "chain": "XTZ",
@@ -687,7 +687,7 @@
             "chain": "CMP",
             "url": "https://mainnet.scan.caduceus.foundation/",
             "url2": [],
-            "remark": ""
+            "remark": "evm系列"
         },
         {
             "chain": "BCHA",
@@ -699,13 +699,13 @@
             "chain": "HOO",
             "url": "https://hooscan.com/",
             "url2": [],
-            "remark": ""
+            "remark": "evm系列"
         },
         {
             "chain": "FIO",
             "url": "https://fio.bloks.io/",
             "url2": [],
-            "remark": ""
+            "remark": "evm系列"
         },
         {
             "chain": "APT",
@@ -716,10 +716,10 @@
             "remark": "Aptos"
         },
         {
-            "chain": "CRO",
+            "chain": "CRO（cronos）",
             "url": "https://cronoscan.com/",
             "url2": [],
-            "remark": "cronos"
+            "remark": "evm系列"
         },
         {
             "chain": "REI",
@@ -727,13 +727,13 @@
             "url2": [
                 "https://reiscan.com/"
             ],
-            "remark": ""
+            "remark": "evm系列"
         },
         {
             "chain": "KCC(主币KCS)",
             "url": "https://explorer.kcc.io/cn",
             "url2": [],
-            "remark": "主币币种：KCS"
+            "remark": "evm系列，主币币种：KCS"
         },
         {
             "chain": "EVMOS",
@@ -741,13 +741,13 @@
             "url2": [
                 "https://www.mintscan.io/evmos"
             ],
-            "remark": ""
+            "remark": "evm系列"
         },
         {
             "chain": "FUSE",
             "url": "https://explorer.fuse.io",
             "url2": [],
-            "remark": ""
+            "remark": "evm系列"
         },
         {
             "chain": "XDAI",
@@ -767,25 +767,25 @@
             "chain": "GLMR",
             "url": "https://moonscan.io/",
             "url2": ["https://moonbeam.subscan.io/"],
-            "remark": "GLMR有两个链，一个evm类型的,一个波卡网络,EVM类型得到交易也可以在GLMR-波卡链上查询,两个链地址、余额是同步的"
+            "remark": "波卡evm系列，GLMR有两个链，一个evm类型的,一个波卡网络,EVM类型得到交易也可以在GLMR-波卡链上查询,两个链地址、余额是同步的"
         },
         {
             "chain": "BTT",
             "url": "https://bttcscan.com/",
             "url2": ["https://scan.bt.io/"],
-            "remark": ""
+            "remark": "evm系列"
         },
         {
             "chain": "CELO",
             "url": "https://celoscan.io/",
             "url2": [],
-            "remark": ""
+            "remark": "evm系列"
         },
         {
             "chain": "CLV",
             "url": "https://clvscan.com/",
             "url2": [],
-            "remark": ""
+            "remark": "evm系列"
         },
         {
             "chain": "BOBA",
@@ -821,13 +821,13 @@
             "chain": "FON",
             "url": "https://fonscan.io/",
             "url2": [],
-            "remark": ""
+            "remark": "evm系列"
         },
         {
             "chain": "MBE",
             "url": "https://browser.mbechain.com/",
             "url2": [],
-            "remark": ""
+            "remark": "evm系列"
         },
         {
             "chain": "BTS",
@@ -839,23 +839,23 @@
             "chain": "AME",
             "url": "https://amescan.io/",
             "url2": [],
-            "remark": ""
+            "remark": "evm系列"
         },
         {
             "chain": "CORE",
             "url": "https://scan.coredao.org/",
             "url2": [],
-            "remark": ""
+            "remark": "evm系列"
         }, {
             "chain":"WEMIX",
             "url":"https://explorer.wemix.com/",
             "url2":[],
-            "remark":""
+            "remark":"evm系列"
         },{
             "chain": "KAVA",
             "url": "https://explorer.kava.io/",
             "url2": "",
-            "remark": ""
+            "remark": "evm系列"
         },
         {
             "chain": "NULS",
@@ -881,7 +881,7 @@
             "chain": "RSK",
             "url": "https://explorer.rsk.co/",
             "url2": [],
-            "remark": ""
+            "remark": "evm系列"
         }, {
             "chain":"EGLD",
             "url":"https://explorer.multiversx.com/",
