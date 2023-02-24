@@ -844,9 +844,14 @@
         {
             "chain": "CORE",
             "url": "https://scan.coredao.org/",
-            "url2": "",
+            "url2": [],
             "remark": ""
         }, {
+            "chain":"WEMIX",
+            "url":"https://explorer.wemix.com/",
+            "url2":[],
+            "remark":""
+        },{
             "chain": "KAVA",
             "url": "https://explorer.kava.io/",
             "url2": "",
@@ -975,5 +980,5 @@
             "remark": ""
         }
     ],
-    "version": "20230223"
+    "version": "20230224"
 }
