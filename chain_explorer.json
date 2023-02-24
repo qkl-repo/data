@@ -854,7 +854,7 @@
         },{
             "chain": "KAVA",
             "url": "https://explorer.kava.io/",
-            "url2": "",
+            "url2": [],
             "remark": "evm系列"
         },
         {
@@ -890,7 +890,7 @@
         },{
             "chain":"KLAY",
             "url":"https://scope.klaytn.com/",
-            "url2":"https://explorer.bitquery.io/zh/klaytn",
+            "url2":["https://explorer.bitquery.io/zh/klaytn"],
             "remark":""
         },{
             "chain": "PancakeSwap",
@@ -915,7 +915,7 @@
         },{
             "chain":"CSPR",
             "url":"https://cspr.live/",
-            "url2":"",
+            "url2":[],
             "remark":""
         },{
             "chain":"UMEE",
@@ -980,5 +980,5 @@
             "remark": ""
         }
     ],
-    "version": "20230224"
+    "version": "20230224_3"
 }
