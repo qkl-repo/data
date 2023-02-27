@@ -856,6 +856,11 @@
             "url": "https://explorer.kava.io/",
             "url2": [],
             "remark": "evm系列"
+        },{
+            "chain":"CFX",
+            "url":"https://www.confluxscan.io/",
+            "url2":[],
+            "remark":""
         },
         {
             "chain": "NULS",
@@ -980,5 +985,5 @@
             "remark": ""
         }
     ],
-    "version": "20230224_3"
+    "version": "20230228"
 }
