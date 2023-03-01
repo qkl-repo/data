@@ -4,10 +4,11 @@
             "url": "https://cn.etherscan.com/",
             "url2": [
                 "https://www.oklink.com/zh-cn/eth/",
+                "https://block.info/explorer/eth/",
                 "https://ethplorer.io/zh/",
                 "https://etherscan.io/"
             ],
-            "remark": "https://etherscan.io/需要科学访问"
+            "remark": "evm系列"
         },
         {
             "chain": "TRX/TRC20",
@@ -378,6 +379,7 @@
             "chain": "BTC",
             "url": "https://www.oklink.com/zh-cn/btc",
             "url2": [
+                "https://block.info/explorer/btc/",
                 "https://explorer.viawallet.com/btc",
                 "https://explorer.btc.com/btc",
                 "https://blockchair.com/zh/bitcoin",
@@ -443,6 +445,7 @@
             "chain": "USDT-OMNI",
             "url": "https://www.oklink.com/zh-cn/usdt",
             "url2": [
+                "https://block.info/explorer/usdt/",
                 "https://www.omniexplorer.info/asset/31"
             ],
             "remark": ""
@@ -700,6 +703,11 @@
             "url": "https://hooscan.com/",
             "url2": [],
             "remark": "evm系列"
+        },{
+            "chain":"GATE",
+            "url": "https://gatescan.org/?lang=zh_CN",
+            "url2":[],
+            "remark":"evm系列"
         },
         {
             "chain": "FIO",
@@ -985,5 +993,5 @@
             "remark": ""
         }
     ],
-    "version": "20230228"
+    "version": "20230301"
 }
