@@ -380,7 +380,7 @@
       "chain": "BTC",
       "url": "https://www.oklink.com/zh-cn/btc",
       "url2": [
-        https: //bitcoinblockexplorers.com/
+        "https://bitcoinblockexplorers.com/",
         "https://block.info/explorer/btc/",
         "https://explorer.viawallet.com/btc",
         "https://explorer.btc.com/btc",
@@ -623,7 +623,7 @@
     {
       "chain": "QTUM",
       "url": "https://qtum.info/tx/",
-      "url2": ["https://qtumblockexplorer.com/", ],
+      "url2": ["https://qtumblockexplorer.com/"],
       "remark": "推荐的浏览器需要科学访问"
     },
     {
@@ -1010,6 +1010,5 @@
       "remark": ""
     }
   ],
-
-  "version": "20230313"
+  "version": "20230313-2"
 }
