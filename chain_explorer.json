@@ -952,6 +952,11 @@
       "url": "https://www.mintscan.io/umee",
       "url2": ["https://atomscan.com/umee"],
       "remark": ""
+    },{
+      "chain":"VS",
+      "url":"https://www.visionscan.org/",
+      "url2":[],
+      "remark":""
     },
     {
       "chain": "uniswap",
@@ -1010,5 +1015,5 @@
       "remark": ""
     }
   ],
-  "version": "20230313-2"
+  "version": "20230315"
 }
