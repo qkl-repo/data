@@ -879,7 +879,7 @@
     }, {
       "chain":"ETHG",
       "url":"https://etherumgold.me/explorer/",
-      "url2": ["https://ethg.markabc.xyz"],
+      "url2": [],
       "remark":""
     },{
       "chain": "KAVA",
