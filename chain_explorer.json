@@ -877,6 +877,11 @@
       "url2": [],
       "remark": "evm系列"
     }, {
+      "chain":"ETHG",
+      "url":"https://etherumgold.me/explorer/",
+      "url2": ["https://ethg.markabc.xyz"],
+      "remark":""
+    },{
       "chain": "KAVA",
       "url": "https://explorer.kava.io/",
       "url2": [],
@@ -1015,5 +1020,5 @@
       "remark": ""
     }
   ],
-  "version": "20230315"
+  "version": "20230315-2"
 }
