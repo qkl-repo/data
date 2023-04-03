@@ -611,8 +611,8 @@
     {
       "chain": "HC",
       "url": "https://hc-explorer.h.cash/",
-      "url2": [],
-      "remark": "如果Chrome浏览器打开提示证书问题,请使用Firefox或Safiri浏览器打开"
+      "url2": ["https://hc.tokenview.io/cn/"],
+      "remark": "如果Chrome浏览器打开提示证书问题,请使用Firefox或Safiri浏览器打开 <br />备用1:tokenview需要科学访问"
     },
     {
       "chain": "QTC",
