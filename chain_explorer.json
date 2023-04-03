@@ -882,6 +882,11 @@
       "url2": [],
       "remark":""
     },{
+      "chain":"ZKSERA(ZkSync Era)",
+      "url":"https://explorer.zksync.io/",
+      "url2":["https://www.oklink.com/cn/zksync"],
+      "remark":""
+    },{
       "chain": "KAVA",
       "url": "https://explorer.kava.io/",
       "url2": [],
@@ -1020,5 +1025,5 @@
       "remark": ""
     }
   ],
-  "version": "20230315-2"
+  "version": "20230403"
 }
