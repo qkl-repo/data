@@ -880,7 +880,7 @@
       "chain":"ETHG",
       "url":"https://etherumgold.me/explorer/",
       "url2": [],
-      "remark":""
+      "remark":"evm系列"
     },{
       "chain":"ZKSERA(ZkSync Era)",
       "url":"https://explorer.zksync.io/",
@@ -890,7 +890,7 @@
       "chain":"GDCC",
       "url":"https://www.gdccscan.io/",
       "url2":[],
-      "remark":""
+      "remark":"evm系列"
     },{
       "chain": "KAVA",
       "url": "https://explorer.kava.io/",
