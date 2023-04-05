@@ -887,6 +887,11 @@
       "url2":["https://www.oklink.com/cn/zksync"],
       "remark":""
     },{
+      "chain":"GDCC",
+      "url":"https://www.gdccscan.io/",
+      "url2":[],
+      "remark":""
+    },{
       "chain": "KAVA",
       "url": "https://explorer.kava.io/",
       "url2": [],
