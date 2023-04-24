@@ -972,6 +972,11 @@
       "url":"https://www.visionscan.org/",
       "url2":[],
       "remark":""
+    },{
+      "chain":"BRISR",
+      "url":"https://brisescan.com/",
+      "url2":[],
+      "remark":"BRISR主链（EVM类型）"
     },
     {
       "chain": "uniswap",
@@ -1030,5 +1035,5 @@
       "remark": ""
     }
   ],
-  "version": "20230403"
+  "version": "20230424"
 }
