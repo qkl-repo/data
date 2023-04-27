@@ -878,7 +878,7 @@
       "remark": "evm系列"
     }, {
       "chain":"ETHG",
-      "url":"https://etherumgold.me/explorer/",
+      "url":"https://www.etherumgold.me/explorer/",
       "url2": [],
       "remark":"evm系列"
     },{
@@ -1035,5 +1035,5 @@
       "remark": ""
     }
   ],
-  "version": "20230424"
+  "version": "20230427"
 }
