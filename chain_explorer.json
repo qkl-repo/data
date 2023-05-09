@@ -885,7 +885,7 @@
       "chain":"ZKSERA(ZkSync Era)",
       "url":"https://explorer.zksync.io/",
       "url2":["https://www.oklink.com/cn/zksync"],
-      "remark":""
+      "remark":"evm系列，查询合约信息 https://zksync2-mainnet.zkscan.io/api?module=account&action=tokenlist&address=合约地址"
     },{
       "chain":"GDCC",
       "url":"https://www.gdccscan.io/",
@@ -1033,6 +1033,14 @@
       "url": "https://www.feixiaohaozh.info/",
       "url2": [],
       "remark": ""
+    },{
+      "chain":"Chainlist",
+      "url":"https://chainlist.org/zh",
+      "url2":[
+         "https://chainlist.tokenpocket.pro/?from=extension",
+         "https://chainlist.org/zh"
+      ],
+      "remark":"evm系列币种链信息查询"
     }
   ],
   "version": "20230427"
