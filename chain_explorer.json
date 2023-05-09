@@ -1027,6 +1027,11 @@
       "url": "https://app.fstswap.exchange/?utm_source=bitkeep#/swap",
       "url2": [],
       "remark": "https://bitkeep.com/zh/swap"
+    },{
+      "chain":"SyncSwap",
+      "url":"https://syncswap.xyz/swap",
+      "url2":[],
+      "remark":""
     },
     {
       "chain": "fxh(非小号)",
@@ -1043,5 +1048,5 @@
       "remark":"evm系列币种链信息查询"
     }
   ],
-  "version": "20230427"
+  "version": "20230509"
 }
