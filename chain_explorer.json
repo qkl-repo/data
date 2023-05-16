@@ -1032,6 +1032,11 @@
       "url":"https://syncswap.xyz/swap",
       "url2":[],
       "remark":""
+    },{
+      "chain":"1Inch",
+      "url":"https://app.1inch.io/#/1/classic/swap/",
+      "url2":[],
+      "remark":""
     },
     {
       "chain": "fxh(非小号)",
@@ -1048,5 +1053,5 @@
       "remark":"evm系列币种链信息查询"
     }
   ],
-  "version": "20230509"
+  "version": "20230516"
 }
