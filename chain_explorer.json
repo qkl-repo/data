@@ -877,21 +877,34 @@
       "url2": [],
       "remark": "evm系列"
     }, {
-      "chain":"ETHG",
-      "url":"https://www.etherumgold.me/explorer/",
+      "chain": "ETHG",
+      "url": "https://www.etherumgold.me/explorer/",
       "url2": [],
-      "remark":"evm系列"
-    },{
-      "chain":"ZKSERA(ZkSync Era)",
-      "url":"https://explorer.zksync.io/",
-      "url2":["https://www.oklink.com/cn/zksync"],
-      "remark":"evm系列，查询合约信息 https://zksync2-mainnet.zkscan.io/api?module=account&action=tokenlist&address=合约地址"
-    },{
-      "chain":"GDCC",
-      "url":"https://www.gdccscan.io/",
-      "url2":[],
-      "remark":"evm系列"
-    },{
+      "remark": "evm系列"
+    }, {
+      "chain": "ZKSERA(ZkSync Era)",
+      "url": "https://explorer.zksync.io/",
+      "url2": ["https://www.oklink.com/cn/zksync"],
+      "remark": "evm系列，查询合约信息 https://zksync2-mainnet.zkscan.io/api?module=account&action=tokenlist&address=合约地址"
+    }, {
+      "chain": "GDCC",
+      "url": "https://www.gdccscan.io/",
+      "url2": [],
+      "remark": "evm系列"
+    }, {
+      "chain": "BRC20",
+      "url": "https://www.oklink.com/zh-cn/btc",
+      "url2": [
+        "https://unisat.io/search",
+        "https://www.oklink.com/cn/btc/address/16G1xYBbiNG78LSuZdMqp6tux5xvVp9Wxh?tab=tokenTransfer"
+      ],
+      "remark": "查询币种合约信息,https://unisat.io/brc20/ordi 或者 https://www.oklink.com/cn/btc/token/348020"
+    }, {
+      "chain": "SUI",
+      "url": "https://suiexplorer.com/",
+      "url2": ["https://www.oklink.com/cn/sui"],
+      "remark": ""
+    }, {
       "chain": "KAVA",
       "url": "https://explorer.kava.io/",
       "url2": [],
@@ -967,16 +980,16 @@
       "url": "https://www.mintscan.io/umee",
       "url2": ["https://atomscan.com/umee"],
       "remark": ""
-    },{
-      "chain":"VS",
-      "url":"https://www.visionscan.org/",
-      "url2":[],
-      "remark":""
-    },{
-      "chain":"BRISE",
-      "url":"https://brisescan.com/",
-      "url2":[],
-      "remark":"BRISR主链（EVM类型）"
+    }, {
+      "chain": "VS",
+      "url": "https://www.visionscan.org/",
+      "url2": [],
+      "remark": ""
+    }, {
+      "chain": "BRISE",
+      "url": "https://brisescan.com/",
+      "url2": [],
+      "remark": "BRISR主链（EVM类型）"
     },
     {
       "chain": "uniswap",
@@ -1027,31 +1040,31 @@
       "url": "https://app.fstswap.exchange/?utm_source=bitkeep#/swap",
       "url2": [],
       "remark": "https://bitkeep.com/zh/swap"
-    },{
-      "chain":"SyncSwap",
-      "url":"https://syncswap.xyz/swap",
-      "url2":[],
-      "remark":""
-    },{
-      "chain":"1Inch",
-      "url":"https://app.1inch.io/#/1/classic/swap/",
-      "url2":[],
-      "remark":""
+    }, {
+      "chain": "SyncSwap",
+      "url": "https://syncswap.xyz/swap",
+      "url2": [],
+      "remark": ""
+    }, {
+      "chain": "1Inch",
+      "url": "https://app.1inch.io/#/1/classic/swap/",
+      "url2": [],
+      "remark": ""
     },
     {
       "chain": "fxh(非小号)",
       "url": "https://www.feixiaohaozh.info/",
       "url2": [],
       "remark": ""
-    },{
-      "chain":"Chainlist",
-      "url":"https://chainlist.org/zh",
-      "url2":[
-         "https://chainlist.tokenpocket.pro/?from=extension",
-         "https://chainlist.org/zh"
+    }, {
+      "chain": "Chainlist",
+      "url": "https://chainlist.org/zh",
+      "url2": [
+        "https://chainlist.tokenpocket.pro/?from=extension",
+        "https://chainlist.org/zh"
       ],
-      "remark":"evm系列币种链信息查询"
+      "remark": "evm系列币种链信息查询"
     }
   ],
-  "version": "20230516"
+  "version": "20230523"
 }
