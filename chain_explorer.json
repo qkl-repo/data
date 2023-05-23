@@ -1,6 +1,6 @@
 {
   "listData": [{
-      "chain": "ETH/ERC20",
+      "chain": "ETH(ERC20)",
       "url": "https://cn.etherscan.com/",
       "url2": [
         "https://www.oklink.com/zh-cn/eth/",
@@ -12,7 +12,7 @@
       "remark": "evm系列"
     },
     {
-      "chain": "TRX/TRC20",
+      "chain": "TRON(TRX,TRC20,TRC10)",
       "url": "https://tronscan.org/#/",
       "url2": [
         "https://www.oklink.com/zh-cn/trx/",
@@ -21,7 +21,7 @@
       "remark": ""
     },
     {
-      "chain": "BSC",
+      "chain": "BSC(BEP20)",
       "url": "https://bscscan.com/",
       "url2": [
         "https://www.oklink.com/zh-cn/bsc/"
@@ -29,7 +29,7 @@
       "remark": "evm系列"
     },
     {
-      "chain": "HECO",
+      "chain": "HECO(HRC20)",
       "url": "https://www.hecoinfo.com/en-us/",
       "url2": [],
       "remark": "evm系列"
@@ -38,7 +38,7 @@
       "chain": "EVM",
       "url": "https://blockscan.com/",
       "url2": [],
-      "remark": "需要科学访问"
+      "remark": "需要科学访问,支持搜索eth,bsc,ftm,op,arbitrum,avax-c,movr等EVM网络交易"
     },
     {
       "chain": "XRP",
@@ -171,7 +171,7 @@
       "remark": ""
     },
     {
-      "chain": "VET",
+      "chain": "VET/VTHO",
       "url": "https://explore.vechain.org/",
       "url2": [
         "https://insight.vecha.in/#/main/",
@@ -180,7 +180,7 @@
       "remark": "推荐的需要科学访问"
     },
     {
-      "chain": "THETA",
+      "chain": "THETA/TFUEL",
       "url": "https://explorer.thetatoken.org/",
       "url2": [],
       "remark": ""
@@ -230,7 +230,7 @@
       "remark": ""
     },
     {
-      "chain": "ONT",
+      "chain": "ONT/ONG",
       "url": "https://explorer.ont.io/",
       "url2": [],
       "remark": ""
@@ -317,16 +317,16 @@
       "remark": ""
     },
     {
-      "chain": "AR",
+      "chain": "ARWEAVE",
       "url": "https://viewblock.io/arweave",
       "url2": [],
-      "remark": ""
+      "remark": "AR链"
     },
     {
-      "chain": "ALGO",
+      "chain": "ALGORAND",
       "url": "https://algoexplorer.io/",
       "url2": [],
-      "remark": ""
+      "remark": "ALGO链"
     },
     {
       "chain": "AE",
@@ -345,13 +345,13 @@
       "remark": ""
     },
     {
-      "chain": "XCH",
+      "chain": " CHIA",
       "url": "https://xchscan.com/zh",
       "url2": [],
-      "remark": ""
+      "remark": "主币XCH"
     },
     {
-      "chain": "LAT",
+      "chain": "LAT Platon",
       "url": "https://scan.platon.network/",
       "url2": [],
       "remark": "evm系列"
@@ -363,7 +363,7 @@
       "remark": ""
     },
     {
-      "chain": "POLYGON(MATIC)",
+      "chain": "POLYGON(MATIC,PRC20)",
       "url": "https://polygonscan.com/",
       "url2": [
         "https://www.oklink.com/zh-cn/polygon"
@@ -507,7 +507,7 @@
       "remark": ""
     },
     {
-      "chain": "ZEC",
+      "chain": "ZCASH(ZEC)",
       "url": "https://explorer.zcha.in/",
       "url2": [
         "https://zecblockexplorer.com/",
@@ -618,7 +618,7 @@
       "chain": "QTC",
       "url": "https://www.qitchain.org/",
       "url2": [],
-      "remark": ""
+      "remark": "utxo钱包"
     },
     {
       "chain": "QTUM",
@@ -633,7 +633,7 @@
         "https://grinscan.net/",
         "https://grin.blockscan.com/"
       ],
-      "remark": "隐私币，可以通过https://grinchck.uber.space/网站检查钱包是否在线"
+      "remark": "隐私币,可以通过https://grinchck.uber.space/网站检查钱包是否在线"
     },
     {
       "chain": "CHZ",
