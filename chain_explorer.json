@@ -44,6 +44,7 @@
       "chain": "XRP",
       "url": "https://xrpscan.com/",
       "url2": [
+        "https://livenet.xrpl.org/",
         "https://bithomp.com/explorer/",
         "https://blockchair.com/ripple"
       ]
@@ -1066,5 +1067,5 @@
       "remark": "evm系列币种链信息查询"
     }
   ],
-  "version": "20230523"
+  "version": "20230525"
 }
