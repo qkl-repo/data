@@ -24,7 +24,8 @@
       "chain": "BSC(BEP20)",
       "url": "https://bscscan.com/",
       "url2": [
-        "https://www.oklink.com/zh-cn/bsc/"
+        "https://www.oklink.com/zh-cn/bsc/",
+        "https://bsctrace.com/"
       ],
       "remark": "evm系列"
     },
