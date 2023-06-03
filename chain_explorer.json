@@ -349,7 +349,7 @@
     {
       "chain": " CHIA",
       "url": "https://xchscan.com/zh",
-      "url2": [],
+      "url2": ["https://www.chia.tt/"],
       "remark": "主币XCH"
     },
     {
@@ -1068,5 +1068,5 @@
       "remark": "evm系列币种链信息查询"
     }
   ],
-  "version": "20230525"
+  "version": "20230603"
 }
