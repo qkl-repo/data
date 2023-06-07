@@ -992,6 +992,11 @@
       "url": "https://brisescan.com/",
       "url2": [],
       "remark": "BRISR主链（EVM类型）"
+    },{
+      "chain":"CVN",
+      "url":"https://explore.consciousdao.com/",
+      "url2":[],
+      "remark":"CVN主链(EVM类型)"
     },
     {
       "chain": "uniswap",
@@ -1068,5 +1073,5 @@
       "remark": "evm系列币种链信息查询"
     }
   ],
-  "version": "20230603"
+  "version": "20230607"
 }
