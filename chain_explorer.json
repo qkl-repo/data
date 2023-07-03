@@ -911,6 +911,11 @@
       "url": "https://suiexplorer.com/",
       "url2": ["https://www.oklink.com/cn/sui"],
       "remark": ""
+    },{
+      "chain":"GODE",
+      "url":"https://explorer.godechain.com/",
+      "url2":[],
+      "remark":""
     }, {
       "chain": "KAVA",
       "url": "https://explorer.kava.io/",
