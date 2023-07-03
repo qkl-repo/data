@@ -813,12 +813,21 @@
       "url": "https://clvscan.com/",
       "url2": [],
       "remark": "evm系列"
-    },
-    {
-      "chain": "BOBA",
-      "url": "https://bobascan.com/",
-      "url2": [],
-      "remark": ""
+    },{
+      "chain":"BOBA",
+      "url":"https://bobascan.com/",
+      "url2":[],
+      "remark":"evm系列"
+    },{
+      "chain":"GLMR",
+      "url":"https://moonbeam.moonscan.io/",
+      "url2":[],
+      "remark":"evm系列"
+    },{
+      "chain":"TOLS(Telos)",
+      "url":"https://www.teloscan.io/",
+      "url2":[],
+      "remark":"evm系列"
     },
     {
       "chain": "XEC",
