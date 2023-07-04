@@ -47,6 +47,7 @@
       "url2": [
         "https://livenet.xrpl.org/",
         "https://bithomp.com/explorer/",
+        "https://explorer.bitquery.io/ripple",
         "https://blockchair.com/ripple"
       ]
     },
@@ -55,6 +56,7 @@
       "url": "https://steexp.com",
       "url2": [
         "https://stellarchain.io/",
+        "https://explorer.bitquery.io/stellar",
         "https://blockchair.com/zh/stellar/"
       ],
       "remark": "推荐和备用1需要科学访问"
@@ -327,8 +329,8 @@
     {
       "chain": "ALGORAND",
       "url": "https://algoexplorer.io/",
-      "url2": [],
-      "remark": "ALGO链"
+      "url2": ["https://algoscan.app/",],
+      "remark": "ALGO链,https://algonode.io/api/"
     },
     {
       "chain": "AE",
@@ -342,7 +344,8 @@
       "chain": "ADA",
       "url": "https://cardanoscan.io/",
       "url2": [
-        "https://explorer.cardano.org/en"
+        "https://explorer.cardano.org/en",
+        "https://explorer.bitquery.io/cardano"
       ],
       "remark": ""
     },
