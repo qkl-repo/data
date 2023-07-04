@@ -329,7 +329,7 @@
     {
       "chain": "ALGORAND",
       "url": "https://algoexplorer.io/",
-      "url2": ["https://algoscan.app/",],
+      "url2": ["https://algoscan.app/"],
       "remark": "ALGO链,https://algonode.io/api/"
     },
     {
