@@ -975,11 +975,6 @@
       "url2": ["https://explorer.bitquery.io/zh/klaytn"],
       "remark": ""
     }, {
-      "chain": "PancakeSwap",
-      "url": "https://pancakeswap.finance/swap?chainId=1",
-      "url2": [],
-      "remark": "ETH/BSC代币兑换"
-    }, {
       "chain": "VELAS/VLX",
       "url": "https://evmexplorer.velas.com/",
       "url2": [],
@@ -1019,7 +1014,18 @@
       "url":"https://explore.consciousdao.com/",
       "url2":[],
       "remark":"CVN主链(EVM类型)"
+    },{
+      "chain":"AELF",
+      "url":"https://explorer.aelf.io/",
+      "url2":[],
+      "remark":"AELF主链(EVM类型)"
     },
+    {
+      "chain": "PancakeSwap",
+      "url": "https://pancakeswap.finance/swap?chainId=1",
+      "url2": [],
+      "remark": "ETH/BSC代币兑换"
+    }, 
     {
       "chain": "uniswap",
       "url": "https://app.uniswap.org/#/swap?chain=mainnet",
