@@ -1018,7 +1018,12 @@
       "chain":"AELF",
       "url":"https://explorer.aelf.io/",
       "url2":[],
-      "remark":"AELF主链(EVM类型)"
+      "remark":"AELF主链"
+    },{
+      "chain":"MAN",
+      "url":"https://explorer.mantle.xyz/",
+      "url2":[],
+      "remark":"Mantle主链(EVM类型)"
     },
     {
       "chain": "PancakeSwap",
@@ -1101,5 +1106,5 @@
       "remark": "evm系列币种链信息查询"
     }
   ],
-  "version": "20230608"
+  "version": "20230719"
 }
