@@ -415,7 +415,8 @@
         "https://explorer.bitcoinunlimited.info/",
         "https://blockchair.com/bitcoin-cash/"
       ],
-      "remark": ""
+      "remark": "BCH代币查询：https://www.registry.cash/"
+      
     },
     {
       "chain": "ETHW",
@@ -1106,5 +1107,5 @@
       "remark": "evm系列币种链信息查询"
     }
   ],
-  "version": "20230719"
+  "version": "20230806"
 }
