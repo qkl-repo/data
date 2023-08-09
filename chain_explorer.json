@@ -1025,6 +1025,11 @@
       "url":"https://explorer.mantle.xyz/",
       "url2":[],
       "remark":"Mantle主链(EVM类型)"
+    },{
+      "chain":"CFX",
+      "url":"https://evm.confluxscan.net/",
+      "url2":[],
+      "remark":""
     },
     {
       "chain": "PancakeSwap",
@@ -1107,5 +1112,5 @@
       "remark": "evm系列币种链信息查询"
     }
   ],
-  "version": "20230806"
+  "version": "20230809"
 }
