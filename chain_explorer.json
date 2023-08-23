@@ -717,8 +717,8 @@
     },{
       "chain":"BASE",
       "url":"https://base.blockscout.com/",
-      "url2":[],
-      "remark":"evm系列"
+      "url2":["https://basescan.org/"],
+      "remark":"evm系列,BaseBridge: https://bridge.base.org/deposit"
     },
     {
       "chain": "BCHA",
