@@ -935,11 +935,6 @@
       "url2":[],
       "remark":""
     },{
-      "chain":"BASE",
-      "url":"https://base.blockscout.com/",
-      "url2":[],
-      "remark":""
-    }, {
       "chain": "KAVA",
       "url": "https://explorer.kava.io/",
       "url2": [],
