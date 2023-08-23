@@ -714,6 +714,11 @@
       "url": "https://mainnet.scan.caduceus.foundation/",
       "url2": [],
       "remark": "evm系列"
+    },{
+      "chain":"BASE",
+      "url":"https://base.blockscout.com/",
+      "url2":[],
+      "remark":"evm系列"
     },
     {
       "chain": "BCHA",
