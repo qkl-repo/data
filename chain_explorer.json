@@ -934,6 +934,11 @@
       "url":"https://explorer.godechain.com/",
       "url2":[],
       "remark":""
+    },{
+      "chain":"BASE",
+      "url":"https://base.blockscout.com/",
+      "url2":[],
+      "remark":""
     }, {
       "chain": "KAVA",
       "url": "https://explorer.kava.io/",
@@ -1117,5 +1122,5 @@
       "remark": "evm系列币种链信息查询"
     }
   ],
-  "version": "20230821"
+  "version": "20230822"
 }
