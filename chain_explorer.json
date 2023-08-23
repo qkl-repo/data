@@ -932,7 +932,7 @@
     },{
       "chain":"BASE",
       "url":"https://base.blockscout.com/",
-      "url2":[],
+      "url2":["https://basescan.org/"],
       "remark":""
     }, {
       "chain": "KAVA",
@@ -1117,5 +1117,5 @@
       "remark": "evm系列币种链信息查询"
     }
   ],
-  "version": "20230822"
+  "version": "20230824"
 }
