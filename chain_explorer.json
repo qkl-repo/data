@@ -1030,6 +1030,11 @@
       "url":"https://explorer.aelf.io/",
       "url2":[],
       "remark":"AELF主链"
+    }{
+      "chain":"SEI",
+      "url":"https://www.seiscan.app/pacific-1",
+      "url2":[],
+      "remark":"SEI主链"
     },{
       "chain":"MAN",
       "url":"https://explorer.mantle.xyz/",
@@ -1122,5 +1127,5 @@
       "remark": "evm系列币种链信息查询"
     }
   ],
-  "version": "20230822"
+  "version": "20230824"
 }
