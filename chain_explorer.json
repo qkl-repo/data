@@ -930,6 +930,11 @@
       "url2": ["https://www.oklink.com/cn/sui"],
       "remark": ""
     },{
+      "chain":"MVC",
+      "url":"https://scan.microvisionchain.com/",
+      "url2":[],
+      "remark":""
+    },{
       "chain":"GODE",
       "url":"https://explorer.godechain.com/",
       "url2":[],
