@@ -915,6 +915,7 @@
       "chain": "BRC20",
       "url": "https://www.oklink.com/zh-cn/btc",
       "url2": [
+        "https://ordiscan.com/",
         "https://unisat.io/search",
         "https://www.oklink.com/cn/btc/address/16G1xYBbiNG78LSuZdMqp6tux5xvVp9Wxh?tab=tokenTransfer"
       ],
