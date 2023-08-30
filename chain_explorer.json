@@ -593,7 +593,7 @@
     {
       "chain": "RON",
       "url": "https://explorer.roninchain.com/",
-      "url2": [],
+      "url2": ["https://www.oklink.com/cn/ronin"],
       "remark": "evm系列"
     },
     {
