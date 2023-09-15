@@ -111,9 +111,9 @@
     },
     {
       "chain": "EDG",
-      "url": "https://edgeware.subscan.io/",
+      "url": "http://edgscan.ink/",
       "url2": [],
-      "remark": "波卡系列"
+      "remark": "波卡系列,https://edgeware.subscan.io/区块浏览器废弃"
     },
     {
       "chain": "DOCK",
@@ -1128,5 +1128,5 @@
       "remark": "evm系列币种链信息查询"
     }
   ],
-  "version": "20230824"
+  "version": "20230915"
 }
