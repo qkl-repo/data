@@ -561,7 +561,7 @@
     }, {
       "chain": "ICP",
       "url": "https://dashboard.internetcomputer.org/",
-      "url2": [],
+      "url2": ["https://www.icpexplorer.org/"],
       "remark": ""
     },
     {
@@ -587,8 +587,8 @@
     },
     {
       "chain": "NEAR",
-      "url": "https://explorer.near.org/",
-      "url2": [],
+      "url": "https://nearblocks.io/zh-cn/",
+      "url2": ["https://explorer.near.org/"],
       "remark": ""
     },
     {
