@@ -56,11 +56,13 @@
       "chain": "XLM",
       "url": "https://steexp.com",
       "url2": [
+        "https://stellarscan.io/",
+        "https://lumenscan.io/",
         "https://stellarchain.io/",
         "https://explorer.bitquery.io/stellar",
         "https://blockchair.com/zh/stellar/"
       ],
-      "remark": "推荐和备用1需要科学访问"
+      "remark": "推荐和备用3需要科学访问"
     },
     {
       "chain": "FIL",
