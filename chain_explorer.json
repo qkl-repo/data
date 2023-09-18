@@ -578,8 +578,9 @@
     },
     {
       "chain": "POKT",
-      "url": "https://pokt.watch/",
+      "url": "https://www.poktscan.com/",
       "url2": [
+        "https://pokt.watch/",
         "https://explorer.pokt.network/"
       ],
       "remark": ""
@@ -1128,5 +1129,5 @@
       "remark": "evm系列币种链信息查询"
     }
   ],
-  "version": "20230915"
+  "version": "20230918"
 }
