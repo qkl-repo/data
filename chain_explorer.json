@@ -45,6 +45,7 @@
       "chain": "XRP",
       "url": "https://xrpscan.com/",
       "url2": [
+        "https://blockexplorer.one/xrp/mainnet",
         "https://livenet.xrpl.org/",
         "https://bithomp.com/explorer/",
         "https://explorer.bitquery.io/ripple",
@@ -297,7 +298,7 @@
     },
     {
       "chain": "AVAX-X",
-      "url": "https://explorer-xp.avax.network/blockchain/2oYMBNV4eNHyqk2fjjV5nVQLDbtmNJzq5s3qs3Lo6ftnC6FByM",
+      "url": "https://subnets.avax.network/x-chain",
       "url2": [
         "https://avascan.info/blockchain/x/home"
       ],
@@ -308,6 +309,7 @@
       "url": "https://snowtrace.io/",
       "url2": [
         "https://www.oklink.com/zh-cn/avax",
+        "https://subnets.avax.network/c-chain",
         "https://avascan.info/blockchain/c/home"
       ],
       "remark": "evm系列"
@@ -401,7 +403,8 @@
         "https://litecoinblockexplorer.net/",
         "https://explorer.viawallet.com/ltc",
         "https://explorer.btc.com/ltc",
-        "https://ltc.ihashrate.com/"
+        "https://ltc.ihashrate.com/",
+        "https://blockexplorer.one/litecoin/mainnet"
       ]
     },
     {
@@ -413,7 +416,8 @@
         "https://explorer.btc.com/bch",
         "https://explorer.bitcoinverde.org/",
         "https://explorer.bitcoinunlimited.info/",
-        "https://blockchair.com/bitcoin-cash/"
+        "https://blockchair.com/bitcoin-cash/",
+        "https://blockexplorer.one/bitcoin-cash/mainnet/"
       ],
       "remark": "BCH代币查询：https://www.registry.cash/"
       
@@ -465,7 +469,8 @@
       "chain": "ETC",
       "url": "https://etcblockexplorer.com/",
       "url2": [
-        "https://www.oklink.com/zh-cn/etc"
+        "https://www.oklink.com/zh-cn/etc/",
+        "https://blockexplorer.one/ethereum-classic/mainnet"
       ],
       "remark": "evm系列"
     },
@@ -475,7 +480,8 @@
 
       "url2": [
         "https://www.oklink.com/zh-cn/dash",
-        "https://blockchair.com/zh/dash"
+        "https://blockchair.com/zh/dash",
+        "https://blockexplorer.one/dash/mainnet"
       ]
     },
     {
@@ -484,7 +490,8 @@
       "url2": [
         "https://dogeblocks.com/",
         "https://explorer.viawallet.com/doge",
-        "https://blockchair.com/zh/dogecoin"
+        "https://blockchair.com/zh/dogecoin",
+        "https://blockexplorer.one/dogecoin/mainnet"
       ],
       "remark": ""
     },
@@ -517,6 +524,7 @@
       "url": "https://explorer.zcha.in/",
       "url2": [
         "https://zecblockexplorer.com/",
+        "https://blockexplorer.one/zcash/mainnet",
         "https://blockchair.com/zh/zcash"
       ],
       "remark": ""
@@ -670,7 +678,7 @@
       ]
     },
     {
-      "chain": "WAVE",
+      "chain": "WAVES",
       "url": "https://wavesexplorer.com/zh",
       "url2": [],
       "remark": ""
@@ -748,7 +756,10 @@
       "chain": "APT",
       "url": "https://explorer.aptoslabs.com/",
       "url2": [
-        "https://www.oklink.com/zh-cn/apt"
+        "https://www.oklink.com/zh-cn/apt",
+        "https://apscan.io/",
+        "https://tracemove.io/",
+        "https://aptoscan.com/"
       ],
       "remark": "Aptos"
     },
@@ -1127,7 +1138,17 @@
         "https://chainlist.org/zh"
       ],
       "remark": "evm系列币种链信息查询"
+    },{
+      "chain":"BlockOne",
+      "url":"https://blockexplorer.one/",
+      "url2":[],
+      "remark":"支持BTC,ETH,BCH,LTC,DOGE,ETC,BSC,ZCASH,XRP等"
+    },{
+      "chain":"Joseon",
+      "url":"https://www.blockexplorer.com/l/en-US/",
+      "url2":[],
+      "remark":""
     }
   ],
-  "version": "20230918"
+  "version": "20230919"
 }
