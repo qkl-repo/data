@@ -218,7 +218,7 @@
     {
       "chain": "SERO",
       "url": "https://explorer.sero.cash/index.html",
-      "url2": [],
+      "url2": ["https://explorer.web.sero.cash/index.html"],
       "remark": "隐私币"
     },
     {
