@@ -523,9 +523,11 @@
     },
     {
       "chain": "ZCASH(ZEC)",
-      "url": "https://explorer.zcha.in/",
+      "url": "https://zcashblockexplorer.com/",
       "url2": [
+	"https://explorer.bitquery.io/zh/zcash",
         "https://3xpl.com/zcash/",
+	"https://zcash.tokenview.io/",
 	"https://zecblockexplorer.com/",
         "https://blockexplorer.one/zcash/mainnet",
         "https://blockchair.com/zh/zcash"
