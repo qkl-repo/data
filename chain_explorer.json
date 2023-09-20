@@ -244,9 +244,9 @@
     },
     {
       "chain": "WICC",
-      "url": "https://www.waykiscan.com/#/",
+      "url": "https://www.waykiscan.net/",
       "url2": [],
-      "remark": ""
+      "remark": "https://www.waykiscan.com/已废弃"
     },
     {
       "chain": "SDA",
@@ -1152,5 +1152,5 @@
       "remark":""
     }
   ],
-  "version": "20230919"
+  "version": "20230921_1"
 }
