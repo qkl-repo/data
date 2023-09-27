@@ -943,7 +943,7 @@
       "url2":[],
       "remark":"evm系列，SXP主链  【ethereum合约】0x8ce9137d39326ad0cd6491fb5cc0cba0e089b6a9 \n【bscscan合约】0x47bead2563dcbf3bf2c9407fea4dc236faba485a \n【solana合约】3CyiEDRehaGufzkpXJitCP5tvh7cNhRqd9rPBxZrgK5z "
     }, {
-      "chain": "SUI",
+      "chain":"SUI"
       "url": "https://suiexplorer.com/",
       "url2": ["https://www.oklink.com/cn/sui"],
       "remark": ""
@@ -952,6 +952,11 @@
       "url":"https://scan.microvisionchain.com/",
       "url2":["https://www.mvcscan.com/"],
       "remark":"evm链，Bridge：https://bridge.microvisionchain.com/home"
+    },{
+      "chain":"MXC(zkEVM)",
+      "url":"https://explorer.mxc.com/",
+      "url2":[],
+      "remark":"evm系列,MXC zkEVM explorer"
     },{
       "chain":"GODE",
       "url":"https://explorer.godechain.com/",
