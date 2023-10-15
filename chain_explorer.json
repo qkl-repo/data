@@ -133,19 +133,19 @@
     {
       "chain": "ACA",
       "url": "https://acala.subscan.io/",
-      "url2": [],
+      "url2": ["https://explorer.polkascan.io/acala"],
       "remark": "波卡系列"
     },
     {
       "chain": "ASTR",
       "url": "https://astar.subscan.io/",
-      "url2": [],
+      "url2": ["https://explorer.polkascan.io/astar"],
       "remark": "波卡系列"
     },
     {
       "chain": "SDN",
       "url": "https://shiden.subscan.io/",
-      "url2": [],
+      "url2": ["https://explorer.polkascan.io/shiden"],
       "remark": "波卡系列"
     }, {
       "chain": "XX",
@@ -239,7 +239,7 @@
     {
       "chain": "ONT/ONG",
       "url": "https://explorer.ont.io/",
-      "url2": [],
+      "url2": ["https://ontblockexplorer.com/"],
       "remark": ""
     },
     {
