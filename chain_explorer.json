@@ -581,7 +581,7 @@
     {
       "chain": "SMARTBCH",
       "url": "https://www.smartscan.cash/",
-      "url2": [],
+      "url2": ["https://smartscout.cash/"],
       "remark": "evm系列"
     },
     {
