@@ -1,0 +1,142 @@
+{
+    "dataURL":"https://hyper.solana.fm/v3/token?address=Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB,So11111111111111111111111111111111111111112,SHDWyBxihqiCj6YekG2GUr7wqKLeLAMK1gHZck9pL6y,USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX,EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v,FZthQCuYHhcfiDma7QrX7buDHwrZEd7vL8SjS6LQa3Tx,GfJ3Vq2eSTYf1hJP6kKLE9RT6u7jF9gNszJhZwo5VPZp,mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So,2e6NAJy1qaKMq8PaswP2uzimMDvbr71Tbw38G6q9SNZ2,LTXH7nCGXz5TBZ57H8oZu7YwmDSVfSqWViW4B28yg8X,Fq7XL97MWnbneVk4Tzr61BkL8LtEqRCZWruwhyswtnDw,Ea5SjE2Y6yvCeW5dYTn7PYMuW5ikXkvbGdcmSnXeaLjS,9cMWe4UYRPGAUUsTkjShJWVM7bk8DUBgxtwwH8asFJoV",
+    "USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX": {
+        "mint": "USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX",
+        "name": "USDH Hubble Stablecoin",
+        "symbol": "USDH",
+        "decimals": 6,
+        "description": "",
+        "logo": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/USDH1SM1ojwWUga67PGrgFWUHibbjqMvuMaDkRJTgkX.svg",
+        "tags": [
+            "stablecoin",
+            "saber-mkt-usd"
+        ],
+        "verified": "false",
+        "metadata_token": "",
+        "network": [
+            "mainnet-beta"
+        ]
+    },
+    "9cMWe4UYRPGAUUsTkjShJWVM7bk8DUBgxtwwH8asFJoV": null,
+    "FZthQCuYHhcfiDma7QrX7buDHwrZEd7vL8SjS6LQa3Tx": null,
+    "GfJ3Vq2eSTYf1hJP6kKLE9RT6u7jF9gNszJhZwo5VPZp": {
+        "mint": "GfJ3Vq2eSTYf1hJP6kKLE9RT6u7jF9gNszJhZwo5VPZp",
+        "name": "Solpad Finance",
+        "symbol": "SOLPAD",
+        "decimals": 9,
+        "description": "",
+        "logo": "https://assets.coingecko.com/coins/images/16368/large/solpad.PNG?1623820231",
+        "tags": [
+            "utility-token"
+        ],
+        "verified": "true",
+        "metadata_token": "",
+        "network": [
+            "mainnet-beta"
+        ]
+    },
+    "SHDWyBxihqiCj6YekG2GUr7wqKLeLAMK1gHZck9pL6y": {
+        "mint": "SHDWyBxihqiCj6YekG2GUr7wqKLeLAMK1gHZck9pL6y",
+        "name": "Shadow Token",
+        "symbol": "SHDW",
+        "decimals": 9,
+        "description": "",
+        "logo": "https://assets.coingecko.com/coins/images/22271/large/Property_1_Color.png?1666926988",
+        "tags": [],
+        "verified": "true",
+        "metadata_token": "",
+        "network": [
+            "mainnet-beta"
+        ]
+    },
+    "So11111111111111111111111111111111111111112": {
+        "mint": "So11111111111111111111111111111111111111112",
+        "name": "Wrapped SOL",
+        "symbol": "wSOL",
+        "decimals": 9,
+        "description": "",
+        "logo": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/So11111111111111111111111111111111111111112.png",
+        "tags": [
+            "saber-mkt-sol"
+        ],
+        "verified": "false",
+        "metadata_token": "",
+        "network": [
+            "mainnet-beta",
+            "devnet"
+        ]
+    },
+    "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So": {
+        "mint": "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So",
+        "name": "Marinade staked SOL (mSOL)",
+        "symbol": "mSOL",
+        "decimals": 9,
+        "description": "",
+        "logo": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So.png",
+        "tags": [
+            "saber-mkt-sol"
+        ],
+        "verified": "true",
+        "metadata_token": "",
+        "network": [
+            "devnet",
+            "mainnet-beta"
+        ]
+    },
+    "LTXH7nCGXz5TBZ57H8oZu7YwmDSVfSqWViW4B28yg8X": null,
+    "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB": {
+        "mint": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
+        "name": "USDT",
+        "symbol": "USDT",
+        "decimals": 6,
+        "description": "",
+        "logo": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB.svg",
+        "tags": [
+            "stablecoin",
+            "saber-mkt-usd"
+        ],
+        "verified": "true",
+        "metadata_token": "",
+        "network": [
+            "mainnet-beta"
+        ]
+    },
+    "Fq7XL97MWnbneVk4Tzr61BkL8LtEqRCZWruwhyswtnDw": null,
+    "Ea5SjE2Y6yvCeW5dYTn7PYMuW5ikXkvbGdcmSnXeaLjS": {
+        "mint": "Ea5SjE2Y6yvCeW5dYTn7PYMuW5ikXkvbGdcmSnXeaLjS",
+        "name": "PAI (Parrot USD)",
+        "symbol": "PAI",
+        "decimals": 6,
+        "description": "",
+        "logo": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/Ea5SjE2Y6yvCeW5dYTn7PYMuW5ikXkvbGdcmSnXeaLjS.svg",
+        "tags": [
+            "utility-token",
+            "stablecoin",
+            "saber-mkt-usd"
+        ],
+        "verified": "false",
+        "metadata_token": "",
+        "network": [
+            "mainnet-beta"
+        ]
+    },
+    "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v": {
+        "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+        "name": "USD Coin",
+        "symbol": "USDC",
+        "decimals": 6,
+        "description": "",
+        "logo": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
+        "tags": [
+            "stablecoin",
+            "saber-mkt-usd"
+        ],
+        "verified": "false",
+        "metadata_token": "",
+        "network": [
+            "mainnet-beta"
+        ]
+    },
+    "2e6NAJy1qaKMq8PaswP2uzimMDvbr71Tbw38G6q9SNZ2": null
+}
+}

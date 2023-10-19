@@ -390,7 +390,8 @@
       "url": "https://www.oklink.com/zh-cn/btc",
       "url2": [
         "https://bitcoinblockexplorers.com/",
-        "https://block.info/explorer/btc/",
+        "https://blockstream.info/",
+	"https://block.info/explorer/btc/",
         "https://explorer.viawallet.com/btc",
         "https://explorer.btc.com/btc",
         "https://blockchair.com/zh/bitcoin",
@@ -1156,6 +1157,11 @@
     },{
       "chain":"Joseon",
       "url":"https://www.blockexplorer.com/l/en-US/",
+      "url2":[],
+      "remark":""
+    },{
+      "chain":"XPC",
+      "url":"https://explorer.xpchain.co.kr/",
       "url2":[],
       "remark":""
     }

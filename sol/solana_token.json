@@ -1,0 +1,114 @@
+[{
+  "token": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
+  "name": "USDT",
+  "symbol": "USDT",
+  "decimals": "6",
+  "logo": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB.svg"
+},{
+  "token": "SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt",
+  "name": "Serum",
+  "symbol": "SRM",
+  "decimals": "6",
+  "logo": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt.png"
+},{
+  "token": "cxxShYRVcepDudXhe7U62QHvw8uBJoKFifmzggGKVC2",
+  "name": "SolChicks",
+  "symbol": "CHICKS",
+  "decimals": "9",
+  "logo": "https://assets.coingecko.com/coins/images/20978/large/chicks.png?1638162821"
+},{
+  "token": "ATLASXmbPQxBUYbxPsV97usA3fPQYEqzQBUHgiFCUsXx",
+  "name": "Star Atlas",
+  "symbol": "ATLAS",
+  "decimals": "8",
+  "logo": "https://assets.coingecko.com/coins/images/17659/large/Icon_Reverse.png?1628759092"
+},{
+  "token": "CKaKtYvz6dKPyMvYq9Rh3UBrnNqYZAyd7iF4hJtjUvks",
+  "name": "Gari Network",
+  "symbol": "GARI",
+  "decimals": "9",
+  "logo": "https://assets.coingecko.com/coins/images/22615/large/gari.png?1642313087"
+},{
+  "token": "HovGjrBGTfna4dvg6exkMxXuexB3tUfEZKcut8AWowXj",
+  "name": "Space Falcon",
+  "symbol": "FCON",
+  "decimals": "4",
+  "logo": "https://raw.githubusercontent.com/spacefalcon-io/crypto/main/logo.svg"
+},{
+  "token": "HBB111SCo9jkCejsZfz8Ec8nH7T6THF8KEKSnvwT6XK6",
+  "name": "Hubble Protocol Token",
+  "symbol": "HBB",
+  "decimals": "6",
+  "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HBB111SCo9jkCejsZfz8Ec8nH7T6THF8KEKSnvwT6XK6/logo.svg"
+},{
+  "token": "EkSPpfdGCstzExF3eCsHFqjmyS71bguaZ1qJZCXXTCnv",
+  "name": "SolBody",
+  "symbol": "SBY",
+  "decimals": "9",
+  "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EkSPpfdGCstzExF3eCsHFqjmyS71bguaZ1qJZCXXTCnv/logo.png"
+},{
+  "token": "METAewgxyPbgwsseH8T16a39CQ5VyVxZi9zXiDPY18m",
+  "name": "Metaplex",
+  "symbol": "MPLX",
+  "decimals": "6",
+  "logo": "https://assets.coingecko.com/coins/images/27344/large/mplx.png?1663636769"
+},{
+  "token": "EchesyfXePKdLtoiZSL8pBe8Myagyy8ZRqsACNCFGnvp",
+  "name": "Bonfida",
+  "symbol": "FIDA",
+  "decimals": "6",
+  "logo": "https://assets.coingecko.com/coins/images/13395/large/bonfida.png?1658327819"
+},{
+  "token": "DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263",
+  "name": "Bonk",
+  "symbol": "Bonk",
+  "decimals": "5",
+  "logo": "https://arweave.net/hQiPZOsRZXGXBJd_82PhVdlM_hACsT_q6wqwf5cSY7I"
+}{
+  "token": "5fTwKZP2AK39LtFN9Ayppu6hdCVKfMGVm79F2EgHCtsi",
+  "name": "Shredded Apes Whey",
+  "symbol": "WHEY",
+  "decimals": "6",
+  "logo": "https://assets.coingecko.com/coins/images/23256/large/whey-coin-2048x2048.png?1643360509"
+}
+,{
+  "token": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+  "name": "USD Coin",
+  "symbol": "USDC",
+  "decimals": "6",
+  "logo": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png"
+}
+,{
+  "token": "So11111111111111111111111111111111111111112",
+  "name": "Wrapped SOL",
+  "symbol": "wSOL",
+  "decimals": "9",
+  "logo": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/So11111111111111111111111111111111111111112.png"
+}
+,{
+  "token": "4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R",
+  "name": "Raydium",
+  "symbol": "RAY",
+  "decimals": "6",
+  "logo": "https://assets.coingecko.com/coins/images/13928/large/PSigc4ie_400x400.jpg?1612875614"
+}
+,{
+  "token": "7i5KKsX2weiTkry7jA4ZwSuXGhs5eJBEjY8vVxR4pfRx",
+  "name": "STEPN",
+  "symbol": "GMT",
+  "decimals": "9",
+  "logo": "https://assets.coingecko.com/coins/images/23597/large/gmt.png?1644658792"
+},{
+  "token": "xxxxa1sKNGwFtw2kFn8XauW9xq8hBZ5kVtcSesTT9fW",
+  "name": "Solanium",
+  "symbol": "SLIM",
+  "decimals": "6",
+  "logo": "https://assets.coingecko.com/coins/images/15816/large/logo_cg.png?1659000206"
+}
+,{
+  "token": "poLisWXnNRwC6oBu1vHiuKQzFjGL4XDSu4g9qjz9qVk",
+  "name": "Star Atlas DAO",
+  "symbol": "POLIS",
+  "decimals": "8",
+  "logo": "https://assets.coingecko.com/coins/images/17789/large/POLIS.jpg?1629256006"
+}]
