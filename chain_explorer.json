@@ -479,11 +479,11 @@
     },
     {
       "chain": "DASH",
-      "url": "https://dashblockexplorer.com/",
-
+      "url":"https://www.oklink.com/zh-cn/dash",
       "url2": [
-        "https://www.oklink.com/zh-cn/dash",
-        "https://blockchair.com/zh/dash",
+	"https://dashblockexplorer.com/",
+        "https://explorer.dash.org/insight/",
+	"https://blockchair.com/zh/dash",
         "https://blockexplorer.one/dash/mainnet"
       ]
     },
@@ -1166,5 +1166,5 @@
       "remark":""
     }
   ],
-  "version": "20230921_1"
+  "version": "20231020"
 }
