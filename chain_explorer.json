@@ -1269,6 +1269,11 @@
       "url": "https://explorer.xpchain.co.kr/",
       "url2": [],
       "remark": ""
+    },{
+     "chain":"DYN",
+     "url":"https://blockexplorer.dynexcoin.org/",
+     "url2":["https://explorer.dynexcoin.org/"], 
+     "remark":""
     }
   ],
   "version": "20231025"
