@@ -1269,12 +1269,21 @@
       "url": "https://explorer.xpchain.co.kr/",
       "url2": [],
       "remark": ""
-    },{
-     "chain":"DYN",
-     "url":"https://blockexplorer.dynexcoin.org/",
-     "url2":["https://explorer.dynexcoin.org/"], 
-     "remark":""
+    },
+    {
+      "chain": "DYN",
+      "url": "https://blockexplorer.dynexcoin.org/",
+      "url2": [
+        "https://explorer.dynexcoin.org/"
+      ],
+      "remark": ""
+    },
+    {
+      "chain": "SMART",
+      "url": "https://smartexplorer.com/",
+      "url2": [],
+      "remark": ""
     }
   ],
-  "version": "20231025"
+  "version": "20231124"
 }

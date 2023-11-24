@@ -12,10 +12,10 @@
         "txId": "inner",
         "name": "Native Token",
         "totalSupply": "1,000,000,000",
-        "supply": "996,174,475.137",
+        "supply": "996,170,204.822",
         "decimals": 8,
-        "holders": 12855,
-        "transfers": "649684"
+        "holders": 13288,
+        "transfers": "686570"
       },
       {
         "id": 1700,
@@ -32,20 +32,6 @@
         "transfers": "1121"
       },
       {
-        "id": 10,
-        "contractAddress": "JRmBduh4nXWi1aXgdUsj5gJrzeZb2LxmrAbf7W99faZSvoAaE",
-        "symbol": "VOTE",
-        "chainId": "AELF",
-        "issueChainId": "AELF",
-        "txId": "inner",
-        "name": "VOTE Token",
-        "totalSupply": "1,000,000,000",
-        "supply": "1,000,000,000",
-        "decimals": 8,
-        "holders": 185,
-        "transfers": "4747"
-      },
-      {
         "id": 11,
         "contractAddress": "JRmBduh4nXWi1aXgdUsj5gJrzeZb2LxmrAbf7W99faZSvoAaE",
         "symbol": "SHARE",
@@ -56,8 +42,22 @@
         "totalSupply": "1,000,000,000",
         "supply": "1,000,000,000",
         "decimals": 8,
-        "holders": 185,
-        "transfers": "4747"
+        "holders": 189,
+        "transfers": "4827"
+      },
+      {
+        "id": 10,
+        "contractAddress": "JRmBduh4nXWi1aXgdUsj5gJrzeZb2LxmrAbf7W99faZSvoAaE",
+        "symbol": "VOTE",
+        "chainId": "AELF",
+        "issueChainId": "AELF",
+        "txId": "inner",
+        "name": "VOTE Token",
+        "totalSupply": "1,000,000,000",
+        "supply": "1,000,000,000",
+        "decimals": 8,
+        "holders": 188,
+        "transfers": "4825"
       },
       {
         "id": 45204,
@@ -68,10 +68,10 @@
         "txId": "0022a8bee82629ef0ccf884b721cd988b58c03efe0975d7ef39cdb16ba9dd078",
         "name": "Forest Warrior",
         "totalSupply": "1,000",
-        "supply": "53",
+        "supply": "54",
         "decimals": 0,
-        "holders": 60,
-        "transfers": "188"
+        "holders": 61,
+        "transfers": "193"
       },
       {
         "id": 2,
@@ -144,6 +144,20 @@
         "transfers": "178"
       },
       {
+        "id": 46683,
+        "contractAddress": "JRmBduh4nXWi1aXgdUsj5gJrzeZb2LxmrAbf7W99faZSvoAaE",
+        "symbol": "BEANPASS-1",
+        "chainId": "AELF",
+        "issueChainId": "tDVV",
+        "txId": "01ccd2dfa15c99312c756d92933947f1165490f7a0eb7b27783920ddd8c6bbef",
+        "name": "CozyBean",
+        "totalSupply": "100,000,000",
+        "supply": "7",
+        "decimals": 0,
+        "holders": 15,
+        "transfers": "25"
+      },
+      {
         "id": 4,
         "contractAddress": "JRmBduh4nXWi1aXgdUsj5gJrzeZb2LxmrAbf7W99faZSvoAaE",
         "symbol": "STORAGE",
@@ -198,20 +212,6 @@
         "decimals": 8,
         "holders": 11,
         "transfers": "25"
-      },
-      {
-        "id": 46683,
-        "contractAddress": "JRmBduh4nXWi1aXgdUsj5gJrzeZb2LxmrAbf7W99faZSvoAaE",
-        "symbol": "BEANPASS-1",
-        "chainId": "AELF",
-        "issueChainId": "tDVV",
-        "txId": "01ccd2dfa15c99312c756d92933947f1165490f7a0eb7b27783920ddd8c6bbef",
-        "name": "CozyBean",
-        "totalSupply": "100,000,000",
-        "supply": "4",
-        "decimals": 0,
-        "holders": 7,
-        "transfers": "12"
       },
       {
         "id": 45180,
@@ -404,6 +404,20 @@
         "txId": "c5eaabd8f2ca2c3bf11fc0a908b84b7e8ac5ecd1531afc1258846824c8a81879",
         "name": "SEED-TEFSTVAAOADJ-0",
         "totalSupply": "1",
+        "supply": "1",
+        "decimals": 0,
+        "holders": 1,
+        "transfers": "1"
+      },
+      {
+        "id": 46749,
+        "contractAddress": "JRmBduh4nXWi1aXgdUsj5gJrzeZb2LxmrAbf7W99faZSvoAaE",
+        "symbol": "BEANPASS-2",
+        "chainId": "AELF",
+        "issueChainId": "tDVV",
+        "txId": "eadda14c21a17808032467fd4ee34ce6cce013c09467c90c2ea835d9f955cf89",
+        "name": "Witchy Bean",
+        "totalSupply": "1,000,000",
         "supply": "1",
         "decimals": 0,
         "holders": 1,
@@ -604,8 +618,22 @@
         "decimals": 0,
         "holders": 0,
         "transfers": 0
+      },
+      {
+        "id": 46755,
+        "contractAddress": "JRmBduh4nXWi1aXgdUsj5gJrzeZb2LxmrAbf7W99faZSvoAaE",
+        "symbol": "TEFSTVAAOADL-66",
+        "chainId": "AELF",
+        "issueChainId": "tDVV",
+        "txId": "2a6e12e4bb0ad03f29957c1e30d41ef60520771100296c2416648f395e675abd",
+        "name": "Arcane",
+        "totalSupply": "10,000",
+        "supply": "0",
+        "decimals": 0,
+        "holders": 0,
+        "transfers": 0
       }
     ],
-    "total": 43
+    "total": 45
   }
 }
