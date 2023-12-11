@@ -1283,7 +1283,12 @@
       "url": "https://smartexplorer.com/",
       "url2": [],
       "remark": ""
-    }
+    },{
+	"chain":"ENJ",
+"url":"https://enjin.subscan.io/",
+"url2":[],
+"remark":""	
+     }
   ],
   "version": "20231124"
 }
