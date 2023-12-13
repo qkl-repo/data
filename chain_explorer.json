@@ -517,7 +517,7 @@
         "https://blockchair.com/zh/dogecoin",
         "https://blockexplorer.one/dogecoin/mainnet"
       ],
-      "remark": ""
+      "remark": "代币查询：https://unielon.com/drc20/"
     },
     {
       "chain": "DCR",
@@ -1288,7 +1288,12 @@
 "url":"https://enjin.subscan.io/",
 "url2":[],
 "remark":""	
-     }
+     },{
+	"chain":"DRC20",
+"url":"https://unielon.com/drc20/",
+"url2":[],
+"remark":""
+    }
   ],
   "version": "20231124"
 }
