@@ -111,4 +111,10 @@
   "symbol": "POLIS",
   "decimals": "8",
   "logo": "https://assets.coingecko.com/coins/images/17789/large/POLIS.jpg?1629256006"
+},{
+  "token":"93RC484oMK5T9H89rzT5qiAXKHGP9jscXfFfrihNbe57",
+  "name":"ZERO",
+  "symbol":"ZERO",
+  "decimals":9,
+  "logo":""
 }]
