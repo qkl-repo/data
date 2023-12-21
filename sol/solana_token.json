@@ -123,4 +123,28 @@
   "symbol":"RAY",
   "decimals":6,
   "logo":""
+},{
+  "token":"HhJpBhRRn4g56VsyLuT8DL5Bv31HkXqsrahTTUCZeZg4",
+  "name":"MYRO",
+  "symbol":"MYRO",
+  "decimals":9,
+  "logo":""
+},{
+  "token":"jtojtomepa8beP8AuQc6eXt5FriJwfFMwQx2v2f9mCL",
+  "name":"JTO",
+  "symbol":"JTO",
+  "decimals":9,
+  "logo":""
+},{
+  "token":"2wme8EVkw8qsfSk2B3QeX4S64ac6wxHPXb3GrdckEkio",
+  "name":"SOLS",
+  "symbol":"SOLS",
+  "decimals":9,
+  "logo":""
+},{
+  "token":"7EYnhQoR9YM3N7UoaKRoA44Uy8JeaZV3qyouov87awMs",
+  "name":"SILLY",
+  "symbol":"SILLY",
+  "decimals":9,
+  "logo":""
 }]
