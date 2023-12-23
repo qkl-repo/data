@@ -1,6 +1,5 @@
 {
-  "listData": [
-    {
+  "listData": [{
       "chain": "ETH(ERC20)",
       "url": "https://cn.etherscan.com/",
       "url2": [
@@ -417,7 +416,8 @@
         "https://explorer.viawallet.com/btc",
         "https://explorer.btc.com/btc",
         "https://blockchair.com/zh/bitcoin",
-        "https://live.blockcypher.com/btc/"
+        "https://live.blockcypher.com/btc/",
+        "https://mempool.space/"
       ],
       "remark": ""
     },
@@ -997,7 +997,8 @@
       "url2": [
         "https://ordiscan.com/",
         "https://unisat.io/search",
-        "https://www.oklink.com/cn/btc/address/16G1xYBbiNG78LSuZdMqp6tux5xvVp9Wxh?tab=tokenTransfer"
+        "https://www.oklink.com/cn/btc/address/16G1xYBbiNG78LSuZdMqp6tux5xvVp9Wxh?tab=tokenTransfer",
+        "https://www.brc-20.io/scanner"
       ],
       "remark": "查询币种合约信息,https://unisat.io/brc20/ordi 或者 https://www.oklink.com/cn/btc/token/348020"
     },
@@ -1283,16 +1284,16 @@
       "url": "https://smartexplorer.com/",
       "url2": [],
       "remark": ""
-    },{
-	"chain":"ENJ",
-"url":"https://enjin.subscan.io/",
-"url2":[],
-"remark":""	
-     },{
-	"chain":"DRC20",
-	"url":"https://unielon.com/drc20/",
-	"url2":["https://drc20.org/tx/"],
-	"remark":""
+    }, {
+      "chain": "ENJ",
+      "url": "https://enjin.subscan.io/",
+      "url2": [],
+      "remark": ""
+    }, {
+      "chain": "DRC20",
+      "url": "https://unielon.com/drc20/",
+      "url2": ["https://drc20.org/tx/", "https://www.drc20.xyz/"],
+      "remark": ""
     }
   ],
   "version": "20231213"
