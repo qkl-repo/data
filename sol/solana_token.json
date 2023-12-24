@@ -64,7 +64,7 @@
   "symbol": "Bonk",
   "decimals": "5",
   "logo": "https://arweave.net/hQiPZOsRZXGXBJd_82PhVdlM_hACsT_q6wqwf5cSY7I"
-}{
+},{
   "token": "5fTwKZP2AK39LtFN9Ayppu6hdCVKfMGVm79F2EgHCtsi",
   "name": "Shredded Apes Whey",
   "symbol": "WHEY",
@@ -112,9 +112,39 @@
   "decimals": "8",
   "logo": "https://assets.coingecko.com/coins/images/17789/large/POLIS.jpg?1629256006"
 },{
+  "token":"93RC484oMK5T9H89rzT5qiAXKHGP9jscXfFfrihNbe57",
+  "name":"ZERO",
+  "symbol":"ZERO",
+  "decimals":9,
+  "logo":""
+},{
+  "token":"4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R",
+  "name":"RAY",
+  "symbol":"RAY",
+  "decimals":6,
+  "logo":""
+},{
+  "token":"HhJpBhRRn4g56VsyLuT8DL5Bv31HkXqsrahTTUCZeZg4",
+  "name":"MYRO",
+  "symbol":"MYRO",
+  "decimals":9,
+  "logo":""
+},{
   "token":"jtojtomepa8beP8AuQc6eXt5FriJwfFMwQx2v2f9mCL",
   "name":"JTO",
   "symbol":"JTO",
+  "decimals":9,
+  "logo":""
+},{
+  "token":"2wme8EVkw8qsfSk2B3QeX4S64ac6wxHPXb3GrdckEkio",
+  "name":"SOLS",
+  "symbol":"SOLS",
+  "decimals":9,
+  "logo":""
+},{
+  "token":"7EYnhQoR9YM3N7UoaKRoA44Uy8JeaZV3qyouov87awMs",
+  "name":"SILLY",
+  "symbol":"SILLY",
   "decimals":9,
   "logo":""
 }]
