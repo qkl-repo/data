@@ -134,7 +134,8 @@
   "name":"JTO",
   "symbol":"JTO",
   "decimals":9,
-  "logo":""
+  "logo":"",
+  "supply":"999999996.2404448"
 },{
   "token":"2wme8EVkw8qsfSk2B3QeX4S64ac6wxHPXb3GrdckEkio",
   "name":"SOLS",
@@ -151,6 +152,6 @@
   "token":"7mmXL6Et4SbpDs2iXoZQ3oPEeXeAiyETxh1QjDNi5qnV",
   "name":"OMNI",
   "symbol":"OMNI",
-  "decimals":9,
+  "decimals":8,
   "logo":""
 }]
