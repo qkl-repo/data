@@ -130,7 +130,7 @@
       "chain": "PCX",
       "url": "https://scan.chainx.org/",
       "url2": [
-        "https://chainx.subscan.io/"
+        "https://chainx.subscan.io/",
 	"https://evm.chainx.org/"
       ],
       "remark": "波卡系列，备用地址 https://chainx.subscan.io/ 已废弃"
