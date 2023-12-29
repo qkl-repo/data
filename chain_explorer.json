@@ -445,7 +445,7 @@
         "https://blockchair.com/bitcoin-cash/",
         "https://blockexplorer.one/bitcoin-cash/mainnet/"
       ],
-      "remark": "BCH代币查询：https://www.registry.cash/"
+      "remark": "BCH代币查询：https://www.registry.cash/   <br /> BCH地址转换: https://bch.info/zh/tools/cashaddr"
     },
     {
       "chain": "ETHW",
