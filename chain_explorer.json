@@ -1295,7 +1295,12 @@
       "url": "https://unielon.com/drc20/",
       "url2": ["https://drc20.org/tx/", "https://www.drc20.xyz/"],
       "remark": ""
+    },{
+      "chain":"INJ",
+      "url":"https://explorer.injective.network/",
+      "url2":[],
+      "remark":""
     }
   ],
-  "version": "20231213"
+  "version": "20240103"
 }
