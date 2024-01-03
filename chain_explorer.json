@@ -1300,7 +1300,12 @@
       "url":"https://explorer.injective.network/",
       "url2":[],
       "remark":""
+    },{
+	"chain":"ZIL(Zilliqa)",
+	"url":"https://viewblock.io/zilliqa",
+	"url2":[],
+	"remark":""
     }
   ],
-  "version": "20240103"
+  "version": "20240103-2"
 }
