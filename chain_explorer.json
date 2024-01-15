@@ -1306,7 +1306,12 @@
 	"url":"https://viewblock.io/zilliqa",
 	"url2":[],
 	"remark":""
+    },{
+	"chain":"FET",
+	"url":"https://explore.fetch.ai/",
+	"url2":["https://atomscan.com/fetchai"],
+	"remark":""
     }
   ],
-  "version": "20240103-2"
+  "version": "20240416"
 }
