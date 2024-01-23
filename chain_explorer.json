@@ -1311,7 +1311,12 @@
 	"url":"https://explore.fetch.ai/",
 	"url2":["https://atomscan.com/fetchai"],
 	"remark":""
+    },{
+	"chain":"OPBNB",
+	"url":"https://opbnbscan.com/",
+	"url2":[],
+	"remark":""
     }
   ],
-  "version": "20240416"
+  "version": "20240123"
 }
