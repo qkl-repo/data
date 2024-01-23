@@ -1316,7 +1316,12 @@
 	"url":"https://opbnbscan.com/",
 	"url2":[],
 	"remark":""
+    },{
+	"chain":"MNT",
+	"url":"https://explorer.mantle.xyz/",
+	"url2":["https://mantlescan.info/"],
+	"remark":""
     }
   ],
-  "version": "20240123"
+  "version": "20240124"
 }
