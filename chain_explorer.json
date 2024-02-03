@@ -6,7 +6,8 @@
         "https://www.oklink.com/zh-cn/eth/",
         "https://ethblockexplorer.org/",
         "https://block.info/explorer/eth/",
-        "https://ethplorer.io/zh/",
+        "https://blockchair.com/zh/ethereum",
+	"https://ethplorer.io/zh/",
         "https://etherscan.io/"
       ],
       "remark": "evm系列"
@@ -25,7 +26,9 @@
       "url": "https://bscscan.com/",
       "url2": [
         "https://www.oklink.com/zh-cn/bsc/",
-        "https://bsctrace.com/"
+        "https://block.info/explorer/bsc",
+	"https://blockchair.com/zh/bnb",
+	"https://bsctrace.com/"
       ],
       "remark": "evm系列"
     },
@@ -330,8 +333,10 @@
       "url2": [
         "https://www.oklink.com/zh-cn/avax",
         "https://subnets.avax.network/c-chain",
-        "https://avascan.info/blockchain/c/home"
-      ],
+        "https://avascan.info/blockchain/c/home",
+	"https://blockchair.com/zh/avalanche",
+	"https://block.info/explorer/avaxc"	
+],
       "remark": "evm系列"
     },
     {
@@ -368,7 +373,8 @@
       "chain": "ADA",
       "url": "https://cardanoscan.io/",
       "url2": [
-        "https://explorer.cardano.org/en",
+      	"https://blockchair.com/zh/cardano",
+	"https://explorer.cardano.org/en",
         "https://explorer.bitquery.io/cardano"
       ],
       "remark": ""
@@ -431,7 +437,9 @@
 	"https://explorer.litecoin.net/zh/",
         "https://explorer.btc.com/ltc",
         "https://ltc.ihashrate.com/",
-        "https://blockexplorer.one/litecoin/mainnet"
+        "https://blockexplorer.one/litecoin/mainnet",
+	"https://block.info/explorer/ltc",
+	"https://blockchair.com/zh/litecoin"
       ]
     },
     {
@@ -444,8 +452,10 @@
         "https://explorer.bitcoinverde.org/",
         "https://explorer.bitcoinunlimited.info/",
         "https://blockchair.com/bitcoin-cash/",
-        "https://blockexplorer.one/bitcoin-cash/mainnet/"
-      ],
+	"https://blockchair.com/zh/bitcoin-cash",
+	"https://blockexplorer.one/bitcoin-cash/mainnet/",
+    	"https://block.info/explorer/bch/" 
+    ],
       "remark": "BCH代币查询：https://www.registry.cash/   <br /> BCH地址转换: https://bch.info/zh/tools/cashaddr"
     },
     {
@@ -468,7 +478,9 @@
       "chain": "OP",
       "url": "https://optimistic.etherscan.io/",
       "url2": [
-        "https://www.oklink.com/zh-cn/optimism"
+        "https://www.oklink.com/zh-cn/optimism",
+	"https://block.info/explorer/op",
+	"https://blockchair.com/zh/optimism"
       ],
       "remark": "evm系列，以太坊二层网络"
     },
@@ -477,7 +489,8 @@
       "url": "https://ftmscan.com/",
       "url2": [
         "https://www.oklink.com/zh-cn/ftm",
-        "https://explorer.fantom.network/"
+        "https://explorer.fantom.network/",
+	"https://blockchair.com/zh/fantom"
       ],
       "remark": "evm系列"
     },
@@ -496,6 +509,7 @@
       "url": "https://etcblockexplorer.com/",
       "url2": [
         "https://www.oklink.com/zh-cn/etc/",
+	"https://blockchair.com/zh/ethereum-classic",
         "https://blockexplorer.one/ethereum-classic/mainnet"
       ],
       "remark": "evm系列"
@@ -507,6 +521,7 @@
         "https://dashblockexplorer.com/",
         "https://explorer.dash.org/insight/",
         "https://blockchair.com/zh/dash",
+	"https://block.info/explorer/dash",
         "https://blockexplorer.one/dash/mainnet"
       ]
     },
@@ -517,7 +532,8 @@
         "https://dogeblocks.com/",
         "https://explorer.viawallet.com/doge",
         "https://blockchair.com/zh/dogecoin",
-        "https://blockexplorer.one/dogecoin/mainnet"
+        "https://blockexplorer.one/dogecoin/mainnet",
+	"https://block.info/explorer/doge"
       ],
       "remark": "代币查询：https://unielon.com/drc20/"
     },
@@ -708,10 +724,11 @@
       "remark": ""
     },
     {
-      "chain": "ARBI",
+      "chain": "ARBITRUM",
       "url": "https://arbiscan.io/",
       "url2": [
-        "https://www.oklink.com/zh-cn/arbitrum"
+        "https://www.oklink.com/zh-cn/arbitrum",
+	"https://block.info/explorer/arb"
       ],
       "remark": "evm系列,以太坊二层网络"
     },
@@ -780,7 +797,8 @@
       "chain": "BASE",
       "url": "https://base.blockscout.com/",
       "url2": [
-        "https://basescan.org/"
+        "https://basescan.org/",
+	"https://blockchair.com/zh/base"
       ],
       "remark": "evm系列,BaseBridge: https://bridge.base.org/deposit"
     },
@@ -809,13 +827,14 @@
       "remark": "evm系列"
     },
     {
-      "chain": "APT",
+      "chain": "APT(Aptos)",
       "url": "https://explorer.aptoslabs.com/",
       "url2": [
         "https://www.oklink.com/zh-cn/apt",
         "https://apscan.io/",
         "https://tracemove.io/",
-        "https://aptoscan.com/"
+        "https://aptoscan.com/",
+	"https://blockchair.com/zh/aptos"
       ],
       "remark": "Aptos"
     },
@@ -1274,7 +1293,7 @@
       "remark": ""
     },
     {
-      "chain": "DNX",
+      "chain": "DNX(Dynex)",
       "url": "https://blockexplorer.dynexcoin.org/",
       "url2": [
         "https://explorer.dynexcoin.org/"
@@ -1312,9 +1331,12 @@
 	"url2":["https://atomscan.com/fetchai"],
 	"remark":""
     },{
-	"chain":"OPBNB",
+	"chain":"opBNB",
 	"url":"https://opbnbscan.com/",
-	"url2":[],
+	"url2":[
+	   "https://blockchair.com/zh/opbnb",
+	   "https://www.oklink.com/cn/opbnb"
+	],
 	"remark":""
     },{
 	"chain":"MNT",
@@ -1323,5 +1345,5 @@
 	"remark":""
     }
   ],
-  "version": "20240124"
+  "version": "20240204"
 }
