@@ -355,11 +355,12 @@
     },
     {
       "chain": "ALGORAND",
-      "url": "https://algoexplorer.io/",
-      "url2": [
+      "url": "https://explorer.bitquery.io/algorand",
+      "url2": [ 
+	"https://algoexplorer.io/",
         "https://algoscan.app/"
       ],
-      "remark": "ALGO链,https://algonode.io/api/"
+      "remark": "ALGO链, algoexplorer,algo已暂停运营"
     },
     {
       "chain": "AE",
