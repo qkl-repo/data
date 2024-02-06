@@ -667,13 +667,13 @@
     {
       "chain": "TERRA-LUNA",
       "url": "https://finder.terra.money/mainnet/",
-      "url2": [],
+      "url2": ["https://atomscan.com/terra2"],
       "remark": "右上角网络选择mainnet"
     },
     {
       "chain": "TERRA-LUNC",
       "url": "https://finder.terra.money/classic/",
-      "url2": [],
+      "url2": ["https://atomscan.com/terra"],
       "remark": "右上角网络选择classic"
     },
     {
