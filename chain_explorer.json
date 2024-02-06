@@ -1344,7 +1344,11 @@
 	"url":"https://explorer.mantle.xyz/",
 	"url2":["https://mantlescan.info/"],
 	"remark":""
-    }
-  ],
-  "version": "20240204"
+    },{
+	"chain":"XVG",
+	"url":"https://verge-blockchain.info/",
+	"url2":[],
+	"remark":""
+   }],
+  "version": "20240206"
 }
