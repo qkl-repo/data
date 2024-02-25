@@ -1349,6 +1349,15 @@
 	"url":"https://verge-blockchain.info/",
 	"url2":[],
 	"remark":""
-   }],
-  "version": "20240206"
+   },{
+	"chain":"STARK",
+	"url":"https://starkscan.co/",
+	"url2":[
+	   "https://www.oklink.com/cn/starknet",
+	   "https://viewblock.io/starknet",
+	   "https://voyager.online/"
+	],
+	"remark":""
+}],
+  "version": "20240219"
 }
