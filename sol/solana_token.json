@@ -159,4 +159,9 @@
   "name":"CWIF",
   "symbol":"CWIF",
   "decimals":2
+},{
+  "token":"947tEoG318GUmyjVYhraNRvWpMX7fpBTDQFBoJvSkSG3",
+  "name":"SOLCHAT",
+  "symbol":"SOLCHAT",
+  "decimals":9
 }]
