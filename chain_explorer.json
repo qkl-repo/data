@@ -1358,6 +1358,16 @@
 	   "https://voyager.online/"
 	],
 	"remark":""
+},{
+	"chain":"Swap SwftCoin",
+	"url":"https://swap.swftcoin.com/swft-v3/swft-v3-pc/index.html",
+	"url2":[],
+	"remark":""
+},{
+	"chain":"Defi Swft",
+	"url":"https://defi.swft.pro/#/?sourceFlag=widget-defi",
+	"url2":[],
+	"remark":""
 }],
-  "version": "20240219"
+  "version": "20240317"
 }
