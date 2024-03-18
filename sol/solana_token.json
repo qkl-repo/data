@@ -164,4 +164,24 @@
   "name":"SOLCHAT",
   "symbol":"SOLCHAT",
   "decimals":9
+},{
+  "token":"21rweMLGYeMNonHW7H3xa5py17X6ZFRcHirCp9inRBQA",
+  "name":"IQ50",
+  "symbol":"IQ50",
+  "decimals":6
+},{
+  "token":"4G86CMxGsMdLETrYnavMFKPhQzKTvDBYGMRAdVtr72nu",
+  "name":"SNAP",
+  "symbol":"SNAP",
+  "decimals":6
+},{
+  "token":"ukHH6c7mMyiWCf1b9pnWe25TSpkDDt3H5pQZgZ74J82",
+  "name":"BOME",
+  "symbol":"BOME",
+  "decimals":6
+},{
+  "token":"947tEoG318GUmyjVYhraNRvWpMX7fpBTDQFBoJvSkSG3",
+  "name":"Solchat",
+  "symbol":"Solchat",
+  "decimals":9
 }]
