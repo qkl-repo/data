@@ -1368,6 +1368,11 @@
 	"url":"https://defi.swft.pro/#/?sourceFlag=widget-defi",
 	"url2":[],
 	"remark":""
+},{
+	"chain":"GateToken GT",
+	"url":"https://gatescan.org/?lang=zh_CN",
+	"url2":[],
+	"remark":""
 }],
-  "version": "20240317"
+  "version": "20240319"
 }
