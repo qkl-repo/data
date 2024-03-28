@@ -1374,6 +1374,11 @@
 	"url":"https://gatescan.org/?lang=zh_CN",
 	"url2":[],
 	"remark":""
+},{
+	"chain":"Merlin",
+	"url":"https://scan.merlinchain.io/",
+	"url2":[],
+	"remark":""
 }],
-  "version": "20240327"
+  "version": "20240328"
 }
