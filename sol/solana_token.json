@@ -158,7 +158,8 @@
   "token":"7atgF8KQo4wJrD5ATGX7t1V2zVvykPJbFfNeVf1icFv1",
   "name":"CWIF",
   "symbol":"CWIF",
-  "decimals":2
+  "decimals":2,
+  "transferFee":"4%"
 },{
   "token":"947tEoG318GUmyjVYhraNRvWpMX7fpBTDQFBoJvSkSG3",
   "name":"SOLCHAT",
@@ -204,4 +205,9 @@
  "name":"PUPS",
  "symbol":"PUPS",
  "decimals":9
+},{
+  "token":"TNSRxcUxoT9xBG3de7PiJyTDYu7kskLqcpddxnEJAS6",
+  "name":"TNSR",
+  "symbol":"TNSR",
+  "decimals":9
 }]
