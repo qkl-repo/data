@@ -215,4 +215,29 @@
   "name":"W",
   "symbol":"W",
   "decimals":6
+},{
+  "token":"PUPS8ZgJ5po4UmNDfqtDMCPP6M1KP3EEzG9Zufcwzrg",
+  "name":"PUPS",
+  "symbol":"PUPS",
+  "decimals":9
+},{
+  "token":"TNSRxcUxoT9xBG3de7PiJyTDYu7kskLqcpddxnEJAS6",
+  "name":"TNSR",
+  "symbol":"TNSR",
+  "decimals":9
+},{
+  "token":"7GCihgDB8fe6KNjn2MYtkzZcRjQy3t9GHdC8uHYmW2hr",
+  "name":"POPCAT",
+  "symbol":"POPCAT",
+  "decimals":18
+},{
+  "token":"25hAyBQfoDhfWx9ay6rarbgvWGwDdNqcHsXS3jQ3mTDJ",
+  "name":"MANEKI",
+  "symbol":"MANEKI",
+  "decimals":5
+},{
+  "token":"H7bTHGb5Cvo5fGe5jBDNDPUv8KykQnzyZA3qZ8sH7yxw",
+  "name":"GUMMY",
+  "symbol":"GUMMY",
+  "decimals":9
 }]
