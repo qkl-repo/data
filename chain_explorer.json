@@ -596,9 +596,10 @@
     },
     {
       "chain": "RVN",
-      "url": "https://ravencoin.network/rvn",
+      "url": "https://blockbook.ravencoin.org/",
       "url2": [
-        "https://rvnblockexplorer.com/"
+        "https://rvnblockexplorer.com/",
+	"https://ravencoin.network/rvn"
       ],
       "remark": ""
     },
