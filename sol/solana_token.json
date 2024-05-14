@@ -240,4 +240,9 @@
   "name":"GUMMY",
   "symbol":"GUMMY",
   "decimals":9
+},{
+   "token":"8wXtPeU6557ETkp9WHFY1n1EcU6NxDvbAggHGsMYiHsB",
+   "name":"GME",
+   "symbol":"GME",
+   "decimals":9
 }]
