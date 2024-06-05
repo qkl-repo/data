@@ -13,7 +13,7 @@
       "remark": "evm系列"
     },
     {
-      "chain": "TRON(TRX,TRC20,TRC10)",
+      "chain": "TRON(TRX,TRC20)",
       "url": "https://tronscan.org/#/",
       "url2": [
         "https://www.oklink.com/zh-cn/trx/",
@@ -195,22 +195,22 @@
       "remark": ""
     },
     {
-      "chain": "VET/VTHO",
+      "chain": "VET",
       "url": "https://explore.vechain.org/",
       "url2": [
         "https://insight.vecha.in/#/main/",
         "https://vechainstats.com/"
       ],
-      "remark": "推荐的需要科学访问"
+      "remark": "VET,VTHO"
     },
     {
-      "chain": "THETA/TFUEL",
+      "chain": "THETA",
       "url": "https://explorer.thetatoken.org/",
       "url2": [],
-      "remark": ""
+      "remark": "Theta,Tfuel"
     },
     {
-      "chain": "NEO Legacy",
+      "chain": "NEO Legacy(N2)",
       "url": "https://neoscan.io/",
       "url2": [
         "https://neo2.neotube.io/home",
