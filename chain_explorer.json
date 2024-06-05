@@ -1380,6 +1380,11 @@
 	"url":"https://scan.merlinchain.io/",
 	"url2":[],
 	"remark":""
+},{
+	"chain":"KAS(Kaspa)",
+	"url":"https://explorer.kaspa.org/",
+	"url2":[],
+	"remark":""
 }],
-  "version": "20240328"
+  "version": "20240605"
 }
