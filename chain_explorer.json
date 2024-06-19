@@ -1094,6 +1094,7 @@
       "chain": "TON",
       "url": "https://tonscan.org/",
       "url2": [
+        "https://tonviewer.com/",
         "https://explorer.tonnft.tools/"
       ],
       "remark": ""
