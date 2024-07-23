@@ -97,6 +97,7 @@
       "chain": "DOT",
       "url": "https://polkadot.subscan.io/",
       "url2": [
+	"https://www.statescan.io/#/",
         "https://explorer.polkascan.io/polkadot/transaction"
       ],
       "remark": "波卡系列"
@@ -105,6 +106,7 @@
       "chain": "KSM",
       "url": "https://kusama.subscan.io/",
       "url2": [
+	"https://kusama.statescan.io/",
         "https://explorer.polkascan.io/kusama/transaction"
       ],
       "remark": "波卡系列"
@@ -1097,7 +1099,7 @@
         "https://tonviewer.com/",
         "https://explorer.tonnft.tools/"
       ],
-      "remark": ""
+      "remark": "地址在线转换:  https://ton.org/address/ "
     },
     {
       "chain": "RSK",
