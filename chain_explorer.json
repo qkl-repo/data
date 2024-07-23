@@ -100,7 +100,7 @@
 	"https://www.statescan.io/#/",
         "https://explorer.polkascan.io/polkadot/transaction"
       ],
-      "remark": "波卡系列"
+      "remark": "波卡系列, 地址格式转换工具: https://polkadot-address-convertor.netlify.app/"
     },
     {
       "chain": "KSM",
@@ -121,6 +121,7 @@
       "chain": "EDG",
       "url": "http://edgscan.ink/",
       "url2": [
+	"https://edgscan.live/",
         "余额查询: https://sub.id/"
       ],
       "remark": "波卡系列,https://edgeware.subscan.io/区块浏览器废弃"
