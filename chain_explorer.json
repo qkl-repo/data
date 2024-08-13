@@ -1389,6 +1389,11 @@
 	"url":"https://explorer.kaspa.org/",
 	"url2":[],
 	"remark":""
+},{
+	"chain":"VENOM",
+	"url":"https://venomscan.com/",
+	"url2":["https://venomscan.live/transactions"],
+	"remark":""
 }],
   "version": "20240605"
 }
