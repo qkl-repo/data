@@ -641,7 +641,7 @@
     {
       "chain": "XDC",
       "url": "https://explorer.xinfin.network/",
-      "url2": [],
+      "url2": ["https://xdc.network/","https://observer.xdc.org/","https://xdcscan.io/"],
       "remark": "evm系列"
     },
     {
