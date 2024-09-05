@@ -1394,6 +1394,11 @@
 	"url":"https://venomscan.com/",
 	"url2":["https://venomscan.live/transactions"],
 	"remark":""
+},{
+	"chain":"ENJ",
+	"url":"https://enjin.subscan.io/extrinsic",
+	"url2":[],
+	"remark":"ENJ�波卡"
 }],
-  "version": "20240605"
+  "version": "20240905"
 }
