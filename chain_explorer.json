@@ -336,7 +336,8 @@
       "url2": [
         "https://www.oklink.com/zh-cn/avax",
         "https://subnets.avax.network/c-chain",
-        "https://avascan.info/blockchain/c/home",
+        "https://snowscan.xyz/",
+	"https://avascan.info/blockchain/c/home",
 	"https://blockchair.com/zh/avalanche",
 	"https://block.info/explorer/avaxc"	
 ],
