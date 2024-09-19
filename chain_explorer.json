@@ -7,7 +7,7 @@
         "https://ethblockexplorer.org/",
         "https://block.info/explorer/eth/",
         "https://blockchair.com/zh/ethereum",
-	"https://ethplorer.io/zh/",
+        "https://ethplorer.io/zh/",
         "https://etherscan.io/"
       ],
       "remark": "evm系列"
@@ -27,8 +27,8 @@
       "url2": [
         "https://www.oklink.com/zh-cn/bsc/",
         "https://block.info/explorer/bsc",
-	"https://blockchair.com/zh/bnb",
-	"https://bsctrace.com/"
+        "https://blockchair.com/zh/bnb",
+        "https://bsctrace.com/"
       ],
       "remark": "evm系列"
     },
@@ -97,7 +97,7 @@
       "chain": "DOT",
       "url": "https://polkadot.subscan.io/",
       "url2": [
-	"https://www.statescan.io/#/",
+        "https://www.statescan.io/#/",
         "https://explorer.polkascan.io/polkadot/transaction"
       ],
       "remark": "波卡系列, 地址格式转换工具: https://polkadot-address-convertor.netlify.app/"
@@ -106,7 +106,7 @@
       "chain": "KSM",
       "url": "https://kusama.subscan.io/",
       "url2": [
-	"https://kusama.statescan.io/",
+        "https://kusama.statescan.io/",
         "https://explorer.polkascan.io/kusama/transaction"
       ],
       "remark": "波卡系列"
@@ -121,7 +121,7 @@
       "chain": "EDG",
       "url": "http://edgscan.ink/",
       "url2": [
-	"https://edgscan.live/",
+        "https://edgscan.live/",
         "余额查询: https://sub.id/"
       ],
       "remark": "波卡系列,https://edgeware.subscan.io/区块浏览器废弃"
@@ -137,7 +137,7 @@
       "url": "https://scan.chainx.org/",
       "url2": [
         "https://chainx.subscan.io/",
-	"https://evm.chainx.org/"
+        "https://evm.chainx.org/"
       ],
       "remark": "波卡系列，备用地址 https://chainx.subscan.io/ 已废弃"
     },
@@ -337,10 +337,10 @@
         "https://www.oklink.com/zh-cn/avax",
         "https://subnets.avax.network/c-chain",
         "https://snowscan.xyz/",
-	"https://avascan.info/blockchain/c/home",
-	"https://blockchair.com/zh/avalanche",
-	"https://block.info/explorer/avaxc"	
-],
+        "https://avascan.info/blockchain/c/home",
+        "https://blockchair.com/zh/avalanche",
+        "https://block.info/explorer/avaxc"
+      ],
       "remark": "evm系列"
     },
     {
@@ -360,8 +360,8 @@
     {
       "chain": "ALGORAND",
       "url": "https://explorer.bitquery.io/algorand",
-      "url2": [ 
-	"https://algoexplorer.io/",
+      "url2": [
+        "https://algoexplorer.io/",
         "https://algoscan.app/"
       ],
       "remark": "ALGO链, algoexplorer,algoscan已暂停运营"
@@ -371,7 +371,7 @@
       "url": "https://www.aeknow.org/",
       "url2": [
         "https://explorer.aeternity.io/",
-	"https://aescan.io/"
+        "https://aescan.io/"
       ],
       "remark": ""
     },
@@ -379,8 +379,8 @@
       "chain": "ADA",
       "url": "https://cardanoscan.io/",
       "url2": [
-      	"https://blockchair.com/zh/cardano",
-	"https://explorer.cardano.org/en",
+        "https://blockchair.com/zh/cardano",
+        "https://explorer.cardano.org/en",
         "https://explorer.bitquery.io/cardano"
       ],
       "remark": ""
@@ -440,12 +440,12 @@
       "url2": [
         "https://litecoinblockexplorer.net/",
         "https://explorer.viawallet.com/ltc",
-	"https://explorer.litecoin.net/zh/",
+        "https://explorer.litecoin.net/zh/",
         "https://explorer.btc.com/ltc",
         "https://ltc.ihashrate.com/",
         "https://blockexplorer.one/litecoin/mainnet",
-	"https://block.info/explorer/ltc",
-	"https://blockchair.com/zh/litecoin"
+        "https://block.info/explorer/ltc",
+        "https://blockchair.com/zh/litecoin"
       ]
     },
     {
@@ -458,10 +458,10 @@
         "https://explorer.bitcoinverde.org/",
         "https://explorer.bitcoinunlimited.info/",
         "https://blockchair.com/bitcoin-cash/",
-	"https://blockchair.com/zh/bitcoin-cash",
-	"https://blockexplorer.one/bitcoin-cash/mainnet/",
-    	"https://block.info/explorer/bch/" 
-    ],
+        "https://blockchair.com/zh/bitcoin-cash",
+        "https://blockexplorer.one/bitcoin-cash/mainnet/",
+        "https://block.info/explorer/bch/"
+      ],
       "remark": "BCH代币查询：https://www.registry.cash/   <br /> BCH地址转换: https://bch.info/zh/tools/cashaddr"
     },
     {
@@ -485,8 +485,8 @@
       "url": "https://optimistic.etherscan.io/",
       "url2": [
         "https://www.oklink.com/zh-cn/optimism",
-	"https://block.info/explorer/op",
-	"https://blockchair.com/zh/optimism"
+        "https://block.info/explorer/op",
+        "https://blockchair.com/zh/optimism"
       ],
       "remark": "evm系列，以太坊二层网络"
     },
@@ -496,7 +496,7 @@
       "url2": [
         "https://www.oklink.com/zh-cn/ftm",
         "https://explorer.fantom.network/",
-	"https://blockchair.com/zh/fantom"
+        "https://blockchair.com/zh/fantom"
       ],
       "remark": "evm系列"
     },
@@ -515,7 +515,7 @@
       "url": "https://etcblockexplorer.com/",
       "url2": [
         "https://www.oklink.com/zh-cn/etc/",
-	"https://blockchair.com/zh/ethereum-classic",
+        "https://blockchair.com/zh/ethereum-classic",
         "https://blockexplorer.one/ethereum-classic/mainnet"
       ],
       "remark": "evm系列"
@@ -527,7 +527,7 @@
         "https://dashblockexplorer.com/",
         "https://explorer.dash.org/insight/",
         "https://blockchair.com/zh/dash",
-	"https://block.info/explorer/dash",
+        "https://block.info/explorer/dash",
         "https://blockexplorer.one/dash/mainnet"
       ]
     },
@@ -539,7 +539,7 @@
         "https://explorer.viawallet.com/doge",
         "https://blockchair.com/zh/dogecoin",
         "https://blockexplorer.one/dogecoin/mainnet",
-	"https://block.info/explorer/doge"
+        "https://block.info/explorer/doge"
       ],
       "remark": "代币查询：https://unielon.com/drc20/"
     },
@@ -603,7 +603,7 @@
       "url": "https://blockbook.ravencoin.org/",
       "url2": [
         "https://rvnblockexplorer.com/",
-	"https://ravencoin.network/rvn"
+        "https://ravencoin.network/rvn"
       ],
       "remark": ""
     },
@@ -642,7 +642,7 @@
     {
       "chain": "XDC",
       "url": "https://explorer.xinfin.network/",
-      "url2": ["https://xdc.network/","https://observer.xdc.org/","https://xdcscan.io/"],
+      "url2": ["https://xdc.network/", "https://observer.xdc.org/", "https://xdcscan.io/"],
       "remark": "evm系列"
     },
     {
@@ -735,7 +735,7 @@
       "url": "https://arbiscan.io/",
       "url2": [
         "https://www.oklink.com/zh-cn/arbitrum",
-	"https://block.info/explorer/arb"
+        "https://block.info/explorer/arb"
       ],
       "remark": "evm系列,以太坊二层网络"
     },
@@ -805,7 +805,7 @@
       "url": "https://base.blockscout.com/",
       "url2": [
         "https://basescan.org/",
-	"https://blockchair.com/zh/base"
+        "https://blockchair.com/zh/base"
       ],
       "remark": "evm系列,BaseBridge: https://bridge.base.org/deposit"
     },
@@ -841,7 +841,7 @@
         "https://apscan.io/",
         "https://tracemove.io/",
         "https://aptoscan.com/",
-	"https://blockchair.com/zh/aptos"
+        "https://blockchair.com/zh/aptos"
       ],
       "remark": "Aptos"
     },
@@ -1323,83 +1323,89 @@
       "url": "https://unielon.com/drc20/",
       "url2": ["https://drc20.org/tx/", "https://www.drc20.xyz/"],
       "remark": ""
-    },{
-      "chain":"INJ",
-      "url":"https://explorer.injective.network/",
-      "url2":[],
-      "remark":""
-    },{
-	"chain":"ZIL(Zilliqa)",
-	"url":"https://viewblock.io/zilliqa",
-	"url2":[],
-	"remark":""
-    },{
-	"chain":"FET",
-	"url":"https://explore.fetch.ai/",
-	"url2":["https://atomscan.com/fetchai"],
-	"remark":""
-    },{
-	"chain":"opBNB",
-	"url":"https://opbnbscan.com/",
-	"url2":[
-	   "https://blockchair.com/zh/opbnb",
-	   "https://www.oklink.com/cn/opbnb"
-	],
-	"remark":""
-    },{
-	"chain":"MNT",
-	"url":"https://explorer.mantle.xyz/",
-	"url2":["https://mantlescan.info/"],
-	"remark":""
-    },{
-	"chain":"XVG",
-	"url":"https://verge-blockchain.info/",
-	"url2":["https://xvgblockexplorer.com/"],
-	"remark":""
-   },{
-	"chain":"STARK",
-	"url":"https://starkscan.co/",
-	"url2":[
-	   "https://www.oklink.com/cn/starknet",
-	   "https://viewblock.io/starknet",
-	   "https://voyager.online/"
-	],
-	"remark":""
-},{
-	"chain":"Swap SwftCoin",
-	"url":"https://swap.swftcoin.com/swft-v3/swft-v3-pc/index.html",
-	"url2":[],
-	"remark":""
-},{
-	"chain":"Defi Swft",
-	"url":"https://defi.swft.pro/#/?sourceFlag=widget-defi",
-	"url2":[],
-	"remark":""
-},{
-	"chain":"GateToken GT",
-	"url":"https://gatescan.org/?lang=zh_CN",
-	"url2":[],
-	"remark":""
-},{
-	"chain":"Merlin",
-	"url":"https://scan.merlinchain.io/",
-	"url2":[],
-	"remark":""
-},{
-	"chain":"KAS(Kaspa)",
-	"url":"https://explorer.kaspa.org/",
-	"url2":[],
-	"remark":""
-},{
-	"chain":"VENOM",
-	"url":"https://venomscan.com/",
-	"url2":["https://venomscan.live/transactions"],
-	"remark":""
-},{
-	"chain":"ENJ",
-	"url":"https://enjin.subscan.io/extrinsic",
-	"url2":[],
-	"remark":"ENJ�波卡"
-}],
-  "version": "20240905"
+    }, {
+      "chain": "INJ",
+      "url": "https://explorer.injective.network/",
+      "url2": [],
+      "remark": ""
+    }, {
+      "chain": "ZIL(Zilliqa)",
+      "url": "https://viewblock.io/zilliqa",
+      "url2": [],
+      "remark": ""
+    }, {
+      "chain": "FET",
+      "url": "https://explore.fetch.ai/",
+      "url2": ["https://atomscan.com/fetchai"],
+      "remark": ""
+    }, {
+      "chain": "opBNB",
+      "url": "https://opbnbscan.com/",
+      "url2": [
+        "https://blockchair.com/zh/opbnb",
+        "https://www.oklink.com/cn/opbnb"
+      ],
+      "remark": ""
+    }, {
+      "chain": "MNT",
+      "url": "https://explorer.mantle.xyz/",
+      "url2": ["https://mantlescan.info/"],
+      "remark": ""
+    }, {
+      "chain": "XVG",
+      "url": "https://verge-blockchain.info/",
+      "url2": ["https://xvgblockexplorer.com/"],
+      "remark": ""
+    }, {
+      "chain": "STARK",
+      "url": "https://starkscan.co/",
+      "url2": [
+        "https://www.oklink.com/cn/starknet",
+        "https://viewblock.io/starknet",
+        "https://voyager.online/"
+      ],
+      "remark": ""
+    }, {
+      "chain": "Swap SwftCoin",
+      "url": "https://swap.swftcoin.com/swft-v3/swft-v3-pc/index.html",
+      "url2": [],
+      "remark": ""
+    }, {
+      "chain": "Defi Swft",
+      "url": "https://defi.swft.pro/#/?sourceFlag=widget-defi",
+      "url2": [],
+      "remark": ""
+    }, {
+      "chain": "GateToken GT",
+      "url": "https://gatescan.org/?lang=zh_CN",
+      "url2": [],
+      "remark": ""
+    }, {
+      "chain": "Merlin",
+      "url": "https://scan.merlinchain.io/",
+      "url2": [],
+      "remark": ""
+    }, {
+      "chain": "KAS(Kaspa)",
+      "url": "https://explorer.kaspa.org/",
+      "url2": [],
+      "remark": ""
+    }, {
+      "chain": "VENOM",
+      "url": "https://venomscan.com/",
+      "url2": ["https://venomscan.live/transactions"],
+      "remark": ""
+    }, {
+      "chain": "ENJ",
+      "url": "https://enjin.subscan.io/extrinsic",
+      "url2": [],
+      "remark": "ENJ波卡"
+    }, {
+      "chain": "Celenium(TIA)",
+      "url": "https://celenium.io/",
+      "url2": [],
+      "remark": "Celenium(TIA)"
+    }
+  ],
+  "version": "20240919"
 }
