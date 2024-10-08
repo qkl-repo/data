@@ -1405,7 +1405,12 @@
       "url": "https://celenium.io/",
       "url2": [],
       "remark": "Celenium(TIA)"
+    },{
+     "chain":"ZETA",
+     “url”:"https://explorer.zetachain.com/",
+     "url2":["https://zetachain.explorers.guru/"],
+     "remark“:""
     }
   ],
-  "version": "20240919"
+  "version": "20241008"
 }
