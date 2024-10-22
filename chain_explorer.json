@@ -48,6 +48,7 @@
       "chain": "XRP",
       "url": "https://xrpscan.com/",
       "url2": [
+	"https://xrplexplorer.com/explorer/",
         "https://blockexplorer.one/xrp/mainnet",
         "https://livenet.xrpl.org/",
         "https://bithomp.com/explorer/",
@@ -1407,9 +1408,14 @@
       "remark": "Celenium(TIA)"
     },{
      "chain":"ZETA",
-     “url”:"https://explorer.zetachain.com/",
+     "url":"https://explorer.zetachain.com/",
      "url2":["https://zetachain.explorers.guru/"],
-     "remark“:""
+     "remark":""
+    },{
+      "chain”:"TAIKO",
+      "url":"https://taikoexplorer.com/",
+      "url2”:[],
+      "remark":"EVM"	 
     }
   ],
   "version": "20241008"
