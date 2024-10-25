@@ -1413,10 +1413,20 @@
       "remark": ""
     }, {
       "chain": "TAIKO",
-      "url": "https://taikoexplorer.com/",
+      "url": "https://taikoscan.io/",
+      "url2": ["https://taikoexplorer.com/"],
+      "remark": "EVM,跨链换币：https://swap.hekla.taiko.xyz/#/swap,  跨链桥：https://bridge.taiko.xyz/"
+    }, {
+      "chain": "LUMIA",
+      "url": "https://explorer.lumia.org/",
       "url2": [],
-      "remark": "EVM"
+      "remark": "EVM.跨链换币：https://www.usenexus.org/"
+    }, {
+      "chain": "Scroll",
+      "url": "https://www.oklink.com/zh-hans/scroll",
+      "url2": ["https://scrollscan.com/"],
+      "remark": "evm"
     }
   ],
-  "version": "20241022"
+  "version": "20241025"
 }
