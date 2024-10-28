@@ -69,5 +69,6 @@
   { "token": "GGNjdo7xPENCfJAk7P8jiMHAxiv5CRBnwPiRHLdouxmm", "symbol": "USDt", "decimals": 7 },
   { "token": "DriFtupJYLTosbwoN8koMbEYSx54aFAVLddWsbksjwg7", "symbol": "DRIFT", "decimals": 6 },
   { "token": "ED5nyyWEzpPPiWimP8vYm7sD7TD3LAt3Q3gRTWHzPJBY", "symbol": "MOODENG", "decimals": 6 },
-  { "token": "Grass7B4RdKfBCjTKgSqnXkqjwiGvQyFbuSCUJr3XXjs", "symbol": "GRASS", "decimals": 9 }
+  { "token": "Grass7B4RdKfBCjTKgSqnXkqjwiGvQyFbuSCUJr3XXjs", "symbol": "GRASS", "decimals": 9 },
+  { "token": "CzLSujWBLFsSjncfkh59rUFqvafWcY5tzedWJSuypump", "symbol": "GOAT", "decimals": 6 }
 ]
