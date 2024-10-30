@@ -570,7 +570,7 @@
     },
     {
       "chain": "ZCASH(ZEC)",
-      "url": "https://zcashblockexplorer.com/",
+      "url": "https://zecblockexplorer.com/blocks",
       "url2": [
         "https://explorer.bitquery.io/zh/zcash",
         "https://3xpl.com/zcash/",
