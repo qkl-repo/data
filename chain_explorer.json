@@ -1426,7 +1426,12 @@
       "url": "https://www.oklink.com/zh-hans/scroll",
       "url2": ["https://scrollscan.com/"],
       "remark": "evm"
+    },{
+      "chain":"TELO",
+      "url":"https://www.teloscan.io/",
+      "url2":[],
+      "remark":""
     }
   ],
-  "version": "20241025"
+  "version": "20241101"
 }
