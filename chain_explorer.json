@@ -1431,6 +1431,14 @@
       "url":"https://www.teloscan.io/",
       "url2":[],
       "remark":""
+    },{
+     "chain":"ALEO",
+	"url":"https://aleoscan.io/",
+	"url2":[
+	 “https://aleo.info/",
+	  "https://mainnet.aleo123.io/transactions",
+	],
+	"remark":"" 
     }
   ],
   "version": "20241101"
