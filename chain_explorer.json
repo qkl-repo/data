@@ -1439,7 +1439,12 @@
 	  "https://mainnet.aleo123.io/transactions",
 	],
 	"remark":"" 
+    },{
+	"chain":"DAG",
+	"url":"https://mainnet.dagexplorer.io/",
+	"url2":[],
+	"remark":""
     }
   ],
-  "version": "20241101"
+  "version": "20241108"
 }
