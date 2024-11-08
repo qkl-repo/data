@@ -1444,7 +1444,12 @@
 	"url":"https://mainnet.dagexplorer.io/",
 	"url2":[],
 	"remark":""
-    }
+    },{
+	"chain":"PEAQ",
+	"url":"https://peaq.subscan.io/",
+	"url2":[],
+	"remark":""
+     }
   ],
-  "version": "20241108"
+  "version": "20241108-1"
 }
