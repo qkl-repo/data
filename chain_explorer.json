@@ -1,9 +1,10 @@
 {
-  "listData": [{
+  "listData": [
+    {
       "chain": "ETH(ERC20)",
-      "url": "https://cn.etherscan.com/",
+      "url": "https://www.oklink.com/zh-cn/eth/",
       "url2": [
-        "https://www.oklink.com/zh-cn/eth/",
+        "https://etherscan.io/",
         "https://ethblockexplorer.org/",
         "https://block.info/explorer/eth/",
         "https://blockchair.com/zh/ethereum",
@@ -643,7 +644,11 @@
     {
       "chain": "XDC",
       "url": "https://explorer.xinfin.network/",
-      "url2": ["https://xdc.network/", "https://observer.xdc.org/", "https://xdcscan.io/"],
+      "url2": [
+        "https://xdc.network/",
+        "https://observer.xdc.org/",
+        "https://xdcscan.io/"
+      ],
       "remark": "evm系列"
     },
     {
@@ -674,13 +679,17 @@
     {
       "chain": "TERRA-LUNA",
       "url": "https://finder.terra.money/mainnet/",
-      "url2": ["https://atomscan.com/terra2"],
+      "url2": [
+        "https://atomscan.com/terra2"
+      ],
       "remark": "右上角网络选择mainnet"
     },
     {
       "chain": "TERRA-LUNC",
       "url": "https://finder.terra.money/classic/",
-      "url2": ["https://atomscan.com/terra"],
+      "url2": [
+        "https://atomscan.com/terra"
+      ],
       "remark": "右上角网络选择classic"
     },
     {
@@ -1314,32 +1323,43 @@
       "url": "https://smartexplorer.com/",
       "url2": [],
       "remark": ""
-    }, {
+    },
+    {
       "chain": "ENJ",
       "url": "https://enjin.subscan.io/",
       "url2": [],
       "remark": ""
-    }, {
+    },
+    {
       "chain": "DRC20",
       "url": "https://unielon.com/drc20/",
-      "url2": ["https://drc20.org/tx/", "https://www.drc20.xyz/"],
+      "url2": [
+        "https://drc20.org/tx/",
+        "https://www.drc20.xyz/"
+      ],
       "remark": ""
-    }, {
+    },
+    {
       "chain": "INJ",
       "url": "https://explorer.injective.network/",
       "url2": [],
       "remark": ""
-    }, {
+    },
+    {
       "chain": "ZIL(Zilliqa)",
       "url": "https://viewblock.io/zilliqa",
       "url2": [],
       "remark": ""
-    }, {
+    },
+    {
       "chain": "FET",
       "url": "https://explore.fetch.ai/",
-      "url2": ["https://atomscan.com/fetchai"],
+      "url2": [
+        "https://atomscan.com/fetchai"
+      ],
       "remark": ""
-    }, {
+    },
+    {
       "chain": "opBNB",
       "url": "https://opbnbscan.com/",
       "url2": [
@@ -1347,17 +1367,24 @@
         "https://www.oklink.com/cn/opbnb"
       ],
       "remark": ""
-    }, {
+    },
+    {
       "chain": "MNT",
       "url": "https://explorer.mantle.xyz/",
-      "url2": ["https://mantlescan.info/"],
+      "url2": [
+        "https://mantlescan.info/"
+      ],
       "remark": ""
-    }, {
+    },
+    {
       "chain": "XVG",
       "url": "https://verge-blockchain.info/",
-      "url2": ["https://xvgblockexplorer.com/"],
+      "url2": [
+        "https://xvgblockexplorer.com/"
+      ],
       "remark": ""
-    }, {
+    },
+    {
       "chain": "STARK",
       "url": "https://starkscan.co/",
       "url2": [
@@ -1366,90 +1393,114 @@
         "https://voyager.online/"
       ],
       "remark": ""
-    }, {
+    },
+    {
       "chain": "Swap SwftCoin",
       "url": "https://swap.swftcoin.com/swft-v3/swft-v3-pc/index.html",
       "url2": [],
       "remark": ""
-    }, {
+    },
+    {
       "chain": "Defi Swft",
       "url": "https://defi.swft.pro/#/?sourceFlag=widget-defi",
       "url2": [],
       "remark": ""
-    }, {
+    },
+    {
       "chain": "GateToken GT",
       "url": "https://gatescan.org/?lang=zh_CN",
       "url2": [],
       "remark": ""
-    }, {
+    },
+    {
       "chain": "Merlin",
       "url": "https://scan.merlinchain.io/",
       "url2": [],
       "remark": ""
-    }, {
+    },
+    {
       "chain": "KAS(Kaspa)",
       "url": "https://explorer.kaspa.org/",
       "url2": [],
       "remark": ""
-    }, {
+    },
+    {
       "chain": "VENOM",
       "url": "https://venomscan.com/",
-      "url2": ["https://venomscan.live/transactions"],
+      "url2": [
+        "https://venomscan.live/transactions"
+      ],
       "remark": ""
-    }, {
+    },
+    {
       "chain": "ENJ",
       "url": "https://enjin.subscan.io/extrinsic",
       "url2": [],
       "remark": "ENJ波卡"
-    }, {
+    },
+    {
       "chain": "Celenium(TIA)",
       "url": "https://celenium.io/",
       "url2": [],
       "remark": "Celenium(TIA)"
-    }, {
+    },
+    {
       "chain": "ZETA",
       "url": "https://explorer.zetachain.com/",
-      "url2": ["https://zetachain.explorers.guru/"],
+      "url2": [
+        "https://zetachain.explorers.guru/"
+      ],
       "remark": "跨链换币：https://app.symbiosis.finance/swap"
-    }, {
+    },
+    {
       "chain": "TAIKO",
       "url": "https://taikoscan.io/",
-      "url2": ["https://taikoexplorer.com/"],
+      "url2": [
+        "https://taikoexplorer.com/"
+      ],
       "remark": "EVM,跨链换币：https://swap.hekla.taiko.xyz/#/swap,  跨链桥：https://bridge.taiko.xyz/"
-    }, {
+    },
+    {
       "chain": "LUMIA",
       "url": "https://explorer.lumia.org/",
       "url2": [],
       "remark": "EVM.跨链换币：https://www.usenexus.org/"
-    }, {
+    },
+    {
       "chain": "Scroll",
       "url": "https://www.oklink.com/zh-hans/scroll",
-      "url2": ["https://scrollscan.com/"],
+      "url2": [
+        "https://scrollscan.com/"
+      ],
       "remark": "evm"
-    },{
-      "chain":"TELO",
-      "url":"https://www.teloscan.io/",
-      "url2":[],
-      "remark":""
-    },{
-     "chain":"ALEO",
-	"url":"https://aleoscan.io/",
-	"url2":[
-	 "https://aleo.info/",
-	  "https://mainnet.aleo123.io/transactions"
-	],
-	"remark":"" 
-    },{
-	"chain":"DAG",
-	"url":"https://mainnet.dagexplorer.io/",
-	"url2":[],
-	"remark":""
-    },{
-	"chain":"PEAQ",
-	"url":"https://peaq.subscan.io/",
-	"url2":[],
-	"remark":""
-     }
+    },
+    {
+      "chain": "TELO",
+      "url": "https://www.teloscan.io/",
+      "url2": [],
+      "remark": ""
+    },
+    {
+      "chain": "ALEO",
+      "url": "https://aleoscan.io/",
+      "url2": [
+        "https://aleo.info/",
+        "https://mainnet.aleo123.io/transactions"
+      ],
+      "remark": ""
+    },
+    {
+      "chain": "DAG",
+      "url": "https://mainnet.dagexplorer.io/",
+      "url2": [],
+      "remark": ""
+    },
+    {
+      "chain": "PEAQ",
+      "url": "https://peaq.subscan.io/",
+      "url2": [],
+      "remark": ""
+    }
   ],
   "version": "20241108-1"
 }
