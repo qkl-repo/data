@@ -1,6 +1,5 @@
 {
-  "listData": [
-    {
+  "listData": [{
       "chain": "ETH(ERC20)",
       "url": "https://www.oklink.com/zh-cn/eth/",
       "url2": [
@@ -1500,7 +1499,12 @@
       "url": "https://peaq.subscan.io/",
       "url2": [],
       "remark": ""
+    }, {
+      "chain": "World",
+      "url": "https://worldscan.org/",
+      "url2": [],
+      "remark": ""
     }
   ],
-  "version": "20241108-1"
+  "version": "20241114"
 }
