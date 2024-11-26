@@ -73,5 +73,6 @@
   { "token": "CzLSujWBLFsSjncfkh59rUFqvafWcY5tzedWJSuypump", "symbol": "GOAT", "decimals": 6 },
   {"token":"CTJf74cTo3cw8acFP1YXF3QpsQUUBGBjh2k2e8xsZ6UL","symbol":"Neiro_Z6UL","decimals": 6},
   {"token":"FQ1tyso61AH1tzodyJfSwmzsD3GToybbRNoZxUBz21p8","symbol":"VVAIFU","decimals":6},
-  {"token":"Df6yfrKC8kZE3KNkrHERKzAetSxbrWeniQfyJY4Jpump","symbol":"CHILLGUY","decimals":6}
+  {"token":"Df6yfrKC8kZE3KNkrHERKzAetSxbrWeniQfyJY4Jpump","symbol":"CHILLGUY","decimals":6},
+  {"token":"2qEHjDLDLbuBgRYvsxhc5D6uDWAivNFZGan56P1tpump","symbol":"PNUT","decimals":"6"}
 ]
