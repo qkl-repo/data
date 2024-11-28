@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <button onclick="openDialog()">open dialog</button>
+    <dialog id="dialog" open>
+        <h1>Hello World</h1>
+        <button onclick="closedialog()">关闭</button>
+    </dialog>
+
+    <script type="text/javascript">
+        function openDialog() {
+            var dialogElem = document.getElementById("dialog");
+            dialogElem.setAttribute("open", true);
+        }
+
+        function closedialog() {
+            var dialogElem = document.getElementById("dialog");
+            dialogElem.removeAttribute("open");
+        }
+    </script>
+</body>
+
+</html>
