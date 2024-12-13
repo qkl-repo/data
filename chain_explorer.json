@@ -1509,7 +1509,12 @@
 	"url":"https://explorer.zircuit.com/",
 	"url2":[],
 	"remark":"Zircuit主网"
+     },{
+       "chain":"Skale",
+	"url":"https://elated-tan-skat.explorer.mainnet.skalenodes.com/txs",
+	"url2":[],
+	"remark":"Skale主网"
      }
   ],
-  "version": "20241128"
+  "version": "20241213"
 }
