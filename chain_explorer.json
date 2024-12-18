@@ -1518,7 +1518,12 @@
       "url": "https://elated-tan-skat.explorer.mainnet.skalenodes.com/txs",
       "url2": [],
       "remark": "Skale主网"
+    },{
+	"chain":"XION",
+ 	"url":"https://explorer.burnt.com/xion-mainnet-1/tx/",
+	"url2":[],
+	"remark":"Xion主网"
     }
   ],
-  "version": "20241213"
+  "version": "20241218"
 }
