@@ -1,6 +1,5 @@
 {
-  "listData": [
-    {
+  "listData": [{
       "chain": "ETH(ERC20)",
       "url": "https://www.oklink.com/zh-cn/eth/",
       "url2": [
@@ -361,8 +360,10 @@
     },
     {
       "chain": "ALGORAND",
-      "url": "https://explorer.bitquery.io/algorand",
+      "url": "https://allo.info/",
       "url2": [
+        "https://explorer.perawallet.app/",
+
         "https://algoexplorer.io/",
         "https://algoscan.app/"
       ],
@@ -1518,12 +1519,23 @@
       "url": "https://elated-tan-skat.explorer.mainnet.skalenodes.com/txs",
       "url2": [],
       "remark": "Skale主网"
-    },{
-	"chain":"XION",
- 	"url":"https://explorer.burnt.com/xion-mainnet-1/tx/",
-	"url2":[],
-	"remark":"Xion主网"
+    },
+    {
+      "chain": "XION",
+      "url": "https://explorer.burnt.com/xion-mainnet-1/tx/",
+      "url2": [],
+      "remark": "Xion主网"
+    }, {
+      "chain": "Sonic",
+      "url": "https://sonicscan.org/",
+      "url2": [],
+      "remark": "Sonic主网"
+    }, {
+      "chain": "Hype",
+      "url": "https://app.hyperliquid.xyz/vaults",
+      "url2": ["https://dune.com/kouei/hyperliquid-usdc-deposit"],
+      "remark": "Hype"
     }
   ],
-  "version": "20241218"
+  "version": "20241225"
 }
