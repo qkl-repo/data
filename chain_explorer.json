@@ -945,7 +945,7 @@
       "remark": "evm系列"
     },
     {
-      "chain": "TOLS(Telos)",
+      "chain": "TLOS(Telos)",
       "url": "https://www.teloscan.io/",
       "url2": [],
       "remark": "evm系列"
@@ -1143,12 +1143,6 @@
     {
       "chain": "TRUE",
       "url": "https://www.truescan.network/",
-      "url2": [],
-      "remark": ""
-    },
-    {
-      "chain": "TELOS/TLOS",
-      "url": "https://www.teloscan.io/",
       "url2": [],
       "remark": ""
     },
@@ -1476,12 +1470,6 @@
       "remark": "evm"
     },
     {
-      "chain": "TELO",
-      "url": "https://www.teloscan.io/",
-      "url2": [],
-      "remark": ""
-    },
-    {
       "chain": "ALEO",
       "url": "https://aleoscan.io/",
       "url2": [
@@ -1532,10 +1520,16 @@
       "remark": "Sonic主网"
     }, {
       "chain": "Hype",
-      "url": "https://app.hyperliquid.xyz/vaults",
-      "url2": ["https://dune.com/kouei/hyperliquid-usdc-deposit"],
+      "url": "https://app.hyperliquid.xyz/explorer/",
+      "url2": ["https://app.hyperliquid.xyz/vaults", "https://dune.com/kouei/hyperliquid-usdc-deposit"],
       "remark": "Hype"
+    }, {
+      "chain": "CFX(conflux)",
+      "url": "https://evm.confluxscan.io/",
+      "url2": ["https://confluxscan.net/"],
+      "remark": ""
+
     }
   ],
-  "version": "20241225"
+  "version": "20250106"
 }
