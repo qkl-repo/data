@@ -1965,7 +1965,14 @@
         "https://www.oklink.com/zh-hans/bob"
       ],
       "remark": ""
+    }, {
+      "chain": "XTER(Xterio)",
+      "url": [
+        "https://bnb.xterscan.io/"
+      ],
+      "url2": [],
+      "remark": "evm, <br />Xterio Chain(ETH) Bridge: https://eth-bridge.xter.io/ <br /> Xterio Chain(BNB) Bridge: https://bnb-bridge.xter.io/"
     }
   ],
-  "version": "20250107"
+  "version": "20250107-2"
 }
