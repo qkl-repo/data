@@ -1,31 +1,36 @@
 {
   "listData": [{
       "chain": "ETH(ERC20)",
-      "url": "https://www.oklink.com/zh-cn/eth/",
-      "url2": [
+      "url": [
         "https://etherscan.io/",
+        "https://www.oklink.com/zh-cn/eth/"
+      ],
+      "url2": [
         "https://ethblockexplorer.org/",
         "https://block.info/explorer/eth/",
         "https://blockchair.com/zh/ethereum",
-        "https://ethplorer.io/zh/",
-        "https://etherscan.io/"
+        "https://ethplorer.io/zh/"
       ],
       "remark": "evm系列"
     },
     {
       "chain": "TRON(TRX,TRC20)",
-      "url": "https://tronscan.org/#/",
+      "url": [
+        "https://tronscan.org/#/",
+        "https://www.oklink.com/zh-cn/trx/"
+      ],
       "url2": [
-        "https://www.oklink.com/zh-cn/trx/",
         "https://tronscan.io/#/"
       ],
-      "remark": ""
+      "remark": "TRON网络"
     },
     {
       "chain": "BSC(BEP20)",
-      "url": "https://bscscan.com/",
+      "url": [
+        "https://bscscan.com/",
+        "https://www.oklink.com/zh-cn/bsc/"
+      ],
       "url2": [
-        "https://www.oklink.com/zh-cn/bsc/",
         "https://block.info/explorer/bsc",
         "https://blockchair.com/zh/bnb",
         "https://bsctrace.com/"
@@ -34,21 +39,27 @@
     },
     {
       "chain": "HECO(HRC20)",
-      "url": "https://hecoscan.io/#",
+      "url": [
+        "https://hecoscan.io/#"
+      ],
       "url2": [],
       "remark": "evm系列"
     },
     {
       "chain": "EVM",
-      "url": "https://blockscan.com/",
+      "url": [
+        "https://blockscan.com/"
+      ],
       "url2": [],
       "remark": "需要科学访问,支持搜索eth,bsc,ftm,op,arbitrum,avax-c,movr等EVM网络交易"
     },
     {
       "chain": "XRP",
-      "url": "https://xrpscan.com/",
+      "url": [
+        "https://xrpscan.com/",
+        "https://xrplexplorer.com/explorer/"
+      ],
       "url2": [
-        "https://xrplexplorer.com/explorer/",
         "https://blockexplorer.one/xrp/mainnet",
         "https://livenet.xrpl.org/",
         "https://bithomp.com/explorer/",
@@ -58,7 +69,9 @@
     },
     {
       "chain": "XLM",
-      "url": "https://steexp.com",
+      "url": [
+        "https://steexp.com"
+      ],
       "url2": [
         "https://stellarscan.io/",
         "https://lumenscan.io/",
@@ -70,7 +83,9 @@
     },
     {
       "chain": "FIL",
-      "url": "https://filscan.io/",
+      "url": [
+        "https://filscan.io/"
+      ],
       "url2": [
         "https://filfox.info/zh"
       ],
@@ -78,25 +93,33 @@
     },
     {
       "chain": "BNB",
-      "url": "https://explorer.bnbchain.org/",
+      "url": [
+        "https://explorer.bnbchain.org/"
+      ],
       "url2": [],
       "remark": ""
     },
     {
       "chain": "STX",
-      "url": "https://explorer.stacks.co/?chain=mainnet",
+      "url": [
+        "https://explorer.stacks.co/?chain=mainnet"
+      ],
       "url2": [],
       "remark": ""
     },
     {
       "chain": "STM",
-      "url": "https://graph.labs.stream/#/",
+      "url": [
+        "https://graph.labs.stream/#/"
+      ],
       "url2": [],
       "remark": ""
     },
     {
       "chain": "DOT",
-      "url": "https://polkadot.subscan.io/",
+      "url": [
+        "https://polkadot.subscan.io/"
+      ],
       "url2": [
         "https://www.statescan.io/#/",
         "https://explorer.polkascan.io/polkadot/transaction"
@@ -105,7 +128,9 @@
     },
     {
       "chain": "KSM",
-      "url": "https://kusama.subscan.io/",
+      "url": [
+        "https://kusama.subscan.io/"
+      ],
       "url2": [
         "https://kusama.statescan.io/",
         "https://explorer.polkascan.io/kusama/transaction"
@@ -114,13 +139,17 @@
     },
     {
       "chain": "FIS",
-      "url": "https://stafi.subscan.io/",
+      "url": [
+        "https://stafi.subscan.io/"
+      ],
       "url2": [],
       "remark": "波卡系列"
     },
     {
       "chain": "EDG",
-      "url": "http://edgscan.ink/",
+      "url": [
+        "http://edgscan.ink/"
+      ],
       "url2": [
         "https://edgscan.live/",
         "余额查询: https://sub.id/"
@@ -129,13 +158,17 @@
     },
     {
       "chain": "DOCK",
-      "url": "https://dock.subscan.io/",
+      "url": [
+        "https://dock.subscan.io/"
+      ],
       "url2": [],
       "remark": "波卡系列"
     },
     {
       "chain": "PCX",
-      "url": "https://scan.chainx.org/",
+      "url": [
+        "https://scan.chainx.org/"
+      ],
       "url2": [
         "https://chainx.subscan.io/",
         "https://evm.chainx.org/"
@@ -144,7 +177,9 @@
     },
     {
       "chain": "ACA",
-      "url": "https://acala.subscan.io/",
+      "url": [
+        "https://acala.subscan.io/"
+      ],
       "url2": [
         "https://explorer.polkascan.io/acala"
       ],
@@ -152,7 +187,9 @@
     },
     {
       "chain": "ASTR",
-      "url": "https://astar.subscan.io/",
+      "url": [
+        "https://astar.subscan.io/"
+      ],
       "url2": [
         "https://explorer.polkascan.io/astar"
       ],
@@ -160,7 +197,9 @@
     },
     {
       "chain": "SDN",
-      "url": "https://shiden.subscan.io/",
+      "url": [
+        "https://shiden.subscan.io/"
+      ],
       "url2": [
         "https://explorer.polkascan.io/shiden"
       ],
@@ -168,7 +207,9 @@
     },
     {
       "chain": "XX",
-      "url": "https://explorer.xx.network/",
+      "url": [
+        "https://explorer.xx.network/"
+      ],
       "url2": [
         "https://xxscan.io/"
       ],
@@ -176,7 +217,9 @@
     },
     {
       "chain": "EOS",
-      "url": "https://bloks.io/",
+      "url": [
+        "https://bloks.io/"
+      ],
       "url2": [
         "https://www.eosx.io/",
         "https://eosflare.io/",
@@ -186,7 +229,9 @@
     },
     {
       "chain": "IOST",
-      "url": "https://www.iostabc.com/",
+      "url": [
+        "https://www.iostabc.com/"
+      ],
       "url2": [
         "https://explorer.iost.io/"
       ],
@@ -194,13 +239,17 @@
     },
     {
       "chain": "VSYS",
-      "url": "https://explorer.v.systems/",
+      "url": [
+        "https://explorer.v.systems/"
+      ],
       "url2": [],
       "remark": ""
     },
     {
       "chain": "VET",
-      "url": "https://explore.vechain.org/",
+      "url": [
+        "https://explore.vechain.org/"
+      ],
       "url2": [
         "https://insight.vecha.in/#/main/",
         "https://vechainstats.com/"
@@ -209,13 +258,17 @@
     },
     {
       "chain": "THETA",
-      "url": "https://explorer.thetatoken.org/",
+      "url": [
+        "https://explorer.thetatoken.org/"
+      ],
       "url2": [],
       "remark": "Theta,Tfuel"
     },
     {
       "chain": "NEO Legacy(N2)",
-      "url": "https://neoscan.io/",
+      "url": [
+        "https://neoscan.io/"
+      ],
       "url2": [
         "https://neo2.neotube.io/home",
         "https://explorer.onegate.space/homepage"
@@ -224,7 +277,9 @@
     },
     {
       "chain": "NEO Legacy/NEO N3",
-      "url": "https://dora.coz.io/",
+      "url": [
+        "https://dora.coz.io/"
+      ],
       "url2": [
         "https://neo3.neotube.io/home"
       ],
@@ -232,13 +287,17 @@
     },
     {
       "chain": "SWTC",
-      "url": "https://state.jingtum.com/#/",
+      "url": [
+        "https://state.jingtum.com/#/"
+      ],
       "url2": [],
       "remark": ""
     },
     {
       "chain": "SERO",
-      "url": "https://explorer.sero.cash/index.html",
+      "url": [
+        "https://explorer.sero.cash/index.html"
+      ],
       "url2": [
         "https://explorer.web.sero.cash/index.html"
       ],
@@ -246,7 +305,9 @@
     },
     {
       "chain": "XMR",
-      "url": "https://localmonero.co/blocks",
+      "url": [
+        "https://localmonero.co/blocks"
+      ],
       "url2": [
         "https://www.exploremonero.com/queue",
         "https://blockchair.com/monero"
@@ -255,13 +316,17 @@
     },
     {
       "chain": "XIF",
-      "url": "https://scanner.xinfinity.io/",
+      "url": [
+        "https://scanner.xinfinity.io/"
+      ],
       "url2": [],
       "remark": ""
     },
     {
       "chain": "ONT/ONG",
-      "url": "https://explorer.ont.io/",
+      "url": [
+        "https://explorer.ont.io/"
+      ],
       "url2": [
         "https://ontblockexplorer.com/"
       ],
@@ -269,55 +334,73 @@
     },
     {
       "chain": "WICC",
-      "url": "https://www.waykiscan.net/",
+      "url": [
+        "https://www.waykiscan.net/"
+      ],
       "url2": [],
       "remark": "https://www.waykiscan.com/已废弃"
     },
     {
       "chain": "SDA",
-      "url": "https://holographic.sdchain.io/",
+      "url": [
+        "https://holographic.sdchain.io/"
+      ],
       "url2": [],
       "remark": ""
     },
     {
       "chain": "SC",
-      "url": "https://siastats.info/",
+      "url": [
+        "https://siastats.info/"
+      ],
       "url2": [],
       "remark": ""
     },
     {
       "chain": "PCHAIN",
-      "url": "https://piscan.pchain.org/index.html",
+      "url": [
+        "https://piscan.pchain.org/index.html"
+      ],
       "url2": [],
       "remark": ""
     },
     {
       "chain": "DNA",
-      "url": "https://explorer.mvsdna.com/#/",
+      "url": [
+        "https://explorer.mvsdna.com/#/"
+      ],
       "url2": [],
       "remark": ""
     },
     {
       "chain": "MOAC",
-      "url": "https://explorer.moac.io/home",
+      "url": [
+        "https://explorer.moac.io/home"
+      ],
       "url2": [],
       "remark": "evm系列"
     },
     {
       "chain": "CTXC",
-      "url": "https://cerebro.cortexlabs.ai/",
+      "url": [
+        "https://cerebro.cortexlabs.ai/"
+      ],
       "url2": [],
       "remark": "evm系列"
     },
     {
       "chain": "CKB",
-      "url": "https://explorer.nervos.org/",
+      "url": [
+        "https://explorer.nervos.org/"
+      ],
       "url2": [],
       "remark": ""
     },
     {
       "chain": "BEAM",
-      "url": "https://explorer.beam.mw/",
+      "url": [
+        "https://explorer.beam.mw/"
+      ],
       "url2": [
         "https://explorer.beamprivacy.community/"
       ],
@@ -325,7 +408,9 @@
     },
     {
       "chain": "AVAX-X",
-      "url": "https://subnets.avax.network/x-chain",
+      "url": [
+        "https://subnets.avax.network/x-chain"
+      ],
       "url2": [
         "https://avascan.info/blockchain/x/home"
       ],
@@ -333,10 +418,12 @@
     },
     {
       "chain": "AVAX-C",
-      "url": "https://snowtrace.io/",
-      "url2": [
+      "url": [
+        "https://snowtrace.io/",
         "https://www.oklink.com/zh-cn/avax",
-        "https://subnets.avax.network/c-chain",
+        "https://subnets.avax.network/c-chain"
+      ],
+      "url2": [
         "https://snowscan.xyz/",
         "https://avascan.info/blockchain/c/home",
         "https://blockchair.com/zh/avalanche",
@@ -346,7 +433,9 @@
     },
     {
       "chain": "ATOM",
-      "url": "https://www.mintscan.io/cosmos",
+      "url": [
+        "https://www.mintscan.io/cosmos"
+      ],
       "url2": [
         "https://atomscan.com/"
       ],
@@ -354,16 +443,19 @@
     },
     {
       "chain": "ARWEAVE",
-      "url": "https://viewblock.io/arweave",
+      "url": [
+        "https://viewblock.io/arweave"
+      ],
       "url2": [],
       "remark": "AR链"
     },
     {
       "chain": "ALGORAND",
-      "url": "https://allo.info/",
+      "url": [
+        "https://allo.info/"
+      ],
       "url2": [
         "https://explorer.perawallet.app/",
-
         "https://algoexplorer.io/",
         "https://algoscan.app/"
       ],
@@ -371,7 +463,9 @@
     },
     {
       "chain": "AE",
-      "url": "https://www.aeknow.org/",
+      "url": [
+        "https://www.aeknow.org/"
+      ],
       "url2": [
         "https://explorer.aeternity.io/",
         "https://aescan.io/"
@@ -380,7 +474,9 @@
     },
     {
       "chain": "ADA",
-      "url": "https://cardanoscan.io/",
+      "url": [
+        "https://cardanoscan.io/"
+      ],
       "url2": [
         "https://blockchair.com/zh/cardano",
         "https://explorer.cardano.org/en",
@@ -390,7 +486,9 @@
     },
     {
       "chain": " CHIA",
-      "url": "https://xchscan.com/zh",
+      "url": [
+        "https://xchscan.com/zh"
+      ],
       "url2": [
         "https://xch.dwd.com/"
       ],
@@ -398,19 +496,26 @@
     },
     {
       "chain": "LAT Platon",
-      "url": "https://scan.platon.network/",
+      "url": [
+        "https://scan.platon.network/"
+      ],
       "url2": [],
       "remark": "evm系列"
     },
     {
       "chain": "MINA",
-      "url": "https://minaexplorer.com/",
+      "url": [
+        "https://minaexplorer.com/"
+      ],
       "url2": [],
       "remark": ""
     },
     {
       "chain": "POLYGON(MATIC,PRC20)",
-      "url": "https://polygonscan.com/",
+      "url": [
+        "https://polygonscan.com/",
+        "https://www.oklink.com/zh-cn/polygon"
+      ],
       "url2": [
         "https://www.oklink.com/zh-cn/polygon"
       ],
@@ -418,13 +523,18 @@
     },
     {
       "chain": "OKT(OKTC,OKX,OKEX)",
-      "url": "https://www.oklink.com/zh-cn/oktc",
+      "url": [
+        "https://www.oklink.com/zh-cn/oktc"
+      ],
       "url2": [],
       "remark": "evm系列"
     },
     {
       "chain": "BTC",
-      "url": "https://www.oklink.com/zh-cn/btc",
+      "url": [
+        "https://www.oklink.com/zh-cn/btc",
+        "https://mempool.space/zh/"
+      ],
       "url2": [
         "https://bitcoinblockexplorers.com/",
         "https://blockstream.info/",
@@ -439,7 +549,9 @@
     },
     {
       "chain": "LTC",
-      "url": "https://www.oklink.com/zh-cn/ltc",
+      "url": [
+        "https://www.oklink.com/zh-cn/ltc"
+      ],
       "url2": [
         "https://litecoinblockexplorer.net/",
         "https://explorer.viawallet.com/ltc",
@@ -453,7 +565,9 @@
     },
     {
       "chain": "BCH",
-      "url": "https://www.oklink.com/zh-cn/bch",
+      "url": [
+        "https://www.oklink.com/zh-cn/bch"
+      ],
       "url2": [
         "https://bchblockexplorer.com/",
         "https://explorer.viawallet.com/bch",
@@ -469,15 +583,19 @@
     },
     {
       "chain": "ETHW",
-      "url": "https://www.oklink.com/zh-cn/ethw",
+      "url": [
+        "https://www.oklink.com/zh-cn/ethw"
+      ],
       "url2": [],
       "remark": "evm系列"
     },
     {
       "chain": "SOL",
-      "url": "https://solscan.io/",
+      "url": [
+        "https://solscan.io/",
+        "https://www.oklink.com/zh-cn/sol"
+      ],
       "url2": [
-        "https://www.oklink.com/zh-cn/sol",
         "https://solanabeach.io/",
         "https://solana.fm/"
       ],
@@ -485,9 +603,11 @@
     },
     {
       "chain": "OP",
-      "url": "https://optimistic.etherscan.io/",
+      "url": [
+        "https://optimistic.etherscan.io/",
+        "https://www.oklink.com/zh-cn/optimism"
+      ],
       "url2": [
-        "https://www.oklink.com/zh-cn/optimism",
         "https://block.info/explorer/op",
         "https://blockchair.com/zh/optimism"
       ],
@@ -495,9 +615,11 @@
     },
     {
       "chain": "FTM",
-      "url": "https://ftmscan.com/",
+      "url": [
+        "https://ftmscan.com/",
+        "https://www.oklink.com/zh-cn/ftm"
+      ],
       "url2": [
-        "https://www.oklink.com/zh-cn/ftm",
         "https://explorer.fantom.network/",
         "https://blockchair.com/zh/fantom"
       ],
@@ -505,7 +627,9 @@
     },
     {
       "chain": "USDT-OMNI",
-      "url": "https://www.oklink.com/zh-cn/usdt",
+      "url": [
+        "https://www.oklink.com/zh-cn/usdt"
+      ],
       "url2": [
         "https://usdtexplorer.com/",
         "https://block.info/explorer/usdt/",
@@ -515,9 +639,11 @@
     },
     {
       "chain": "ETC",
-      "url": "https://etcblockexplorer.com/",
+      "url": [
+        "https://etcblockexplorer.com/",
+        "https://www.oklink.com/zh-cn/etc/"
+      ],
       "url2": [
-        "https://www.oklink.com/zh-cn/etc/",
         "https://blockchair.com/zh/ethereum-classic",
         "https://blockexplorer.one/ethereum-classic/mainnet"
       ],
@@ -525,9 +651,11 @@
     },
     {
       "chain": "DASH",
-      "url": "https://www.oklink.com/zh-cn/dash",
+      "url": [
+        "https://www.oklink.com/zh-cn/dash",
+        "https://dashblockexplorer.com/"
+      ],
       "url2": [
-        "https://dashblockexplorer.com/",
         "https://explorer.dash.org/insight/",
         "https://blockchair.com/zh/dash",
         "https://block.info/explorer/dash",
@@ -536,7 +664,9 @@
     },
     {
       "chain": "DOGE",
-      "url": "https://dogechain.info/",
+      "url": [
+        "https://dogechain.info/"
+      ],
       "url2": [
         "https://dogeblocks.com/",
         "https://explorer.viawallet.com/doge",
@@ -548,31 +678,41 @@
     },
     {
       "chain": "DCR",
-      "url": "https://dcrdata.decred.org/",
+      "url": [
+        "https://dcrdata.decred.org/"
+      ],
       "url2": [],
       "remark": ""
     },
     {
       "chain": "XEM",
-      "url": "https://explorer.nemtool.com/#/txlist?type=transfer",
+      "url": [
+        "https://explorer.nemtool.com/#/txlist?type=transfer"
+      ],
       "url2": [],
       "remark": ""
     },
     {
       "chain": "BTM",
-      "url": "https://blockmeta.com/",
+      "url": [
+        "https://blockmeta.com/"
+      ],
       "url2": [],
       "remark": ""
     },
     {
       "chain": "ICX",
-      "url": "https://tracker.icon.foundation/",
+      "url": [
+        "https://tracker.icon.foundation/"
+      ],
       "url2": [],
       "remark": ""
     },
     {
       "chain": "ZCASH(ZEC)",
-      "url": "https://zecblockexplorer.com/blocks",
+      "url": [
+        "https://zecblockexplorer.com/blocks"
+      ],
       "url2": [
         "https://explorer.bitquery.io/zh/zcash",
         "https://3xpl.com/zcash/",
@@ -585,34 +725,44 @@
     },
     {
       "chain": "BCHD",
-      "url": "https://explore.cash/",
+      "url": [
+        "https://explore.cash/"
+      ],
       "url2": [],
       "remark": ""
     },
     {
       "chain": "BTG",
-      "url": "https://btgexplorer.com/",
+      "url": [
+        "https://btgexplorer.com/"
+      ],
       "url2": [],
       "remark": ""
     },
     {
       "chain": "BCD",
-      "url": "http://explorer.btcd.io/#/",
+      "url": [
+        "http://explorer.btcd.io/#/"
+      ],
       "url2": [],
       "remark": ""
     },
     {
       "chain": "RVN",
-      "url": "https://blockbook.ravencoin.org/",
+      "url": [
+        "https://blockbook.ravencoin.org/",
+        "https://rvnblockexplorer.com/"
+      ],
       "url2": [
-        "https://rvnblockexplorer.com/",
         "https://ravencoin.network/rvn"
       ],
       "remark": ""
     },
     {
       "chain": "BSV",
-      "url": "https://www.whatsonchain.com/",
+      "url": [
+        "https://www.whatsonchain.com/"
+      ],
       "url2": [
         "https://explorer.viawallet.com/bsv",
         "https://blockchair.com/bitcoin-sv/",
@@ -622,13 +772,17 @@
     },
     {
       "chain": "VTC",
-      "url": "https://vtcblocks.com/",
+      "url": [
+        "https://vtcblocks.com/"
+      ],
       "url2": [],
       "remark": ""
     },
     {
       "chain": "ICP",
-      "url": "https://dashboard.internetcomputer.org/",
+      "url": [
+        "https://dashboard.internetcomputer.org/"
+      ],
       "url2": [
         "https://www.icpexplorer.org/"
       ],
@@ -636,7 +790,9 @@
     },
     {
       "chain": "SMARTBCH",
-      "url": "https://www.smartscan.cash/",
+      "url": [
+        "https://www.smartscan.cash/"
+      ],
       "url2": [
         "https://smartscout.cash/"
       ],
@@ -644,17 +800,22 @@
     },
     {
       "chain": "XDC",
-      "url": "https://explorer.xinfin.network/",
+      "url": [
+        "https://xdcscan.com/",
+        "https://xdcscan.io/"
+      ],
       "url2": [
         "https://xdc.network/",
         "https://observer.xdc.org/",
-        "https://xdcscan.io/"
+        "https://explorer.xinfin.network/"
       ],
       "remark": "evm系列"
     },
     {
       "chain": "POKT",
-      "url": "https://www.poktscan.com/",
+      "url": [
+        "https://www.poktscan.com/"
+      ],
       "url2": [
         "https://pokt.watch/",
         "https://explorer.pokt.network/"
@@ -663,7 +824,9 @@
     },
     {
       "chain": "NEAR",
-      "url": "https://nearblocks.io/zh-cn/",
+      "url": [
+        "https://nearblocks.io/zh-cn/"
+      ],
       "url2": [
         "https://explorer.near.org/"
       ],
@@ -671,7 +834,9 @@
     },
     {
       "chain": "RON",
-      "url": "https://explorer.roninchain.com/",
+      "url": [
+        "https://explorer.roninchain.com/"
+      ],
       "url2": [
         "https://www.oklink.com/cn/ronin"
       ],
@@ -679,7 +844,9 @@
     },
     {
       "chain": "TERRA-LUNA",
-      "url": "https://finder.terra.money/mainnet/",
+      "url": [
+        "https://finder.terra.money/mainnet/"
+      ],
       "url2": [
         "https://atomscan.com/terra2"
       ],
@@ -687,7 +854,9 @@
     },
     {
       "chain": "TERRA-LUNC",
-      "url": "https://finder.terra.money/classic/",
+      "url": [
+        "https://finder.terra.money/classic/"
+      ],
       "url2": [
         "https://atomscan.com/terra"
       ],
@@ -695,7 +864,9 @@
     },
     {
       "chain": "MOVR",
-      "url": "https://moonriver.moonscan.io/",
+      "url": [
+        "https://moonriver.moonscan.io/"
+      ],
       "url2": [
         "https://moonriver.subscan.io/"
       ],
@@ -703,7 +874,9 @@
     },
     {
       "chain": "HC",
-      "url": "https://hc-explorer.h.cash/",
+      "url": [
+        "https://hc-explorer.h.cash/"
+      ],
       "url2": [
         "https://hc.tokenview.io/cn/"
       ],
@@ -711,13 +884,17 @@
     },
     {
       "chain": "QTC",
-      "url": "https://www.qitchain.org/",
+      "url": [
+        "https://www.qitchain.org/"
+      ],
       "url2": [],
       "remark": "utxo钱包"
     },
     {
       "chain": "QTUM",
-      "url": "https://qtum.info/tx/",
+      "url": [
+        "https://qtum.info/tx/"
+      ],
       "url2": [
         "https://qtumblockexplorer.com/",
         "https://qtum.atomicwallet.io/blocks",
@@ -728,7 +905,9 @@
     },
     {
       "chain": "GRIN",
-      "url": "https://grinexplorer.net/",
+      "url": [
+        "https://grinexplorer.net/"
+      ],
       "url2": [
         "https://grinscan.net/",
         "https://grin.blockscan.com/"
@@ -737,118 +916,156 @@
     },
     {
       "chain": "CHZ",
-      "url": "https://explorer.chiliz.com/",
+      "url": [
+        "https://explorer.chiliz.com/"
+      ],
       "url2": [],
       "remark": ""
     },
     {
       "chain": "ARBITRUM",
-      "url": "https://arbiscan.io/",
+      "url": [
+        "https://arbiscan.io/",
+        "https://www.oklink.com/zh-cn/arbitrum"
+      ],
       "url2": [
-        "https://www.oklink.com/zh-cn/arbitrum",
         "https://block.info/explorer/arb"
       ],
       "remark": "evm系列,以太坊二层网络"
     },
     {
       "chain": "AURORA",
-      "url": "https://aurorascan.dev/",
+      "url": [
+        "https://aurorascan.dev/"
+      ],
       "url2": [],
       "remark": "evm系列"
     },
     {
       "chain": "XTZ",
-      "url": "https://tzstats.com/",
+      "url": [
+        "https://tzstats.com/"
+      ],
       "url2": [
         "https://tzkt.io/"
       ]
     },
     {
       "chain": "WAVES",
-      "url": "https://wavesexplorer.com/zh",
+      "url": [
+        "https://wavesexplorer.com/zh"
+      ],
       "url2": [],
       "remark": ""
     },
     {
       "chain": "DCCY",
-      "url": "https://block.dccy.io/transaction/",
+      "url": [
+        "https://block.dccy.io/transaction/"
+      ],
       "url2": [],
       "remark": "目前无法访问"
     },
     {
       "chain": "HTDF",
-      "url": "http://www.htdfscan.com/",
+      "url": [
+        "http://www.htdfscan.com/"
+      ],
       "url2": [],
       "remark": "目前无法访问"
     },
     {
       "chain": "BBC",
-      "url": "https://www.bbcexplorer.com/transaction-detail/",
+      "url": [
+        "https://www.bbcexplorer.com/transaction-detail/"
+      ],
       "url2": [],
       "remark": "目前无法访问"
     },
     {
       "chain": "BTR",
-      "url": "https://www.btrscan.io/search?param=",
+      "url": [
+        "https://www.btrscan.io/search?param="
+      ],
       "url2": [],
       "remark": "目前无法访问"
     },
     {
       "chain": "PLCU",
-      "url": "https://plcultima.info/zh",
+      "url": [
+        "https://plcultima.info/zh"
+      ],
       "url2": [],
       "remark": ""
     },
     {
       "chain": "PLCUC",
-      "url": "https://plcu-classic.info/zh",
+      "url": [
+        "https://plcu-classic.info/zh"
+      ],
       "url2": [],
       "remark": "PLCU经典"
     },
     {
       "chain": "CMP",
-      "url": "https://mainnet.scan.caduceus.foundation/",
+      "url": [
+        "https://mainnet.scan.caduceus.foundation/"
+      ],
       "url2": [],
       "remark": "evm系列"
     },
     {
       "chain": "BASE",
-      "url": "https://base.blockscout.com/",
-      "url2": [
+      "url": [
         "https://basescan.org/",
+        "https://www.oklink.com/zh-hans/base"
+      ],
+      "url2": [
+        "https://base.blockscout.com/",
         "https://blockchair.com/zh/base"
       ],
       "remark": "evm系列,BaseBridge: https://bridge.base.org/deposit"
     },
     {
       "chain": "BCHA",
-      "url": "https://explorer.bitcoinabc.org/",
+      "url": [
+        "https://explorer.bitcoinabc.org/"
+      ],
       "url2": [],
       "remark": ""
     },
     {
       "chain": "HOO",
-      "url": "https://hooscan.com/",
+      "url": [
+        "https://hooscan.com/"
+      ],
       "url2": [],
       "remark": "evm系列"
     },
     {
       "chain": "GATE",
-      "url": "https://gatescan.org/?lang=zh_CN",
+      "url": [
+        "https://gatescan.org/?lang=zh_CN"
+      ],
       "url2": [],
       "remark": "evm系列"
     },
     {
       "chain": "FIO",
-      "url": "https://fio.bloks.io/",
+      "url": [
+        "https://fio.bloks.io/"
+      ],
       "url2": [],
       "remark": "evm系列"
     },
     {
       "chain": "APT(Aptos)",
-      "url": "https://explorer.aptoslabs.com/",
+      "url": [
+        "https://aptoscan.com/",
+        "https://explorer.aptoslabs.com/",
+        "https://www.oklink.com/zh-cn/apt"
+      ],
       "url2": [
-        "https://www.oklink.com/zh-cn/apt",
         "https://apscan.io/",
         "https://tracemove.io/",
         "https://aptoscan.com/",
@@ -858,13 +1075,17 @@
     },
     {
       "chain": "CRO（cronos）",
-      "url": "https://cronoscan.com/",
+      "url": [
+        "https://cronoscan.com/"
+      ],
       "url2": [],
       "remark": "evm系列"
     },
     {
       "chain": "REI",
-      "url": "https://scan.rei.network/",
+      "url": [
+        "https://scan.rei.network/"
+      ],
       "url2": [
         "https://reiscan.com/"
       ],
@@ -872,13 +1093,17 @@
     },
     {
       "chain": "KCC(主币KCS)",
-      "url": "https://explorer.kcc.io/cn",
+      "url": [
+        "https://explorer.kcc.io/cn"
+      ],
       "url2": [],
       "remark": "evm系列，主币币种：KCS"
     },
     {
       "chain": "EVMOS",
-      "url": "https://evm.evmos.org/",
+      "url": [
+        "https://evm.evmos.org/"
+      ],
       "url2": [
         "https://www.mintscan.io/evmos"
       ],
@@ -886,13 +1111,17 @@
     },
     {
       "chain": "FUSE",
-      "url": "https://explorer.fuse.io",
+      "url": [
+        "https://explorer.fuse.io"
+      ],
       "url2": [],
       "remark": "evm系列"
     },
     {
       "chain": "XDAI",
-      "url": "https://gnosisscan.io/",
+      "url": [
+        "https://gnosisscan.io/"
+      ],
       "url2": [
         "https://blockscout.com/xdai/mainnet/"
       ],
@@ -900,13 +1129,17 @@
     },
     {
       "chain": "HARMONY-ONE",
-      "url": "https://explorer.harmony.one/",
+      "url": [
+        "https://explorer.harmony.one/"
+      ],
       "url2": [],
       "remark": ""
     },
     {
       "chain": "GLMR",
-      "url": "https://moonscan.io/",
+      "url": [
+        "https://moonscan.io/"
+      ],
       "url2": [
         "https://moonbeam.subscan.io/"
       ],
@@ -914,7 +1147,9 @@
     },
     {
       "chain": "BTT",
-      "url": "https://bttcscan.com/",
+      "url": [
+        "https://bttcscan.com/"
+      ],
       "url2": [
         "https://scan.bt.io/"
       ],
@@ -922,37 +1157,49 @@
     },
     {
       "chain": "CELO",
-      "url": "https://celoscan.io/",
+      "url": [
+        "https://celoscan.io/"
+      ],
       "url2": [],
       "remark": "evm系列"
     },
     {
       "chain": "CLV",
-      "url": "https://clvscan.com/",
+      "url": [
+        "https://clvscan.com/"
+      ],
       "url2": [],
       "remark": "evm系列"
     },
     {
       "chain": "BOBA",
-      "url": "https://bobascan.com/",
+      "url": [
+        "https://bobascan.com/"
+      ],
       "url2": [],
       "remark": "evm系列"
     },
     {
       "chain": "GLMR",
-      "url": "https://moonbeam.moonscan.io/",
+      "url": [
+        "https://moonbeam.moonscan.io/"
+      ],
       "url2": [],
       "remark": "evm系列"
     },
     {
       "chain": "TLOS(Telos)",
-      "url": "https://www.teloscan.io/",
+      "url": [
+        "https://www.teloscan.io/"
+      ],
       "url2": [],
       "remark": "evm系列"
     },
     {
       "chain": "XEC",
-      "url": "https://explorer.bitcoinabc.org/",
+      "url": [
+        "https://explorer.bitcoinabc.org/"
+      ],
       "url2": [
         "https://explorer.viawallet.com/xec",
         "https://explorer.be.cash/blocks",
@@ -962,7 +1209,9 @@
     },
     {
       "chain": "FCH",
-      "url": "https://freecash.info/index",
+      "url": [
+        "https://freecash.info/index"
+      ],
       "url2": [
         "https://explorer.viawallet.com/fch"
       ],
@@ -970,69 +1219,90 @@
     },
     {
       "chain": "CET",
-      "url": "https://www.coinex.net/?lang=zh_Hans_CN",
+      "url": [
+        "https://www.coinex.net/?lang=zh_Hans_CN"
+      ],
       "url2": [],
       "remark": ""
     },
     {
       "chain": "FON",
-      "url": "https://fonscan.io/",
+      "url": [
+        "https://fonscan.io/"
+      ],
       "url2": [],
       "remark": "evm系列"
     },
     {
       "chain": "MBE",
-      "url": "https://browser.mbechain.com/",
+      "url": [
+        "https://browser.mbechain.com/"
+      ],
       "url2": [],
       "remark": "evm系列"
     },
     {
       "chain": "BTS",
-      "url": "https://bts.ai/",
+      "url": [
+        "https://bts.ai/"
+      ],
       "url2": [],
       "remark": ""
     },
     {
       "chain": "AME",
-      "url": "https://amescan.io/",
+      "url": [
+        "https://amescan.io/"
+      ],
       "url2": [],
       "remark": "evm系列"
     },
     {
       "chain": "CORE",
-      "url": "https://scan.coredao.org/",
+      "url": [
+        "https://scan.coredao.org/"
+      ],
       "url2": [],
       "remark": "evm系列"
     },
     {
       "chain": "WEMIX",
-      "url": "https://explorer.wemix.com/",
+      "url": [
+        "https://explorer.wemix.com/"
+      ],
       "url2": [],
       "remark": "evm系列"
     },
     {
       "chain": "ETHG",
-      "url": "https://www.etherumgold.me/explorer/",
+      "url": [
+        "https://www.etherumgold.me/explorer/"
+      ],
       "url2": [],
       "remark": "evm系列"
     },
     {
       "chain": "ZKSERA(ZkSync Era)",
-      "url": "https://explorer.zksync.io/",
-      "url2": [
+      "url": [
+        "https://explorer.zksync.io/",
         "https://www.oklink.com/cn/zksync"
       ],
+      "url2": [],
       "remark": "evm系列，查询合约信息 https://zksync2-mainnet.zkscan.io/api?module=account&action=tokenlist&address=合约地址"
     },
     {
       "chain": "GDCC",
-      "url": "https://www.gdccscan.io/",
+      "url": [
+        "https://www.gdccscan.io/"
+      ],
       "url2": [],
       "remark": "evm系列"
     },
     {
       "chain": "BRC20",
-      "url": "https://www.oklink.com/zh-cn/btc",
+      "url": [
+        "https://www.oklink.com/zh-cn/btc"
+      ],
       "url2": [
         "https://ordiscan.com/",
         "https://unisat.io/search",
@@ -1043,13 +1313,17 @@
     },
     {
       "chain": "SXP",
-      "url": "https://solarscan.com/",
+      "url": [
+        "https://solarscan.com/"
+      ],
       "url2": [],
       "remark": "evm系列，SXP主链  【ethereum合约】0x8ce9137d39326ad0cd6491fb5cc0cba0e089b6a9 \n【bscscan合约】0x47bead2563dcbf3bf2c9407fea4dc236faba485a \n【solana合约】3CyiEDRehaGufzkpXJitCP5tvh7cNhRqd9rPBxZrgK5z "
     },
     {
       "chain": "SUI",
-      "url": "https://suiexplorer.com/",
+      "url": [
+        "https://suiexplorer.com/"
+      ],
       "url2": [
         "https://www.oklink.com/cn/sui"
       ],
@@ -1057,7 +1331,9 @@
     },
     {
       "chain": "MVC",
-      "url": "https://scan.microvisionchain.com/",
+      "url": [
+        "https://scan.microvisionchain.com/"
+      ],
       "url2": [
         "https://www.mvcscan.com/"
       ],
@@ -1065,49 +1341,65 @@
     },
     {
       "chain": "MXC(zkEVM)",
-      "url": "https://explorer.mxc.com/",
+      "url": [
+        "https://explorer.mxc.com/"
+      ],
       "url2": [],
       "remark": "evm系列,MXC zkEVM explorer"
     },
     {
       "chain": "GODE",
-      "url": "https://explorer.godechain.com/",
+      "url": [
+        "https://explorer.godechain.com/"
+      ],
       "url2": [],
       "remark": ""
     },
     {
       "chain": "KAVA",
-      "url": "https://explorer.kava.io/",
+      "url": [
+        "https://explorer.kava.io/"
+      ],
       "url2": [],
       "remark": "evm系列"
     },
     {
       "chain": "CFX",
-      "url": "https://www.confluxscan.io/",
+      "url": [
+        "https://www.confluxscan.io/"
+      ],
       "url2": [],
       "remark": ""
     },
     {
       "chain": "NULS",
-      "url": "https://nulscan.io/",
+      "url": [
+        "https://nulscan.io/"
+      ],
       "url2": [],
       "remark": "NULS 2.0,第一个块出块时间：2019-09-11 21:44:10"
     },
     {
       "chain": "ASM",
-      "url": "https://explorer.asm.am/",
+      "url": [
+        "https://explorer.asm.am/"
+      ],
       "url2": [],
       "remark": ""
     },
     {
       "chain": "BGH",
-      "url": "https://explorer.bitcoin-classic.org/#/home",
+      "url": [
+        "https://explorer.bitcoin-classic.org/#/home"
+      ],
       "url2": [],
       "remark": "Bitcoin Classic（比特币经典），缩写为BGH"
     },
     {
       "chain": "TON",
-      "url": "https://tonscan.org/",
+      "url": [
+        "https://tonscan.org/"
+      ],
       "url2": [
         "https://tonviewer.com/",
         "https://explorer.tonnft.tools/"
@@ -1116,19 +1408,25 @@
     },
     {
       "chain": "RSK",
-      "url": "https://explorer.rsk.co/",
+      "url": [
+        "https://explorer.rsk.co/"
+      ],
       "url2": [],
       "remark": "evm系列"
     },
     {
       "chain": "EGLD",
-      "url": "https://explorer.multiversx.com/",
+      "url": [
+        "https://explorer.multiversx.com/"
+      ],
       "url2": [],
       "remark": ""
     },
     {
       "chain": "KLAY",
-      "url": "https://scope.klaytn.com/",
+      "url": [
+        "https://scope.klaytn.com/"
+      ],
       "url2": [
         "https://explorer.bitquery.io/zh/klaytn"
       ],
@@ -1136,25 +1434,33 @@
     },
     {
       "chain": "VELAS/VLX",
-      "url": "https://evmexplorer.velas.com/",
+      "url": [
+        "https://evmexplorer.velas.com/"
+      ],
       "url2": [],
       "remark": ""
     },
     {
       "chain": "TRUE",
-      "url": "https://www.truescan.network/",
+      "url": [
+        "https://www.truescan.network/"
+      ],
       "url2": [],
       "remark": ""
     },
     {
       "chain": "CSPR",
-      "url": "https://cspr.live/",
+      "url": [
+        "https://cspr.live/"
+      ],
       "url2": [],
       "remark": ""
     },
     {
       "chain": "UMEE",
-      "url": "https://www.mintscan.io/umee",
+      "url": [
+        "https://www.mintscan.io/umee"
+      ],
       "url2": [
         "https://atomscan.com/umee"
       ],
@@ -1162,55 +1468,73 @@
     },
     {
       "chain": "VS",
-      "url": "https://www.visionscan.org/",
+      "url": [
+        "https://www.visionscan.org/"
+      ],
       "url2": [],
       "remark": ""
     },
     {
       "chain": "BRISE",
-      "url": "https://brisescan.com/",
+      "url": [
+        "https://brisescan.com/"
+      ],
       "url2": [],
       "remark": "BRISR主链（EVM类型）"
     },
     {
       "chain": "CVN",
-      "url": "https://explore.consciousdao.com/",
+      "url": [
+        "https://explore.consciousdao.com/"
+      ],
       "url2": [],
       "remark": "CVN主链(EVM类型)"
     },
     {
       "chain": "AELF",
-      "url": "https://explorer.aelf.io/",
+      "url": [
+        "https://explorer.aelf.io/"
+      ],
       "url2": [],
       "remark": "AELF主链"
     },
     {
       "chain": "SEI",
-      "url": "https://www.seiscan.app/pacific-1",
+      "url": [
+        "https://www.seiscan.app/pacific-1"
+      ],
       "url2": [],
       "remark": "SEI主链"
     },
     {
       "chain": "MAN",
-      "url": "https://explorer.mantle.xyz/",
+      "url": [
+        "https://explorer.mantle.xyz/"
+      ],
       "url2": [],
       "remark": "Mantle主链(EVM类型)"
     },
     {
       "chain": "CFX",
-      "url": "https://evm.confluxscan.net/",
+      "url": [
+        "https://evm.confluxscan.net/"
+      ],
       "url2": [],
       "remark": ""
     },
     {
       "chain": "PancakeSwap",
-      "url": "https://pancakeswap.finance/swap?chainId=1",
+      "url": [
+        "https://pancakeswap.finance/swap?chainId=1"
+      ],
       "url2": [],
       "remark": "ETH/BSC代币兑换"
     },
     {
       "chain": "uniswap",
-      "url": "https://app.uniswap.org/#/swap?chain=mainnet",
+      "url": [
+        "https://app.uniswap.org/#/swap?chain=mainnet"
+      ],
       "url2": [
         "https://h5.bitkeep.biz/swap/?utm_source=bitkeep#/swap"
       ],
@@ -1218,7 +1542,9 @@
     },
     {
       "chain": "AptosSwap",
-      "url": "https://aptoswap.net/",
+      "url": [
+        "https://aptoswap.net/"
+      ],
       "url2": [
         "https://aptos.pancakeswap.finance/swap"
       ],
@@ -1226,61 +1552,81 @@
     },
     {
       "chain": "SunSwap",
-      "url": "https://sunswap.com/?lang=zh-CN#/home",
+      "url": [
+        "https://sunswap.com/?lang=zh-CN#/home"
+      ],
       "url2": [],
       "remark": "TRX代币兑换"
     },
     {
       "chain": "Bitkeep Swap",
-      "url": "https://bitkeep.com/zh/swap",
+      "url": [
+        "https://bitkeep.com/zh/swap"
+      ],
       "url2": [],
       "remark": ""
     },
     {
       "chain": "ChainSwap",
-      "url": "https://exchange.chainswap.com/#/swap",
+      "url": [
+        "https://exchange.chainswap.com/#/swap"
+      ],
       "url2": [],
       "remark": ""
     },
     {
       "chain": "rosswap",
-      "url": "https://rosswap.com/#/swap",
+      "url": [
+        "https://rosswap.com/#/swap"
+      ],
       "url2": [],
       "remark": "Fsc代币兑换"
     },
     {
       "chain": "sushiswap",
-      "url": " https://sushiswap-interface-teamsushi.vercel.app/zh_CN/swap",
+      "url": [
+        " https://sushiswap-interface-teamsushi.vercel.app/zh_CN/swap"
+      ],
       "url2": [],
       "remark": "https://bitkeep.com/zh/swap"
     },
     {
       "chain": "fstswap",
-      "url": "https://app.fstswap.exchange/?utm_source=bitkeep#/swap",
+      "url": [
+        "https://app.fstswap.exchange/?utm_source=bitkeep#/swap"
+      ],
       "url2": [],
       "remark": "https://bitkeep.com/zh/swap"
     },
     {
       "chain": "SyncSwap",
-      "url": "https://syncswap.xyz/swap",
+      "url": [
+        "https://syncswap.xyz/swap"
+      ],
       "url2": [],
       "remark": ""
     },
     {
       "chain": "1Inch",
-      "url": "https://app.1inch.io/#/1/classic/swap/",
+      "url": [
+        "https://app.1inch.io/#/1/classic/swap/"
+      ],
       "url2": [],
       "remark": ""
     },
     {
       "chain": "fxh(非小号)",
-      "url": "https://www.feixiaohao.com/",
+      "url": [
+        "https://www.feixiaohao.com/"
+      ],
       "url2": [],
       "remark": ""
     },
     {
       "chain": "Chainlist",
-      "url": "https://chainlist.org/zh",
+      "url": [
+        "https://chainlist.org/zh"
+      ],
       "url2": [
         "https://chainlist.tokenpocket.pro/?from=extension",
         "https://chainlist.org/zh"
@@ -1289,25 +1635,33 @@
     },
     {
       "chain": "BlockOne",
-      "url": "https://blockexplorer.one/",
+      "url": [
+        "https://blockexplorer.one/"
+      ],
       "url2": [],
       "remark": "支持BTC,ETH,BCH,LTC,DOGE,ETC,BSC,ZCASH,XRP等"
     },
     {
       "chain": "Joseon",
-      "url": "https://www.blockexplorer.com/l/en-US/",
+      "url": [
+        "https://www.blockexplorer.com/l/en-US/"
+      ],
       "url2": [],
       "remark": ""
     },
     {
       "chain": "XPC",
-      "url": "https://explorer.xpchain.co.kr/",
+      "url": [
+        "https://explorer.xpchain.co.kr/"
+      ],
       "url2": [],
       "remark": ""
     },
     {
       "chain": "DNX(Dynex)",
-      "url": "https://blockexplorer.dynexcoin.org/",
+      "url": [
+        "https://blockexplorer.dynexcoin.org/"
+      ],
       "url2": [
         "https://explorer.dynexcoin.org/"
       ],
@@ -1315,19 +1669,25 @@
     },
     {
       "chain": "SMART",
-      "url": "https://smartexplorer.com/",
+      "url": [
+        "https://smartexplorer.com/"
+      ],
       "url2": [],
       "remark": ""
     },
     {
       "chain": "ENJ",
-      "url": "https://enjin.subscan.io/",
+      "url": [
+        "https://enjin.subscan.io/"
+      ],
       "url2": [],
       "remark": ""
     },
     {
       "chain": "DRC20",
-      "url": "https://unielon.com/drc20/",
+      "url": [
+        "https://unielon.com/drc20/"
+      ],
       "url2": [
         "https://drc20.org/tx/",
         "https://www.drc20.xyz/"
@@ -1336,19 +1696,25 @@
     },
     {
       "chain": "INJ",
-      "url": "https://explorer.injective.network/",
+      "url": [
+        "https://explorer.injective.network/"
+      ],
       "url2": [],
       "remark": ""
     },
     {
       "chain": "ZIL(Zilliqa)",
-      "url": "https://viewblock.io/zilliqa",
+      "url": [
+        "https://viewblock.io/zilliqa"
+      ],
       "url2": [],
       "remark": ""
     },
     {
       "chain": "FET",
-      "url": "https://explore.fetch.ai/",
+      "url": [
+        "https://explore.fetch.ai/"
+      ],
       "url2": [
         "https://atomscan.com/fetchai"
       ],
@@ -1356,7 +1722,9 @@
     },
     {
       "chain": "opBNB",
-      "url": "https://opbnbscan.com/",
+      "url": [
+        "https://opbnbscan.com/"
+      ],
       "url2": [
         "https://blockchair.com/zh/opbnb",
         "https://www.oklink.com/cn/opbnb"
@@ -1365,7 +1733,9 @@
     },
     {
       "chain": "MNT",
-      "url": "https://explorer.mantle.xyz/",
+      "url": [
+        "https://explorer.mantle.xyz/"
+      ],
       "url2": [
         "https://mantlescan.info/"
       ],
@@ -1373,7 +1743,9 @@
     },
     {
       "chain": "XVG",
-      "url": "https://verge-blockchain.info/",
+      "url": [
+        "https://verge-blockchain.info/"
+      ],
       "url2": [
         "https://xvgblockexplorer.com/"
       ],
@@ -1381,7 +1753,9 @@
     },
     {
       "chain": "STARK",
-      "url": "https://starkscan.co/",
+      "url": [
+        "https://starkscan.co/"
+      ],
       "url2": [
         "https://www.oklink.com/cn/starknet",
         "https://viewblock.io/starknet",
@@ -1391,37 +1765,49 @@
     },
     {
       "chain": "Swap SwftCoin",
-      "url": "https://swap.swftcoin.com/swft-v3/swft-v3-pc/index.html",
+      "url": [
+        "https://swap.swftcoin.com/swft-v3/swft-v3-pc/index.html"
+      ],
       "url2": [],
       "remark": ""
     },
     {
       "chain": "Defi Swft",
-      "url": "https://defi.swft.pro/#/?sourceFlag=widget-defi",
+      "url": [
+        "https://defi.swft.pro/#/?sourceFlag=widget-defi"
+      ],
       "url2": [],
       "remark": ""
     },
     {
       "chain": "GateToken GT",
-      "url": "https://gatescan.org/?lang=zh_CN",
+      "url": [
+        "https://gatescan.org/?lang=zh_CN"
+      ],
       "url2": [],
       "remark": ""
     },
     {
       "chain": "Merlin",
-      "url": "https://scan.merlinchain.io/",
+      "url": [
+        "https://scan.merlinchain.io/"
+      ],
       "url2": [],
       "remark": ""
     },
     {
       "chain": "KAS(Kaspa)",
-      "url": "https://explorer.kaspa.org/",
+      "url": [
+        "https://explorer.kaspa.org/"
+      ],
       "url2": [],
       "remark": ""
     },
     {
       "chain": "VENOM",
-      "url": "https://venomscan.com/",
+      "url": [
+        "https://venomscan.com/"
+      ],
       "url2": [
         "https://venomscan.live/transactions"
       ],
@@ -1429,19 +1815,25 @@
     },
     {
       "chain": "ENJ",
-      "url": "https://enjin.subscan.io/extrinsic",
+      "url": [
+        "https://enjin.subscan.io/extrinsic"
+      ],
       "url2": [],
       "remark": "ENJ波卡"
     },
     {
       "chain": "Celenium(TIA)",
-      "url": "https://celenium.io/",
+      "url": [
+        "https://celenium.io/"
+      ],
       "url2": [],
       "remark": "Celenium(TIA)"
     },
     {
       "chain": "ZETA",
-      "url": "https://explorer.zetachain.com/",
+      "url": [
+        "https://explorer.zetachain.com/"
+      ],
       "url2": [
         "https://zetachain.explorers.guru/"
       ],
@@ -1449,7 +1841,9 @@
     },
     {
       "chain": "TAIKO",
-      "url": "https://taikoscan.io/",
+      "url": [
+        "https://taikoscan.io/"
+      ],
       "url2": [
         "https://taikoexplorer.com/"
       ],
@@ -1457,13 +1851,17 @@
     },
     {
       "chain": "LUMIA",
-      "url": "https://explorer.lumia.org/",
+      "url": [
+        "https://explorer.lumia.org/"
+      ],
       "url2": [],
       "remark": "EVM.跨链换币：https://www.usenexus.org/"
     },
     {
       "chain": "Scroll",
-      "url": "https://www.oklink.com/zh-hans/scroll",
+      "url": [
+        "https://www.oklink.com/zh-hans/scroll"
+      ],
       "url2": [
         "https://scrollscan.com/"
       ],
@@ -1471,7 +1869,9 @@
     },
     {
       "chain": "ALEO",
-      "url": "https://aleoscan.io/",
+      "url": [
+        "https://aleoscan.io/"
+      ],
       "url2": [
         "https://aleo.info/",
         "https://mainnet.aleo123.io/transactions"
@@ -1480,56 +1880,92 @@
     },
     {
       "chain": "DAG",
-      "url": "https://mainnet.dagexplorer.io/",
+      "url": [
+        "https://mainnet.dagexplorer.io/"
+      ],
       "url2": [],
       "remark": ""
     },
     {
       "chain": "PEAQ",
-      "url": "https://peaq.subscan.io/",
+      "url": [
+        "https://peaq.subscan.io/"
+      ],
       "url2": [],
       "remark": ""
     },
     {
       "chain": "World",
-      "url": "https://worldscan.org/",
+      "url": [
+        "https://worldscan.org/"
+      ],
       "url2": [],
       "remark": ""
     },
     {
       "chain": "Zircuit",
-      "url": "https://explorer.zircuit.com/",
+      "url": [
+        "https://explorer.zircuit.com/"
+      ],
       "url2": [],
       "remark": "Zircuit主网"
     },
     {
       "chain": "Skale",
-      "url": "https://elated-tan-skat.explorer.mainnet.skalenodes.com/txs",
+      "url": [
+        "https://elated-tan-skat.explorer.mainnet.skalenodes.com/txs"
+      ],
       "url2": [],
       "remark": "Skale主网"
     },
     {
       "chain": "XION",
-      "url": "https://explorer.burnt.com/xion-mainnet-1/tx/",
+      "url": [
+        "https://explorer.burnt.com/xion-mainnet-1/tx/"
+      ],
       "url2": [],
       "remark": "Xion主网"
-    }, {
+    },
+    {
       "chain": "Sonic",
-      "url": "https://sonicscan.org/",
+      "url": [
+        "https://sonicscan.org/"
+      ],
       "url2": [],
       "remark": "Sonic主网"
-    }, {
+    },
+    {
       "chain": "Hype",
-      "url": "https://app.hyperliquid.xyz/explorer/",
-      "url2": ["https://app.hyperliquid.xyz/vaults", "https://dune.com/kouei/hyperliquid-usdc-deposit"],
+      "url": [
+        "https://app.hyperliquid.xyz/explorer/"
+      ],
+      "url2": [
+        "https://app.hyperliquid.xyz/vaults",
+        "https://dune.com/kouei/hyperliquid-usdc-deposit"
+      ],
       "remark": "Hype"
-    }, {
+    },
+    {
       "chain": "CFX(conflux)",
-      "url": "https://evm.confluxscan.io/",
-      "url2": ["https://confluxscan.net/"],
+      "url": [
+        "https://evm.confluxscan.io/"
+      ],
+      "url2": [
+        "https://confluxscan.net/"
+      ],
       "remark": ""
-
+    },
+    {
+      "chain": "BOB",
+      "url": [
+        "https://explorer.gobob.xyz/",
+        "https: //www.oklink.com/zh-hans/bob"
+      ],
+      "url2": [
+        "https://www.oklink.com/zh-hans/bob"
+      ],
+      "remark": ""
     }
   ],
-  "version": "20250106"
+  "version": "20250107"
 }
