@@ -419,9 +419,9 @@
     {
       "chain": "AVAX-C",
       "url": [
+        "https://subnets.avax.network/c-chain",
         "https://snowtrace.io/",
-        "https://www.oklink.com/zh-cn/avax",
-        "https://subnets.avax.network/c-chain"
+        "https://www.oklink.com/zh-cn/avax"
       ],
       "url2": [
         "https://snowscan.xyz/",
