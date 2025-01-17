@@ -81,5 +81,6 @@
   { "token": "KENJSUYLASHUMfHyy5o4Hp2FdNqZg1AsUPhfH2kYvEP", "symbol": "GRIFFAIN", "decimals": 6 },
   { "token": "61V8vBaqAGMpgDQi4JcAwo1dmBGHsyhzodcPqnEVpump", "symbol": "arc", "decimals": 6 },
   { "token": "SonicxvLud67EceaEzCLRnMTBqzYUUYNr93DBkBdDES", "symbol": "SONIC", "decimals": 9 },
-  { "token": "74SBV4zDXxTRgv1pEMoECskKBkZHc2yGPnc7GYVepump", "symbol": "SWARMS", "decimals": 6 }
+  { "token": "74SBV4zDXxTRgv1pEMoECskKBkZHc2yGPnc7GYVepump", "symbol": "SWARMS", "decimals": 6 },
+  { "token": "GekTNfm84QfyP2GdAHZ5AgACBRd69aNmgA5FDhZupump", "symbol": "GRIFT", "decimals": 6 }
 ]
