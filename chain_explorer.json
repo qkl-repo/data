@@ -1322,7 +1322,8 @@
     {
       "chain": "SUI",
       "url": [
-        "https://suiexplorer.com/"
+        "https://suiexplorer.com/",
+        "https://suivision.xyz/"
       ],
       "url2": [
         "https://www.oklink.com/cn/sui"
@@ -1967,5 +1968,5 @@
       "remark": ""
     }
   ],
-  "version": "20250107"
+  "version": "20250122"
 }
