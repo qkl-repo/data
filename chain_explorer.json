@@ -419,9 +419,9 @@
     {
       "chain": "AVAX-C",
       "url": [
+        "https://subnets.avax.network/c-chain",
         "https://snowtrace.io/",
-        "https://www.oklink.com/zh-cn/avax",
-        "https://subnets.avax.network/c-chain"
+        "https://www.oklink.com/zh-cn/avax"
       ],
       "url2": [
         "https://snowscan.xyz/",
@@ -1322,7 +1322,8 @@
     {
       "chain": "SUI",
       "url": [
-        "https://suiexplorer.com/"
+        "https://suiexplorer.com/",
+        "https://suivision.xyz/"
       ],
       "url2": [
         "https://www.oklink.com/cn/sui"
@@ -1860,11 +1861,10 @@
     {
       "chain": "Scroll",
       "url": [
+        "https://scrollscan.com/",
         "https://www.oklink.com/zh-hans/scroll"
       ],
-      "url2": [
-        "https://scrollscan.com/"
-      ],
+      "url2": [],
       "remark": "evm"
     },
     {
@@ -1972,6 +1972,11 @@
       ],
       "url2": [],
       "remark": "evm, <br />Xterio Chain(ETH) Bridge: https://eth-bridge.xter.io/ <br /> Xterio Chain(BNB) Bridge: https://bnb-bridge.xter.io/"
+    },{
+	"chain":"ZRC",
+	"url":"https://explorer.zircuit.com/",
+	"url2":[],
+	"remark":""
     }
   ],
   "version": "20250107-2"
