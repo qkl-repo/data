@@ -1,5 +1,6 @@
 {
-  "listData": [{
+  "listData": [
+    {
       "chain": "ETH(ERC20)",
       "url": [
         "https://etherscan.io/",
@@ -1965,19 +1966,52 @@
         "https://www.oklink.com/zh-hans/bob"
       ],
       "remark": ""
-    }, {
+    },
+    {
       "chain": "XTER(Xterio)",
       "url": [
         "https://bnb.xterscan.io/"
       ],
       "url2": [],
       "remark": "evm, <br />Xterio Chain(ETH) Bridge: https://eth-bridge.xter.io/ <br /> Xterio Chain(BNB) Bridge: https://bnb-bridge.xter.io/"
-    },{
-	"chain":"ZRC",
-	"url":"https://explorer.zircuit.com/",
-	"url2":[],
-	"remark":""
+    },
+    {
+      "chain": "ZRC",
+      "url": [
+        "https://explorer.zircuit.com/"
+      ],
+      "url2": [],
+      "remark": ""
+    },
+    {
+      "chain": "ALEO",
+      "url": [
+        "https://aleoscan.io/",
+        "https://aleo.info/"
+      ],
+      "url2": [
+        "https://explorer.provable.com/"
+      ],
+      "remark": ""
+    },
+    {
+      "chain": "TIA",
+      "url": [
+        "https://celestia.explorers.guru/"
+      ],
+      "url2": [
+        "https://www.mintscan.io/celestia/"
+      ],
+      "remark": ""
+    },
+    {
+      "chain": "BERA",
+      "url": [
+        "https://berascan.com/"
+      ],
+      "url2": [],
+      "remark": ""
     }
   ],
-  "version": "20250107-2"
+  "version": "20250224"
 }
