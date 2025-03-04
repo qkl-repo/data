@@ -2011,7 +2011,12 @@
       ],
       "url2": [],
       "remark": ""
+    },{
+	"chain":"ERN",
+	"url":["https://ernscan.io/"],
+	"url2":[],
+	"remark":""
     }
   ],
-  "version": "20250224"
+  "version": "20250304-1"
 }
