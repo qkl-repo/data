@@ -2016,7 +2016,12 @@
 	"url":["https://ernscan.io/"],
 	"url2":[],
 	"remark":""
+    },{
+	"chain":"MINT",
+	"url":["https://explorer.mintchain.io/"],
+	"url2":[],
+	"remark":""
     }
   ],
-  "version": "20250304-1"
+  "version": "20250305"
 }
