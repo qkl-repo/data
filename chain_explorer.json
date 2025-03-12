@@ -886,15 +886,15 @@
     {
       "chain": "QTC",
       "url": [
-        "https://www.qitchain.org/"
+        "https://www.qitcoin.io/"
       ],
-      "url2": [],
-      "remark": "utxo钱包"
+      "url2": ["https://www.qitchain.org/#目前不可用" ],
+      "remark": "utxo钱包, "
     },
     {
       "chain": "QTUM",
       "url": [
-        "https://qtum.info/tx/"
+        "https://www.qitchain.org/ 目前不可用"
       ],
       "url2": [
         "https://qtumblockexplorer.com/",
