@@ -4,7 +4,8 @@
       "chain": "ETH(ERC20)",
       "url": [
         "https://etherscan.io/",
-        "https://www.oklink.com/zh-cn/eth/"
+        "https://www.oklink.com/zh-cn/eth/",
+	      "https://www.okx.com/zh-hans/web3/explorer/eth",
       ],
       "url2": [
         "https://ethblockexplorer.org/",
@@ -18,7 +19,8 @@
       "chain": "TRON(TRX,TRC20)",
       "url": [
         "https://tronscan.org/#/",
-        "https://www.oklink.com/zh-cn/trx/"
+        "https://www.oklink.com/zh-cn/trx/",
+	      "https://www.okx.com/zh-hans/web3/explorer/trx"
       ],
       "url2": [
         "https://tronscan.io/#/"
@@ -29,7 +31,8 @@
       "chain": "BSC(BEP20)",
       "url": [
         "https://bscscan.com/",
-        "https://www.oklink.com/zh-cn/bsc/"
+        "https://www.oklink.com/zh-cn/bsc/",
+	      "https://www.okx.com/zh-hans/web3/explorer/bsc"
       ],
       "url2": [
         "https://block.info/explorer/bsc",
@@ -422,7 +425,8 @@
       "url": [
         "https://subnets.avax.network/c-chain",
         "https://snowtrace.io/",
-        "https://www.oklink.com/zh-cn/avax"
+        "https://www.oklink.com/zh-cn/avax",
+	      "https://www.okx.com/zh-hans/web3/explorer/avax"
       ],
       "url2": [
         "https://snowscan.xyz/",
@@ -525,7 +529,8 @@
     {
       "chain": "OKT(OKTC,OKX,OKEX)",
       "url": [
-        "https://www.oklink.com/zh-cn/oktc"
+        "https://www.oklink.com/zh-cn/oktc",
+	      "https://www.okx.com/zh-hans/web3/explorer/oktc"
       ],
       "url2": [],
       "remark": "evm系列"
@@ -534,6 +539,7 @@
       "chain": "BTC",
       "url": [
         "https://www.oklink.com/zh-cn/btc",
+	      "https://www.okx.com/zh-hans/web3/explorer/btc",
         "https://mempool.space/zh/"
       ],
       "url2": [
@@ -551,7 +557,8 @@
     {
       "chain": "LTC",
       "url": [
-        "https://www.oklink.com/zh-cn/ltc"
+        "https://www.oklink.com/zh-cn/ltc",
+	      "https://www.okx.com/zh-hans/web3/explorer/ltc"
       ],
       "url2": [
         "https://litecoinblockexplorer.net/",
@@ -567,7 +574,8 @@
     {
       "chain": "BCH",
       "url": [
-        "https://www.oklink.com/zh-cn/bch"
+        "https://www.oklink.com/zh-cn/bch",
+	      "https://www.okx.com/zh-hans/web3/explorer/bch"
       ],
       "url2": [
         "https://bchblockexplorer.com/",
@@ -594,7 +602,8 @@
       "chain": "SOL",
       "url": [
         "https://solscan.io/",
-        "https://www.oklink.com/zh-cn/sol"
+        "https://www.oklink.com/zh-cn/sol",
+	      "https://www.okx.com/zh-hans/web3/explorer/sol"
       ],
       "url2": [
         "https://solanabeach.io/",
@@ -606,7 +615,8 @@
       "chain": "OP",
       "url": [
         "https://optimistic.etherscan.io/",
-        "https://www.oklink.com/zh-cn/optimism"
+        "https://www.oklink.com/zh-cn/optimism",
+	      "https://www.okx.com/zh-hans/web3/explorer/optimism"
       ],
       "url2": [
         "https://block.info/explorer/op",
@@ -618,7 +628,8 @@
       "chain": "FTM",
       "url": [
         "https://ftmscan.com/",
-        "https://www.oklink.com/zh-cn/ftm"
+        "https://www.oklink.com/zh-cn/ftm",
+	"https://www.okx.com/zh-hans/web3/explorer/ftm"
       ],
       "url2": [
         "https://explorer.fantom.network/",
@@ -642,7 +653,8 @@
       "chain": "ETC",
       "url": [
         "https://etcblockexplorer.com/",
-        "https://www.oklink.com/zh-cn/etc/"
+        "https://www.oklink.com/zh-cn/etc/",
+	      "https://www.okx.com/zh-hans/web3/explorer/etc"
       ],
       "url2": [
         "https://blockchair.com/zh/ethereum-classic",
@@ -654,6 +666,7 @@
       "chain": "DASH",
       "url": [
         "https://www.oklink.com/zh-cn/dash",
+	      "https://www.okx.com/zh-hans/web3/explorer/dash",
         "https://dashblockexplorer.com/"
       ],
       "url2": [
@@ -836,10 +849,12 @@
     {
       "chain": "RON",
       "url": [
-        "https://explorer.roninchain.com/"
+        "https://explorer.roninchain.com/",
+	      "https://www.oklink.com/cn/ronin"
       ],
       "url2": [
-        "https://www.oklink.com/cn/ronin"
+        
+	      "https://www.okx.com/zh-hans/web3/explorer/ronin"
       ],
       "remark": "evm系列"
     },
@@ -888,18 +903,20 @@
       "url": [
         "https://www.qitcoin.io/"
       ],
-      "url2": ["https://www.qitchain.org/#目前不可用" ],
+      "url2": [
+	      "https://www.qitchain.org/#目前不可用"
+      ],
       "remark": "utxo钱包, "
     },
     {
       "chain": "QTUM",
       "url": [
-        "https://www.qitchain.org/ 目前不可用"
+	"https://qtumblockexplorer.com/",
       ],
       "url2": [
-        "https://qtumblockexplorer.com/",
         "https://qtum.atomicwallet.io/blocks",
         "https://blockv3.qtum.info/",
+	      "https://explorer.qtum.org/",
         "https://52.47.192.240/"
       ],
       "remark": "推荐的浏览器需要科学访问"
@@ -927,7 +944,8 @@
       "chain": "ARBITRUM",
       "url": [
         "https://arbiscan.io/",
-        "https://www.oklink.com/zh-cn/arbitrum"
+        "https://www.oklink.com/zh-cn/arbitrum",
+      	"https://www.okx.com/zh-hans/web3/explorer/arbitrum"
       ],
       "url2": [
         "https://block.info/explorer/arb"
@@ -1019,7 +1037,8 @@
       "chain": "BASE",
       "url": [
         "https://basescan.org/",
-        "https://www.oklink.com/zh-hans/base"
+        "https://www.oklink.com/zh-hans/base",
+	      "https://www.okx.com/zh-hans/web3/explorer/base"
       ],
       "url2": [
         "https://base.blockscout.com/",
@@ -1064,7 +1083,8 @@
       "url": [
         "https://aptoscan.com/",
         "https://explorer.aptoslabs.com/",
-        "https://www.oklink.com/zh-cn/apt"
+        "https://www.oklink.com/zh-cn/apt",
+	      "https://www.okx.com/zh-hans/web3/explorer/apt"
       ],
       "url2": [
         "https://apscan.io/",
@@ -1400,10 +1420,11 @@
     {
       "chain": "TON",
       "url": [
-        "https://tonscan.org/"
+        "https://tonviewer.com/",
+        "https://tonscan.org/",
+        "https://www.okx.com/zh-hans/web3/explorer/ton"
       ],
       "url2": [
-        "https://tonviewer.com/",
         "https://explorer.tonnft.tools/"
       ],
       "remark": "地址在线转换:  https://ton.org/address/ "
@@ -1863,7 +1884,8 @@
       "chain": "Scroll",
       "url": [
         "https://scrollscan.com/",
-        "https://www.oklink.com/zh-hans/scroll"
+        "https://www.oklink.com/zh-hans/scroll",
+	"https://www.okx.com/zh-hans/web3/explorer/scroll"
       ],
       "url2": [],
       "remark": "evm"
@@ -2023,5 +2045,5 @@
 	"remark":""
     }
   ],
-  "version": "20250305"
+  "version": "20250313"
 }
