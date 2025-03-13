@@ -911,7 +911,7 @@
     {
       "chain": "QTUM",
       "url": [
-	"https://qtumblockexplorer.com/",
+	"https://qtumblockexplorer.com/"
       ],
       "url2": [
         "https://qtum.atomicwallet.io/blocks",
