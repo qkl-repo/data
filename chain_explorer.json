@@ -5,7 +5,8 @@
       "url": [
         "https://etherscan.io/",
         "https://www.oklink.com/zh-cn/eth/",
-	 "https://www.okx.com/zh-hans/web3/explorer/eth"
+	"https://www.okx.com/zh-hans/web3/explorer/eth",
+	"https://ethscan.org/"
       ],
       "url2": [
         "https://ethblockexplorer.org/",
@@ -310,7 +311,8 @@
     {
       "chain": "XMR",
       "url": [
-        "https://localmonero.co/blocks"
+        "https://localmonero.co/blocks",
+        "https://xmrscan.org/"
       ],
       "url2": [
         "https://www.exploremonero.com/queue",
@@ -539,8 +541,9 @@
       "chain": "BTC",
       "url": [
         "https://www.oklink.com/zh-cn/btc",
-	      "https://www.okx.com/zh-hans/web3/explorer/btc",
-        "https://mempool.space/zh/"
+	"https://www.okx.com/zh-hans/web3/explorer/btc",
+        "https://mempool.space/zh/",
+	"https://btcscan.org/"	      
       ],
       "url2": [
         "https://bitcoinblockexplorers.com/",
@@ -2044,10 +2047,15 @@
 	"url2":[],
 	"remark":""
     },{
-	"chain":"Babylon",
+	"chain":"BABY(BABYLON)",
 	"url":["https://www.mintscan.io/babylon/tx"],
 	"url2":[],
 	"remark":""
+    },{
+	"chain":"TARI",
+    	"url":["https://explore-nextnet.tari.com/"],
+    	"url2":[],
+    	"remark":""
     }
   ],
   "version": "20250410"
