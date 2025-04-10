@@ -2043,7 +2043,12 @@
 	"url":["https://explorer.mintchain.io/"],
 	"url2":[],
 	"remark":""
+    },{
+	"chain":"Babylon",
+	"url":["https://www.mintscan.io/babylon/tx"],
+	"url2":[],
+	"remark":""
     }
   ],
-  "version": "20250313"
+  "version": "20250410"
 }
