@@ -2056,7 +2056,12 @@
     	"url":["https://explore-nextnet.tari.com/"],
     	"url2":[],
     	"remark":""
+    },{
+    	"chain":"IP",
+    	"url":["https://www.storyscan.io/"],
+    	"url2":[],
+    	"remark":""
     }
   ],
-  "version": "20250410"
+  "version": "20250412"
 }
