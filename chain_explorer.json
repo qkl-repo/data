@@ -2048,7 +2048,10 @@
 	"remark":""
     },{
 	"chain":"BABY(BABYLON)",
-	"url":["https://www.mintscan.io/babylon/tx"],
+	"url":[
+		"https://www.mintscan.io/babylon/tx",
+		"https://babylon.explorers.guru/"
+	],
 	"url2":[],
 	"remark":""
     },{
