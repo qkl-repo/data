@@ -2064,7 +2064,12 @@
     	"url":["https://www.storyscan.io/"],
     	"url2":[],
     	"remark":""
+    },{
+    	"chain":"DYDX",
+    	"url":"https://www.mintscan.io/dydx/tx",
+    	"url2":["https://dydx.explorers.guru/"],
+    	"remark":""
     }
   ],
-  "version": "20250412"
+  "version": "20250417"
 }
