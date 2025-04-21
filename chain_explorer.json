@@ -2043,8 +2043,7 @@
 	"remark":""
     },{
 	"chain":"MINT",
-	"url":["https://explorer.mintchain.io/","https://mintscan.org/",
-],
+	"url":["https://explorer.mintchain.io/","https://mintscan.org/"],
 	"url2":["https://mint.socialscan.io/","https://bridge.mintchain.io/#跨链桥ETH兑换"],
 	"remark":"官网：https://www.mintchain.io/"
     },{
