@@ -2043,9 +2043,10 @@
 	"remark":""
     },{
 	"chain":"MINT",
-	"url":["https://explorer.mintchain.io/"],
-	"url2":[],
-	"remark":""
+	"url":["https://explorer.mintchain.io/","https://mintscan.org/",
+],
+	"url2":["https://mint.socialscan.io/","https://bridge.mintchain.io/#跨链桥ETH兑换"],
+	"remark":"官网：https://www.mintchain.io/"
     },{
 	"chain":"BABY(BABYLON)",
 	"url":[
@@ -2060,8 +2061,8 @@
     	"url2":[],
     	"remark":""
     },{
-    	"chain":"IP",
-    	"url":["https://www.storyscan.io/"],
+    	"chain":"IP(Story)",
+    	"url":["https://www.storyscan.io/","https://www.oklink.com/zh-hans/story"],
     	"url2":[],
     	"remark":""
     },{
