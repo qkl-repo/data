@@ -2079,6 +2079,11 @@
 	    "url":["https://scan.initia.xyz/interwoven-1/"],
 	    "url2":[],
 	    "remark":""
+    },{
+	    "chain":"myweber",
+	    "url":["https://mainnet.myweber.org/"],
+	    "url2":[],
+	    "remark":""
     }
   ],
   "version": "20250507"
