@@ -2071,7 +2071,7 @@
     	"remark":""
     },{
 	    "chain":"SHM",
-	    "url":"https://explorer.shardeum.org/",
+	    "url": ["https://explorer.shardeum.org/"],
 	    "url2":[],
 	    "remark":"evm"
     },{
