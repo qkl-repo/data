@@ -2069,7 +2069,17 @@
     	"url": ["https://www.mintscan.io/dydx/tx"],
     	"url2":["https://dydx.explorers.guru/"],
     	"remark":""
+    },{
+	    "chain":"SHM",
+	    "url":"https://explorer.shardeum.org/",
+	    "url2":[],
+	    "remark":"evm"
+    },{
+	    "chain":"INIT",
+	    "url":["https://scan.initia.xyz/interwoven-1/"],
+	    "url2":[],
+	    "remark":""
     }
   ],
-  "version": "20250417"
+  "version": "20250507"
 }
