@@ -223,11 +223,11 @@
     {
       "chain": "EOS",
       "url": [
-        "https://bloks.io/"
+        "https://eosauthority.com/?network=eos",
+        "https://eosflare.io/"
       ],
       "url2": [
         "https://www.eosx.io/",
-        "https://eosflare.io/",
         "https://blockchair.com/zh/eos"
       ],
       "remark": ""
@@ -2086,5 +2086,5 @@
 	    "remark":""
     }
   ],
-  "version": "20250507"
+  "version": "20250526"
 }
