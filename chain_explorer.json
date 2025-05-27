@@ -2084,7 +2084,12 @@
 	    "url":["https://mainnet.myweber.org/"],
 	    "url2":[],
 	    "remark":""
+    },{
+	    "chain":"Sophon(SOPH)",
+	    "url":["https://explorer.sophon.xyz/"],
+	    "url2":[],
+	    "remark":""
     }
   ],
-  "version": "20250526"
+  "version": "20250527"
 }
