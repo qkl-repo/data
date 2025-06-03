@@ -1970,6 +1970,11 @@
         "https://dune.com/kouei/hyperliquid-usdc-deposit"
       ],
       "remark": "Hype"
+    },{
+	    "chain":"HypeEVM",
+	    "url":["https://purrsec.com/"],
+	    "url2":[],
+	    "remark":""
     },
     {
       "chain": "CFX(conflux)",
@@ -2091,5 +2096,5 @@
 	    "remark":""
     }
   ],
-  "version": "20250527"
+  "version": "20250603"
 }
