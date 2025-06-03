@@ -2094,7 +2094,12 @@
 	    "url":["https://explorer.sophon.xyz/"],
 	    "url2":[],
 	    "remark":""
+    },{
+	    "chain":"Cheq",
+	    "url":["https://explorer.cheqd.io/"],
+	    "url2":[],
+	    "remark":"DOCK置换后的链"
     }
   ],
-  "version": "20250603"
+  "version": "20250603-2"
 }
