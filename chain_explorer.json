@@ -831,11 +831,11 @@
     {
       "chain": "POKT",
       "url": [
-        "https://www.poktscan.com/"
+        "https://explorer.pocket.network/pocket-mainnet"
       ],
       "url2": [
-        "https://pokt.watch/",
-        "https://explorer.pokt.network/"
+	"https://explorer.pokt.network/",
+        "https://pokt.watch/"
       ],
       "remark": ""
     },
