@@ -2092,14 +2092,19 @@
     },{
 	    "chain":"Sophon(SOPH)",
 	    "url":["https://explorer.sophon.xyz/"],
-	    "url2":[],
-	    "remark":""
+	    "url2":["https://sophscan.xyz/"],
+	    "remark":"EVM二层网络"
     },{
 	    "chain":"Cheq",
 	    "url":["https://explorer.cheqd.io/"],
 	    "url2":[],
 	    "remark":"DOCK置换后的链"
-    }
+    },{
+		"chain":"FRAX",
+		"url":"https://fraxscan.com/",
+		"url2":[],
+		"remark":"EVM类型"
+	}
   ],
-  "version": "20250603-2"
+  "version": "20250717"
 }
